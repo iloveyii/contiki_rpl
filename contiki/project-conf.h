@@ -1,0 +1,30 @@
+#undef NETSTACK_CONF_RDC_CHANNEL_CHECK_RATE
+#define NETSTACK_CONF_RDC_CHANNEL_CHECK_RATE 16
+// #define RPL_CONF_DAG_MC RPL_DAG_MC_ENERGY
+
+#undef QUEUEBUF_CONF_NUM
+#define QUEUEBUF_CONF_NUM         4
+
+#undef RPL_CONF_MAX_PARENTS
+#define RPL_CONF_MAX_PARENTS 8
+
+/* Evaluation */
+#undef RPL_CONF_OF
+#define RPL_CONF_OF rpl_of0
+
+// #undef RPL_CONF_DAG_MC
+// #define RPL_CONF_DAG_MC RPL_DAG_MC_ENERGY
+
+// default 12, ietf 3
+#undef RPL_CONF_DIO_INTERVAL_MIN
+#define RPL_CONF_DIO_INTERVAL_MIN 6
+
+// default 8, ietf 20=2.3 hr
+#undef RPL_CONF_DIO_INTERVAL_DOUBLINGS
+#define RPL_CONF_DIO_INTERVAL_DOUBLINGS 14
+
+
+
+
+/* for our own simulations */
+#define CONTROL_TRAFFIC 1

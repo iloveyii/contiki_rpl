@@ -1,0 +1,59 @@
+[13:30:48 - main] [ExecuteJAR.java:145] [INFO] - Unpacking simulation config: simulation.csc -> simulation.csc
+[13:30:48 - main] [ExecuteJAR.java:163] [INFO] - Unpacking external tools config: exttools.config -> exttools.config
+[13:30:48 - main] [ExecuteJAR.java:508] [INFO] - Unpacked file from JAR: udp-sink.sky
+[13:30:48 - main] [ExecuteJAR.java:508] [INFO] - Unpacked file from JAR: udp-sender.sky
+[13:30:48 - main] [ExecuteJAR.java:189] [INFO] - Starting simulation
+[13:30:48 - main] [GUI.java:1156] [INFO] - > Starting COOJA
+[13:30:48 - main] [GUI.java:2660] [INFO] - External tools default settings: /external_tools_linux.config
+[13:30:48 - main] [GUI.java:2690] [INFO] - External tools user settings: cooja_simulation/exttools.config
+[13:30:48 - main] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[13:30:48 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sink.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:49 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/contiki-2.x/examples/my_rpl_metric/3/cooja_simulation/udp-sender.sky
+[13:30:50 - main] [GUI.java:1599] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.SimControl
+[13:30:50 - main] [GUI.java:1599] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.Visualizer
+[13:30:50 - main] [GUI.java:1599] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.LogListener
+[13:30:50 - main] [GUI.java:1599] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.TimeLine
+[13:30:50 - main] [ScriptRunner.java:333] [INFO] - Test script activated
+[13:30:51 - Thread-3] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1319283050767
+[13:31:23 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 5%
+[13:31:43 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 10%
+[13:32:04 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 15%
+[13:32:23 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 20%
+[13:32:39 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 25%
+[13:32:58 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 30%
+[13:33:17 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 35%
+[13:33:38 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 40%
+[13:33:55 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 45%
+[13:34:12 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 50%
+[13:34:31 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 55%
+[13:34:50 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 60%
+[13:35:06 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 65%
+[13:35:22 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 70%
+[13:35:38 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 75%
+[13:35:54 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 80%
+[13:36:09 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 85%
+[13:36:24 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 90%
+[13:36:39 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 95%
+[13:36:53 - Thread-3] [LogScriptEngine.java:449] [INFO] - Timeout event @ 600000000
+[13:36:53 - Thread-2] [LogScriptEngine.java:326] [INFO] - Test script finished
+[13:36:53 - Thread-3] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1319283413743	Duration: 362976 ms	Simulated time 600000 ms	Ratio 1.6530018513620734
+[13:36:54 - AWT-EventQueue-0] [ScriptRunner.java:372] [INFO] - Test script deactivated

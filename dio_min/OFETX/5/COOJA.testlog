@@ -1,0 +1,4189 @@
+Random seed: 123456
+338122:8:Rime started with address 0.18.116.8.0.8.8.8
+349712:8:MAC 00:12:74:08:00:08:08:08 Contiki-2.5-release-5-gb746c19 started. Node id is set to 8.
+360233:8:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+382681:8:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+386523:8:Starting 'UDP client process' 'collect common process'
+389522:8:UDP client process started
+397313:8:Client IPv6 addresses: aaaa::212:7408:8:808
+403511:8:fe80::212:7408:8:808
+410925:8:Created a connection with the server :: local/remote port 8775/5688
+457242:11:Rime started with address 0.18.116.11.0.11.11.11
+469195:11:MAC 00:12:74:0b:00:0b:0b:0b Contiki-2.5-release-5-gb746c19 started. Node id is set to 11.
+479774:11:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+501475:2:Rime started with address 0.18.116.2.0.2.2.2
+502295:11:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+506138:11:Starting 'UDP client process' 'collect common process'
+509071:11:UDP client process started
+513074:2:MAC 00:12:74:02:00:02:02:02 Contiki-2.5-release-5-gb746c19 started. Node id is set to 2.
+516016:6:Rime started with address 0.18.116.6.0.6.6.6
+516804:11:Client IPv6 addresses: aaaa::212:740b:b:b0b
+523011:11:fe80::212:740b:b:b0b
+523627:2:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+527621:6:MAC 00:12:74:06:00:06:06:06 Contiki-2.5-release-5-gb746c19 started. Node id is set to 6.
+530424:11:Created a connection with the server :: local/remote port 8775/5688
+538174:6:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+546077:2:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+549920:2:Starting 'UDP client process' 'collect common process'
+552918:2:UDP client process started
+560622:6:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+560708:2:Client IPv6 addresses: aaaa::212:7402:2:202
+564465:6:Starting 'UDP client process' 'collect common process'
+566907:2:fe80::212:7402:2:202
+567463:6:UDP client process started
+574321:2:Created a connection with the server :: local/remote port 8775/5688
+575256:6:Client IPv6 addresses: aaaa::212:7406:6:606
+581457:6:fe80::212:7406:6:606
+588870:6:Created a connection with the server :: local/remote port 8775/5688
+593287:18:Rime started with address 0.18.116.18.0.18.18.18
+606547:18:MAC 00:12:74:12:00:12:12:12 Contiki-2.5-release-5-gb746c19 started. Node id is set to 18.
+613712:4:Rime started with address 0.18.116.4.0.4.4.4
+617182:18:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+625311:4:MAC 00:12:74:04:00:04:04:04 Contiki-2.5-release-5-gb746c19 started. Node id is set to 4.
+635864:4:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+640960:18:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7412:0012:1212
+644802:18:Starting 'UDP client process' 'collect common process'
+644964:1:Rime started with address 0.18.116.1.0.1.1.1
+647736:18:UDP client process started
+656182:18:Client IPv6 addresses: aaaa::212:7412:12:1212
+656563:1:MAC 00:12:74:01:00:01:01:01 Contiki-2.5-release-5-gb746c19 started. Node id is set to 1.
+658315:4:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+662159:4:Starting 'UDP client process' 'collect common process'
+663040:18:fe80::212:7412:12:1212
+665157:4:UDP client process started
+667116:1:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+667128:7:Rime started with address 0.18.116.7.0.7.7.7
+670387:18:Created a connection with the server :: local/remote port 8775/5688
+672947:4:Client IPv6 addresses: aaaa::212:7404:4:404
+678736:7:MAC 00:12:74:07:00:07:07:07 Contiki-2.5-release-5-gb746c19 started. Node id is set to 7.
+679146:4:fe80::212:7404:4:404
+686559:4:Created a connection with the server :: local/remote port 8775/5688
+689289:7:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+689567:1:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+693411:1:Starting 'UDP server process' 'collect common process'
+694327:1:I am sink!
+695848:1:UDP server started
+698917:1:created a new RPL dag
+700699:1:Server IPv6 addresses: ::
+702924:1:aaaa::1
+709091:1:fe80::212:7401:1:101
+711735:7:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+715579:7:Starting 'UDP client process' 'collect common process'
+716880:14:Rime started with address 0.18.116.14.0.14.14.14
+717433:1:Created a server connection with remote address :: local/remote port 5688/8775
+718577:7:UDP client process started
+726371:7:Client IPv6 addresses: aaaa::212:7407:7:707
+728831:14:MAC 00:12:74:0e:00:0e:0e:0e Contiki-2.5-release-5-gb746c19 started. Node id is set to 14.
+729335:15:Rime started with address 0.18.116.15.0.15.15.15
+732574:7:fe80::212:7407:7:707
+739262:20:Rime started with address 0.18.116.20.0.20.20.20
+739410:14:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+739719:16:Rime started with address 0.18.116.16.0.16.16.16
+739987:7:Created a connection with the server :: local/remote port 8775/5688
+741284:15:MAC 00:12:74:0f:00:0f:0f:0f Contiki-2.5-release-5-gb746c19 started. Node id is set to 15.
+751863:15:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+752522:20:MAC 00:12:74:14:00:14:14:14 Contiki-2.5-release-5-gb746c19 started. Node id is set to 20.
+752975:16:MAC 00:12:74:10:00:10:10:10 Contiki-2.5-release-5-gb746c19 started. Node id is set to 16.
+759087:7:DIO joined dag
+761931:14:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740e:000e:0e0e
+763157:20:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+763610:16:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+765773:14:Starting 'UDP client process' 'collect common process'
+768707:14:UDP client process started
+774383:15:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740f:000f:0f0f
+776439:14:Client IPv6 addresses: aaaa::212:740e:e:e0e
+778226:15:Starting 'UDP client process' 'collect common process'
+779874:2:DIO joined dag
+781160:15:UDP client process started
+782583:7:DIO sent
+782646:14:fe80::212:740e:e:e0e
+786935:20:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7414:0014:1414
+787388:16:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7410:0010:1010
+787900:1:DIO sent
+788894:15:Client IPv6 addresses: aaaa::212:740f:f:f0f
+790060:14:Created a connection with the server :: local/remote port 8775/5688
+790777:20:Starting 'UDP client process' 'collect common process'
+791230:16:Starting 'UDP client process' 'collect common process'
+793711:20:UDP client process started
+794164:16:UDP client process started
+795103:15:fe80::212:740f:f:f0f
+795878:6:DIO joined dag
+802157:20:Client IPv6 addresses: aaaa::212:7414:14:1414
+802517:15:Created a connection with the server :: local/remote port 8775/5688
+802610:16:Client IPv6 addresses: aaaa::212:7410:10:1010
+809015:20:fe80::212:7414:14:1414
+809465:16:fe80::212:7410:10:1010
+811138:6:DIO sent
+816362:20:Created a connection with the server :: local/remote port 8775/5688
+816812:16:Created a connection with the server :: local/remote port 8775/5688
+823263:10:Rime started with address 0.18.116.10.0.10.10.10
+835221:10:MAC 00:12:74:0a:00:0a:0a:0a Contiki-2.5-release-5-gb746c19 started. Node id is set to 10.
+845024:7:DIO sent
+845673:1:DIO sent
+845800:10:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+857952:6:DIO sent
+861118:12:Rime started with address 0.18.116.12.0.12.12.12
+865494:2:DIO sent
+868321:10:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+872164:10:Starting 'UDP client process' 'collect common process'
+873076:12:MAC 00:12:74:0c:00:0c:0c:0c Contiki-2.5-release-5-gb746c19 started. Node id is set to 12.
+875097:10:UDP client process started
+882828:10:Client IPv6 addresses: aaaa::212:740a:a:a0a
+883655:12:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+889032:10:fe80::212:740a:a:a0a
+896446:10:Created a connection with the server :: local/remote port 8775/5688
+906176:12:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740c:000c:0c0c
+910019:12:Starting 'UDP client process' 'collect common process'
+912952:12:UDP client process started
+920683:12:Client IPv6 addresses: aaaa::212:740c:c:c0c
+926887:12:fe80::212:740c:c:c0c
+929373:2:DIO sent
+934301:12:Created a connection with the server :: local/remote port 8775/5688
+951702:6:DIO sent
+962875:1:DIO sent
+973837:9:Rime started with address 0.18.116.9.0.9.9.9
+980470:5:Rime started with address 0.18.116.5.0.5.5.5
+984058:7:DIO sent
+985442:9:MAC 00:12:74:09:00:09:09:09 Contiki-2.5-release-5-gb746c19 started. Node id is set to 9.
+985842:19:Rime started with address 0.18.116.19.0.19.19.19
+987436:11:DIO joined dag
+992068:5:MAC 00:12:74:05:00:05:05:05 Contiki-2.5-release-5-gb746c19 started. Node id is set to 5.
+995995:9:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+999104:19:MAC 00:12:74:13:00:13:13:13 Contiki-2.5-release-5-gb746c19 started. Node id is set to 19.
+1002621:5:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+1009739:19:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+1018443:9:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+1022286:9:Starting 'UDP client process' 'collect common process'
+1025067:5:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+1025284:9:UDP client process started
+1028911:5:Starting 'UDP client process' 'collect common process'
+1031909:5:UDP client process started
+1033077:9:Client IPv6 addresses: aaaa::212:7409:9:909
+1033517:19:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7413:0013:1313
+1037359:19:Starting 'UDP client process' 'collect common process'
+1039278:9:fe80::212:7409:9:909
+1039701:5:Client IPv6 addresses: aaaa::212:7405:5:505
+1040293:19:UDP client process started
+1040584:10:DIO joined dag
+1045902:5:fe80::212:7405:5:505
+1046691:9:Created a connection with the server :: local/remote port 8775/5688
+1048759:19:Client IPv6 addresses: aaaa::212:7413:13:1313
+1053315:5:Created a connection with the server :: local/remote port 8775/5688
+1054346:2:DIO sent
+1054484:10:DIO sent
+1055619:19:fe80::212:7413:13:1313
+1058528:14:DIO joined dag
+1062966:19:Created a connection with the server :: local/remote port 8775/5688
+1075832:17:Rime started with address 0.18.116.17.0.17.17.17
+1077584:11:DIO sent
+1089099:17:MAC 00:12:74:11:00:11:11:11 Contiki-2.5-release-5-gb746c19 started. Node id is set to 17.
+1099734:17:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+1116890:10:DIO sent
+1123512:17:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7411:0011:1111
+1125841:11:DIO sent
+1127354:17:Starting 'UDP client process' 'collect common process'
+1130288:17:UDP client process started
+1138750:17:Client IPv6 addresses: aaaa::212:7411:11:1111
+1145608:17:fe80::212:7411:11:1111
+1148633:16:DIO joined dag
+1149725:14:DIO sent
+1150655:13:Rime started with address 0.18.116.13.0.13.13.13
+1152957:17:Created a connection with the server :: local/remote port 8775/5688
+1162606:13:MAC 00:12:74:0d:00:0d:0d:0d Contiki-2.5-release-5-gb746c19 started. Node id is set to 13.
+1164699:3:Rime started with address 0.18.116.3.0.3.3.3
+1173185:13:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+1173453:21:Rime started with address 0.18.116.21.0.21.21.21
+1176297:3:MAC 00:12:74:03:00:03:03:03 Contiki-2.5-release-5-gb746c19 started. Node id is set to 3.
+1186713:21:MAC 00:12:74:15:00:15:15:15 Contiki-2.5-release-5-gb746c19 started. Node id is set to 21.
+1186850:3:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+1190195:14:DIO sent
+1195706:13:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740d:000d:0d0d
+1197348:21:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26
+1198330:1:DIO sent
+1199548:13:Starting 'UDP client process' 'collect common process'
+1202482:13:UDP client process started
+1206950:20:DIO joined dag
+1207027:19:DIO joined dag
+1209296:3:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+1210214:13:Client IPv6 addresses: aaaa::212:740d:d:d0d
+1210652:10:DIO sent
+1213140:3:Starting 'UDP client process' 'collect common process'
+1216138:3:UDP client process started
+1216421:13:fe80::212:740d:d:d0d
+1217319:6:DIO sent
+1218408:2:DIO sent
+1220462:20:DIO sent
+1221125:21:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7415:0015:1515
+1223835:13:Created a connection with the server :: local/remote port 8775/5688
+1223930:3:Client IPv6 addresses: aaaa::212:7403:3:303
+1224968:21:Starting 'UDP client process' 'collect common process'
+1227902:21:UDP client process started
+1228760:11:DIO sent
+1230131:3:fe80::212:7403:3:303
+1232687:19:DIO sent
+1234949:16:DIO sent
+1236366:21:Client IPv6 addresses: aaaa::212:7415:15:1515
+1237544:3:Created a connection with the server :: local/remote port 8775/5688
+1241928:7:DIO sent
+1243226:21:fe80::212:7415:15:1515
+1250573:21:Created a connection with the server :: local/remote port 8775/5688
+1279472:19:DIO sent
+1306761:16:DIO sent
+1315838:14:DIO sent
+1336502:20:DIO sent
+1408352:16:DIO sent
+1429881:8:DIO joined dag
+1454559:8:DIO sent
+1461810:11:DIO sent
+1466891:10:DIO sent
+1478203:20:DIO sent
+1481154:19:DIO sent
+1551325:14:DIO sent
+1556750:13:DIO joined dag
+1570383:13:DIO sent
+1583310:8:DIO sent
+1616158:13:DIO sent
+1616842:2:DIO sent
+1622496:6:DIO sent
+1666070:8:DIO sent
+1666893:17:DIO joined dag
+1672446:16:DIO sent
+1682022:17:DIO sent
+1691211:1:DIO sent
+1721398:20:DIO sent
+1726395:7:DIO sent
+1731307:10:DAO sent
+1735694:13:DIO sent
+1744431:17:DIO sent
+1747327:19:DIO sent
+1862290:17:DIO sent
+1869431:13:DAO sent
+1874033:11:DIO sent
+1874325:14:DIO sent
+1877504:10:DIO sent
+1890631:13:DIO sent
+1941996:9:DIO joined dag
+1945048:10:DIO sent
+1946550:3:DIO joined dag
+1952081:8:DIO sent
+1955459:12:DIO joined dag
+1959813:3:DIO sent
+1959940:13:DIO sent
+1975099:12:DIO sent
+2009158:8:DIO sent
+2014408:3:DIO sent
+2019785:4:DIO joined dag
+2021996:12:DIO sent
+2025319:9:DIO sent
+2033354:16:DIO sent
+2079758:20:DIO sent
+2088175:13:DIO sent
+2089170:9:DIO sent
+2098050:17:DIO sent
+2107697:10:DIO sent
+2110483:4:DIO sent
+2131788:12:DIO sent
+2147253:3:DIO sent
+2152938:19:DIO sent
+2158749:4:DIO sent
+2179713:8:DIO sent
+2244285:9:DIO sent
+2334969:13:DIO sent
+2341920:10:DIO sent
+2358191:3:DIO sent
+2368177:4:DIO sent
+2404726:12:DIO sent
+2410668:2:DIO sent
+2415907:1:DIO sent
+2454951:21:DIO joined dag
+2469491:17:DIO sent
+2493433:7:DIO sent
+2497806:18:DIO joined dag
+2499508:8:DIO sent
+2519791:18:DIO sent
+2543703:21:DIO sent
+2584239:21:DIO sent
+2587820:9:DIO sent
+2635353:18:DIO sent
+2688485:4:DIO sent
+2695136:12:DIO sent
+2701940:3:DIO sent
+2762925:18:DIO sent
+2801610:21:DIO sent
+2851265:10:DIO sent
+2873162:6:DIO sent
+2878100:13:DIO sent
+2885966:15:DIO joined dag
+2892947:14:DIO sent
+2905833:15:DIO sent
+2959267:21:DIO sent
+2961306:8:DIO sent
+2968274:15:DIO sent
+2970418:9:DIO sent
+2986884:18:DIO sent
+3056255:4:DIO sent
+3077352:19:DIO sent
+3095392:20:DIO sent
+3100810:11:DIO sent
+3138767:15:DIO sent
+3234976:16:DIO sent
+3365817:15:DIO sent
+3371149:18:DIO sent
+3395175:21:DIO sent
+3513076:12:DIO sent
+3632495:10:DIO sent
+3633672:5:DIO joined dag
+3650587:5:DIO sent
+3661283:3:DIO sent
+3661473:13:DIO sent
+3766116:5:DIO sent
+3766889:15:DIO sent
+3774181:17:DIO sent
+3873834:8:DIO sent
+3941767:9:DIO sent
+3985568:5:DIO sent
+4110300:4:DIO sent
+4227114:5:DIO sent
+4268194:18:DIO sent
+4411464:6:DIO sent
+4509921:3:DAO sent
+4530126:3:DIO sent
+4545001:2:DIO sent
+4576417:21:DIO sent
+4603648:5:DIO sent
+4631510:9:DAO sent
+4644669:4:DAO sent
+4653652:3:DIO sent
+4659839:4:DIO sent
+4660308:9:DIO sent
+4721299:4:DIO sent
+4722023:9:DIO sent
+4723217:19:DIO sent
+4728244:5:DIO sent
+4791127:5:DIO sent
+4807239:4:DIO sent
+4837182:7:DIO sent
+4838647:1:DIO sent
+4865507:3:DIO sent
+4868154:9:DIO sent
+4873722:15:DIO sent
+4916149:5:DIO sent
+4921701:11:DIO sent
+5033802:4:DIO sent
+5085643:10:DIO sent
+5103649:5:DIO sent
+5108167:3:DIO sent
+5109513:20:DIO sent
+5116386:12:DIO sent
+5119257:9:DIO sent
+5213634:14:DIO sent
+5219489:17:DIO sent
+5247365:19:DAO sent
+5374045:16:DIO sent
+5374589:14:DAO sent
+5378387:16:DAO sent
+5437320:3:DIO sent
+5456188:7:DAO sent
+5461623:11:DAO sent
+5543041:10:DAO sent
+5545338:6:DAO sent
+5547830:4:DIO sent
+5562233:10:DIO sent
+5569151:10:DAO sent
+5591108:11:DIO sent
+5633494:10:DIO sent
+5633622:11:DIO sent
+5663742:7:DIO sent
+5697157:11:DIO sent
+5710641:10:DIO sent
+5712183:7:DIO sent
+5715210:9:DIO sent
+5727113:5:DIO sent
+5748802:2:DAO sent
+5762689:6:DIO sent
+5813919:17:DAO sent
+5821154:11:DIO sent
+5841938:19:DIO sent
+5844965:7:DIO sent
+5865520:21:DIO sent
+5866325:16:DIO sent
+5867617:14:DIO sent
+5877685:6:DIO sent
+5899508:8:DIO sent
+5900479:16:DIO sent
+5927136:14:DIO sent
+5949858:16:DIO sent
+5957368:13:DIO sent
+5957593:19:DIO sent
+5960945:13:DAO sent
+6008182:8:DIO sent
+6029451:10:DIO sent
+6042230:6:DIO sent
+6047695:11:DIO sent
+6049956:16:DIO sent
+6050095:14:DIO sent
+6055902:7:DIO sent
+6063845:8:DIO sent
+6069917:8:DAO sent
+6075654:13:DIO sent
+6085227:19:DIO sent
+6085462:15:DIO sent
+6187867:8:DIO sent
+6198871:15:DIO sent
+6205713:12:DAO sent
+6206163:13:DIO sent
+6218568:3:DIO sent
+6224994:13:DIO sent
+6248168:19:DIO sent
+6252074:16:DIO sent
+6276132:14:DIO sent
+6287516:13:DIO sent
+6296458:15:DIO sent
+6308669:12:DIO sent
+6325158:6:DIO sent
+6399653:7:DIO sent
+6421578:10:DIO sent
+6442431:12:DIO sent
+6445868:12:DAO sent
+6453522:8:DIO sent
+6473999:13:DIO sent
+6504105:18:DIO sent
+6525776:9:DAO sent
+6546503:2:DIO sent
+6553185:12:DIO sent
+6554148:11:DIO sent
+6554211:15:DIO sent
+6581357:9:DIO sent
+6589142:18:DAO sent
+6599721:2:DIO sent
+6643859:9:DIO sent
+6650577:14:DIO sent
+6655065:3:DIO sent
+6680674:4:DIO sent
+6690702:9:DIO sent
+6698010:14:DIO sent
+6701908:3:DIO sent
+6721841:5:DIO sent
+6725563:13:DIO sent
+6734031:2:DIO sent
+6740996:19:DIO sent
+6787877:3:DIO sent
+6823037:14:DIO sent
+6824907:16:DIO sent
+6831337:9:DIO sent
+6857256:3:DAO sent
+6859369:10:DAO sent
+6875367:8:DIO sent
+6876603:4:DAO sent
+6888080:12:DIO sent
+6904219:10:DIO sent
+6913534:12:DIO sent
+6918818:6:DIO sent
+6960381:12:DIO sent
+6960674:10:DIO sent
+6983190:3:DIO sent
+7011042:9:DIO sent
+7022253:3:DIO sent
+7044967:2:DIO sent
+7057384:14:DIO sent
+7080571:3:DIO sent
+7101087:15:DIO sent
+7107842:12:DIO sent
+7128251:17:DIO sent
+7130923:10:DIO sent
+7139979:15:DAO sent
+7142062:8:DIO sent
+7174086:17:DIO sent
+7182561:8:DIO sent
+7205194:1:DIO sent
+7206421:13:DIO sent
+7225029:12:DIO sent
+7242640:8:DAO sent
+7256862:3:DIO sent
+7268859:9:DIO sent
+7272969:12:DIO sent
+7273387:13:DIO sent
+7283336:5:DIO sent
+7284708:17:DIO sent
+7318081:9:DIO sent
+7333643:8:DIO sent
+7374671:13:DIO sent
+7378705:14:DIO sent
+7382440:2:DIO sent
+7382466:7:DIO sent
+7389092:12:DIO sent
+7398931:8:DIO sent
+7398958:5:DIO sent
+7412476:10:DIO sent
+7484110:10:DIO sent
+7491003:3:DIO sent
+7509515:9:DIO sent
+7526046:11:DIO sent
+7526527:5:DIO sent
+7531697:10:DIO sent
+7560945:12:DIO sent
+7608545:8:DIO sent
+7633978:17:DIO sent
+7658736:4:DIO sent
+7673978:16:DIO sent
+7692994:13:DIO sent
+7715787:6:DIO sent
+7721442:18:DIO sent
+7752402:5:DIO sent
+7761046:9:DIO sent
+7782204:4:DIO sent
+7785493:10:DIO sent
+7786808:15:DIO sent
+7836337:8:DIO sent
+7838477:18:DIO sent
+7849749:19:DIO sent
+7873815:3:DIO sent
+7894668:18:DIO sent
+7910830:21:DIO sent
+7959327:21:DIO sent
+7959789:4:DIO sent
+7972400:15:DIO sent
+8002539:18:DIO sent
+8023200:10:DIO sent
+8025659:17:DIO sent
+8059205:9:DIO sent
+8072398:5:DIO sent
+8094311:15:DIO sent
+8096765:2:DIO sent
+8100030:12:DIO sent
+8129520:21:DIO sent
+8205593:4:DIO sent
+8221446:18:DIO sent
+8247406:13:DIO sent
+8363590:8:DIO sent
+8404239:15:DIO sent
+8438731:5:DAO sent
+8458207:18:DIO sent
+8465517:21:DIO sent
+8473939:10:DIO sent
+8610449:17:DAO sent
+8635148:17:DIO sent
+8636471:20:DIO sent
+8641818:14:DIO sent
+8659362:16:DIO sent
+8705207:16:DIO sent
+8706286:4:DIO sent
+8762894:18:DIO sent
+8766517:17:DIO sent
+8781778:15:DIO sent
+8832199:18:DIO sent
+8848074:17:DIO sent
+8848360:21:DIO sent
+8853667:16:DIO sent
+8896549:15:DIO sent
+8912526:12:DIO sent
+8920208:21:DIO sent
+8948006:18:DIO sent
+8948326:7:DIO sent
+8954939:4:DAO sent
+8979797:9:DIO sent
+8986958:4:DIO sent
+8987318:3:DIO sent
+9000705:5:DIO sent
+9027282:16:DIO sent
+9046590:13:DIO sent
+9050522:4:DIO sent
+9074365:18:DIO sent
+9084022:15:DIO sent
+9094209:5:DIO sent
+9106174:21:DIO sent
+9143967:17:DIO sent
+9176075:4:DIO sent
+9191937:19:DIO sent
+9219271:5:DIO sent
+9246885:6:DIO sent
+9288586:15:DIO sent
+9290018:4:DIO sent
+9299445:18:DIO sent
+9328585:8:DIO sent
+9334260:10:DIO sent
+9345660:11:DIO sent
+9402988:21:DIO sent
+9422860:4:DIO sent
+9423009:5:DIO sent
+9474752:19:DIO sent
+9498648:16:DIO sent
+9537220:19:DIO sent
+9539172:20:DIO sent
+9602673:4:DIO sent
+9607565:19:DIO sent
+9628312:17:DIO sent
+9671982:20:DIO sent
+9742651:5:DIO sent
+9746253:18:DIO sent
+9807337:20:DIO sent
+9864015:21:DIO sent
+9875986:4:DIO sent
+9896627:19:DIO sent
+9919987:15:DIO sent
+10017267:20:DIO sent
+10032538:14:DIO sent
+10117647:5:DIO sent
+10297833:4:DIO sent
+10299223:19:DIO sent
+10388752:2:DIO sent
+10395035:17:DIO sent
+10461014:20:DIO sent
+10582433:4:DAO sent
+10596299:4:DIO sent
+10619039:9:DIO sent
+10678687:21:DIO sent
+10712076:4:DIO sent
+10727072:16:DIO sent
+10730668:17:DAO sent
+10780221:13:DIO sent
+10819837:15:DIO sent
+10842083:21:DIO sent
+10854082:4:DIO sent
+10874213:17:DIO sent
+10904714:12:DIO sent
+10904993:8:DIO sent
+10921159:17:DAO sent
+10947769:17:DIO sent
+10957199:18:DIO sent
+10957644:21:DIO sent
+10994460:17:DIO sent
+11033770:4:DIO sent
+11051908:3:DIO sent
+11070043:21:DIO sent
+11088477:18:DIO sent
+11206672:17:DIO sent
+11218089:21:DIO sent
+11284312:18:DIO sent
+11326949:10:DAO sent
+11356204:21:DIO sent
+11367739:5:DIO sent
+11442519:17:DIO sent
+11488995:19:DIO sent
+11519699:18:DIO sent
+11551486:21:DIO sent
+11579206:4:DIO sent
+11591829:10:DIO sent
+11627570:18:DIO sent
+11632891:20:DIO sent
+11754074:18:DIO sent
+11854953:21:DIO sent
+11906989:17:DIO sent
+11996262:18:DIO sent
+12102075:16:DIO sent
+12356202:21:DIO sent
+12407236:4:DIO sent
+12521518:15:DIO sent
+12541606:18:DIO sent
+12848188:19:DIO sent
+13031959:17:DIO sent
+13108998:7:DIO sent
+13129073:18:DIO sent
+13138952:21:DIO sent
+13188287:20:DAO sent
+13200098:6:DIO sent
+13266790:5:DIO sent
+13359513:20:DIO sent
+13741495:11:DIO sent
+13859512:20:DIO sent
+13919937:2:DIO sent
+13984452:20:DIO sent
+14113824:14:DIO sent
+14156359:20:DIO sent
+14381686:21:DAO sent
+14473812:3:DIO sent
+14499704:13:DIO sent
+14500050:20:DIO sent
+14655027:8:DIO sent
+14746798:21:DIO sent
+14797829:4:DIO sent
+14810610:10:DIO sent
+14944581:12:DIO sent
+14984513:20:DIO sent
+14994071:9:DIO sent
+15133766:17:DIO sent
+15523948:16:DIO sent
+15729041:18:DIO sent
+15820363:20:DIO sent
+15992707:5:DIO sent
+16052615:15:DIO sent
+16434185:19:DIO sent
+16990460:1:DIO sent
+17162262:13:DAO sent
+17352700:4:DIO sent
+17798918:17:DAO sent
+17921372:8:DAO sent
+17992419:20:DIO sent
+18235085:17:DIO sent
+18390959:8:DIO sent
+18456479:12:DAO sent
+18476157:12:DIO sent
+18492616:13:DAO sent
+18506586:8:DIO sent
+18545401:12:DIO sent
+18575715:13:DIO sent
+18641967:8:DIO sent
+18662722:15:DIO sent
+18670403:12:DIO sent
+18693486:13:DIO sent
+18727094:15:DIO sent
+18778048:21:DIO sent
+18803886:12:DIO sent
+18842420:15:DAO sent
+18851114:15:DIO sent
+18858239:8:DIO sent
+18866548:13:DIO sent
+18924384:18:DIO sent
+19085431:15:DIO sent
+19115204:13:DIO sent
+19216618:15:DIO sent
+19258151:8:DIO sent
+19276671:9:DIO sent
+19285187:3:DIO sent
+19296347:15:DIO sent
+19310511:8:DIO sent
+19317519:12:DIO sent
+19389059:9:DIO sent
+19407595:8:DIO sent
+19408336:5:DIO sent
+19408771:4:DIO sent
+19410671:3:DIO sent
+19479051:4:DIO sent
+19515412:3:DIO sent
+19531953:5:DIO sent
+19548008:14:DIO sent
+19571985:9:DIO sent
+19592751:13:DIO sent
+19612468:5:DIO sent
+19651772:4:DIO sent
+19664379:8:DIO sent
+19669990:15:DIO sent
+19808572:9:DIO sent
+19832378:4:DAO sent
+19833096:3:DIO sent
+19893719:5:DIO sent
+19915205:4:DIO sent
+19972522:4:DIO sent
+19981920:4:DAO sent
+20006546:2:DIO sent
+20125986:4:DIO sent
+20160221:15:DIO sent
+20172244:8:DIO sent
+20221727:12:DIO sent
+20325502:13:DIO sent
+20350405:3:DIO sent
+20354655:5:DIO sent
+20400957:4:DIO sent
+20415699:9:DIO sent
+20865148:15:DIO sent
+20884133:4:DIO sent
+21031744:5:DIO sent
+21219088:8:DIO sent
+21221282:3:DIO sent
+21366499:11:DIO sent
+21415967:7:DIO sent
+21446954:9:DIO sent
+21450129:6:DIO sent
+21727426:4:DIO sent
+21918930:12:DIO sent
+22130892:10:DIO sent
+22148485:20:DIO sent
+22431756:1:DIO sent
+22453100:13:DIO sent
+22462168:5:DAO sent
+22467248:12:DIO sent
+22483302:8:DIO sent
+22537528:12:DIO sent
+22575716:13:DIO sent
+22639122:12:DIO sent
+22662021:15:DIO sent
+22686472:13:DIO sent
+22721870:5:DIO sent
+22724913:3:DIO sent
+22771458:15:DIO sent
+22844456:5:DIO sent
+22890171:15:DIO sent
+22918929:12:DIO sent
+23008456:5:DIO sent
+23020813:13:DIO sent
+23126670:9:DIO sent
+23216712:15:DIO sent
+23287560:12:DIO sent
+23352114:5:DIO sent
+23505371:13:DIO sent
+23582593:19:DIO sent
+23677617:15:DIO sent
+23742682:5:DIO sent
+23875925:4:DIO sent
+23992881:16:DIO sent
+24246962:12:DIO sent
+24522931:15:DIO sent
+24570955:5:DIO sent
+24583374:13:DIO sent
+24871767:21:DIO sent
+25166297:17:DIO sent
+25631590:8:DIO sent
+25763878:13:DAO sent
+25787560:12:DIO sent
+25986917:18:DIO sent
+26421702:11:DIO sent
+26423091:7:DIO sent
+26452065:13:DIO sent
+26470420:9:DIO sent
+26576054:15:DIO sent
+26734833:5:DIO sent
+26872313:3:DIO sent
+27337565:4:DIO sent
+28817184:12:DIO sent
+28860147:20:DAO sent
+29146171:12:DAO sent
+29278840:13:DIO sent
+29450377:6:DIO sent
+29491679:15:DIO sent
+29548487:20:DIO sent
+29555379:16:DIO sent
+29641115:5:DIO sent
+29679917:20:DIO sent
+29695651:8:DIO sent
+29713024:5:DIO sent
+29714171:9:DIO sent
+29716000:3:DIO sent
+29750316:8:DIO sent
+29761014:9:DIO sent
+29764378:3:DIO sent
+29776500:5:DIO sent
+29797801:4:DIO sent
+29854655:5:DIO sent
+29859514:20:DIO sent
+29864241:9:DIO sent
+29865940:3:DIO sent
+29890963:8:DIO sent
+29899216:2:DIO sent
+29907144:4:DIO sent
+30109483:20:DIO sent
+30121552:9:DIO sent
+30121701:8:DIO sent
+30124436:3:DIO sent
+30125959:4:DIO sent
+30211429:5:DIO sent
+30297947:14:DIO sent
+30383921:4:DIO sent
+30413021:8: 3847 P 0.18 0 80056 902634 26799 49327 0 0 80056 902634 26799 49327 0 0 (radio 7.74% / 7.74% tx 2.72% / 2.72% listen 5.01% / 5.01%)
+30531358:20:DIO sent
+30540498:11: 3848 P 0.18 0 80545 902470 22209 48210 0 0 80545 902470 22209 48210 0 0 (radio 7.16% / 7.16% tx 2.25% / 2.25% listen 4.90% / 4.90%)
+30582367:9:DIO sent
+30587046:2: 3848 P 0.18 0 43759 939156 11640 41463 0 0 43759 939156 11640 41463 0 0 (radio 5.40% / 5.40% tx 1.18% / 1.18% listen 4.21% / 4.21%)
+30599487:6: 3848 P 0.18 0 46349 936602 20368 29118 0 0 46349 936602 20368 29118 0 0 (radio 5.03% / 5.03% tx 2.07% / 2.07% listen 2.96% / 2.96%)
+30615970:3:DIO sent
+30625917:5:DIO sent
+30675964:18: 3848 P 0.18 0 62042 920899 29661 24872 0 0 62042 920899 29661 24872 0 0 (radio 5.54% / 5.54% tx 3.01% / 3.01% listen 2.53% / 2.53%)
+30699231:4: 3848 P 0.18 0 111265 871829 55446 35055 0 0 111265 871829 55446 35055 0 0 (radio 9.20% / 9.20% tx 5.63% / 5.63% listen 3.56% / 3.56%)
+30752697:7: 3848 P 0.18 0 53331 929707 10838 42878 0 0 53331 929707 10838 42878 0 0 (radio 5.46% / 5.46% tx 1.10% / 1.10% listen 4.36% / 4.36%)
+30764566:13:DIO sent
+30772271:8:DIO sent
+30800155:14: 3848 P 0.18 0 65778 917056 15769 53011 0 0 65778 917056 15769 53011 0 0 (radio 6.99% / 6.99% tx 1.60% / 1.60% listen 5.39% / 5.39%)
+30812663:15: 3848 P 0.18 0 80246 902740 37212 37235 0 0 80246 902740 37212 37235 0 0 (radio 7.57% / 7.57% tx 3.78% / 3.78% listen 3.78% / 3.78%)
+30822543:20: 3848 P 0.18 0 70395 912513 35510 31707 0 0 70395 912513 35510 31707 0 0 (radio 6.83% / 6.83% tx 3.61% / 3.61% listen 3.22% / 3.22%)
+30822831:4:DIO sent
+30822938:16: 3848 P 0.18 0 66656 916263 22452 42615 0 0 66656 916263 22452 42615 0 0 (radio 6.61% / 6.61% tx 2.28% / 2.28% listen 4.33% / 4.33%)
+30888001:13:DIO sent
+30906534:10: 3848 P 0.18 0 93187 889647 28675 44626 0 0 93187 889647 28675 44626 0 0 (radio 7.45% / 7.45% tx 2.91% / 2.91% listen 4.54% / 4.54%)
+30944996:12: 3848 P 0.18 0 57326 925581 18416 49523 0 0 57326 925581 18416 49523 0 0 (radio 6.91% / 6.91% tx 1.87% / 1.87% listen 5.03% / 5.03%)
+30974460:15:DIO sent
+31022898:15:DIO sent
+31059402:9: 3848 P 0.18 0 69733 913335 26732 47889 0 0 69733 913335 26732 47889 0 0 (radio 7.59% / 7.59% tx 2.71% / 2.71% listen 4.87% / 4.87%)
+31065162:5: 3848 P 0.18 0 93807 889313 47909 32217 0 0 93807 889313 47909 32217 0 0 (radio 8.15% / 8.15% tx 4.87% / 4.87% listen 3.27% / 3.27%)
+31068483:13:DIO sent
+31068831:19: 3848 P 0.18 0 45609 937181 18449 31211 0 0 45609 937181 18449 31211 0 0 (radio 5.05% / 5.05% tx 1.87% / 1.87% listen 3.17% / 3.17%)
+31159574:17: 3848 P 0.18 0 67726 915228 23948 44373 0 0 67726 915228 23948 44373 0 0 (radio 6.95% / 6.95% tx 2.43% / 2.43% listen 4.51% / 4.51%)
+31201052:15:DIO sent
+31233981:13: 3848 P 0.18 0 92751 890228 34435 53612 0 0 92751 890228 34435 53612 0 0 (radio 8.95% / 8.95% tx 3.50% / 3.50% listen 5.45% / 5.45%)
+31248775:3: 3848 P 0.18 0 91544 891382 29491 52849 0 0 91544 891382 29491 52849 0 0 (radio 8.37% / 8.37% tx 3.00% / 3.00% listen 5.37% / 5.37%)
+31256729:21: 3848 P 0.18 0 77626 905291 38508 28257 0 0 77626 905291 38508 28257 0 0 (radio 6.79% / 6.79% tx 3.91% / 3.91% listen 2.87% / 2.87%)
+31297600:13:DIO sent
+31321896:3:DIO sent
+31418591:19:DIO sent
+31517106:20:DIO sent
+31543734:15:DIO sent
+31547834:4:DIO sent
+31592247:12:DIO sent
+31617181:8:DIO sent
+31673991:5:DIO sent
+31675139:9:DIO sent
+31707873:12:DIO sent
+31794985:10:DIO sent
+31803844:13:DAO sent
+31857842:12:DIO sent
+31888185:13:DIO sent
+31892075:12:DAO sent
+31913668:12:DIO sent
+31966707:15:DIO sent
+32022931:15:DIO sent
+32033919:12:DIO sent
+32037110:13:DIO sent
+32147931:15:DIO sent
+32147971:12:DIO sent
+32200562:13:DIO sent
+32365684:12:DIO sent
+32412022:15:DIO sent
+32560062:13:DIO sent
+32830361:17:DIO sent
+32840254:12:DIO sent
+32943791:15:DIO sent
+32969454:5:DIO sent
+33098970:13:DIO sent
+33331357:9:DIO sent
+33336274:8:DIO sent
+33341993:1:DIO sent
+33419858:3:DIO sent
+33430937:5:DAO sent
+33454729:20:DIO sent
+33614273:12:DIO sent
+33782204:4:DIO sent
+34014596:13:DIO sent
+34060429:15:DIO sent
+34701417:21:DIO sent
+35411468:13:DIO sent
+35674446:18:DIO sent
+35723555:12:DIO sent
+36123277:20:DIO sent
+36185493:15:DIO sent
+36193512:13:DAO sent
+36208187:3:DIO sent
+36459102:21:DAO sent
+36468613:7:DIO sent
+36490724:6:DIO sent
+36578676:5:DIO sent
+36932013:14:DIO sent
+36976237:10:DIO sent
+36978934:9:DIO sent
+37301425:21:DIO sent
+37342019:21:DIO sent
+37393135:18:DIO sent
+37457169:18:DIO sent
+37504549:21:DIO sent
+37651038:18:DIO sent
+37763919:21:DIO sent
+37871253:18:DIO sent
+37907178:4:DIO sent
+38014611:8:DIO sent
+38169968:2:DIO sent
+38319954:21:DIO sent
+38361914:18:DIO sent
+38577617:15:DIO sent
+38613999:19:DIO sent
+38632150:11:DIO sent
+38694596:12:DIO sent
+38708344:13:DIO sent
+39121738:21:DIO sent
+39572853:18:DIO sent
+40122571:12:DAO sent
+40758353:16:DIO sent
+41216097:21:DIO sent
+41381086:1:DIO sent
+41508551:17:DIO sent
+41667243:18:DIO sent
+43389964:11:DIO sent
+44395236:21:DIO sent
+44563731:5:DAO sent
+44697011:9:DIO sent
+44801999:3:DIO sent
+44976188:2:DIO sent
+44977457:4:DIO sent
+45213539:18:DIO sent
+45250077:20:DIO sent
+45477113:5:DIO sent
+45671044:8:DIO sent
+45788713:7:DIO sent
+46075608:12:DIO sent
+46606469:6:DIO sent
+46813814:14:DIO sent
+46990483:10:DIO sent
+47466739:15:DIO sent
+47536469:13:DIO sent
+48685773:1:DIO sent
+50117758:16:DIO sent
+50527875:19:DIO sent
+50674446:18:DIO sent
+51069186:21:DAO sent
+51172013:20:DIO sent
+51520626:3:DIO sent
+51798070:5:DIO sent
+51869071:9:DIO sent
+52228797:17:DIO sent
+52294004:6:DIO sent
+52298106:5:DAO sent
+52809271:21:DIO sent
+53124476:8:DIO sent
+53317244:12:DIO sent
+53530929:7:DIO sent
+53740388:10:DIO sent
+54204176:4:DIO sent
+54375044:11:DIO sent
+54532535:14:DIO sent
+54779468:2:DIO sent
+54904243:15:DIO sent
+55106750:13:DIO sent
+56826436:1:DIO sent
+57892690:16:DIO sent
+58691941:19:DIO sent
+58815044:18:DIO sent
+59453865:17:DIO sent
+59778469:3:DIO sent
+60414018:8: 7687 P 0.18 1 110330 1855089 35123 75553 0 0 30271 952455 8324 26226 0 0 (radio 5.63% / 3.51% tx 1.78% / 0.84% listen 3.84% / 2.66%)
+60531358:20:DIO sent
+60540937:11: 7688 P 0.18 1 106828 1859196 28725 74048 0 0 26280 956726 6516 25838 0 0 (radio 5.22% / 3.29% tx 1.46% / 0.66% listen 3.76% / 2.62%)
+60585929:2: 7688 P 0.18 1 64071 1901596 15160 61708 0 0 20309 962440 3520 20245 0 0 (radio 3.91% / 2.41% tx 0.77% / 0.35% listen 3.13% / 2.06%)
+60600734:6: 7688 P 0.18 1 64404 1901296 23691 46678 0 0 18052 964694 3323 17560 0 0 (radio 3.57% / 2.12% tx 1.20% / 0.33% listen 2.37% / 1.78%)
+60676712:18: 7688 P 0.18 1 99554 1866382 46312 40522 0 0 37509 945483 16651 15650 0 0 (radio 4.41% / 3.28% tx 2.35% / 1.69% listen 2.06% / 1.59%)
+60698479:4: 7688 P 0.18 1 137862 1828246 63764 54497 0 0 26594 956417 8318 19442 0 0 (radio 6.01% / 2.82% tx 3.24% / 0.84% listen 2.77% / 1.97%)
+60751895:7: 7688 P 0.18 1 79069 1886968 16218 65150 0 0 25735 957261 5380 22272 0 0 (radio 4.13% / 2.81% tx 0.82% / 0.54% listen 3.31% / 2.26%)
+60799968:14: 7688 P 0.18 1 94083 1871504 22345 80408 0 0 28302 954448 6576 27397 0 0 (radio 5.22% / 3.45% tx 1.13% / 0.66% listen 4.09% / 2.78%)
+60813109:15: 7688 P 0.18 1 119693 1846049 53302 57742 0 0 39444 943309 16090 20507 0 0 (radio 5.64% / 3.72% tx 2.71% / 1.63% listen 2.93% / 2.08%)
+60822283:20: 7688 P 0.18 1 98262 1867393 45387 50349 0 0 27864 954880 9877 18642 0 0 (radio 4.87% / 2.90% tx 2.30% / 1.00% listen 2.56% / 1.89%)
+60823073:16: 7688 P 0.18 1 88592 1877316 27442 63871 0 0 21933 961053 4990 21256 0 0 (radio 4.64% / 2.67% tx 1.39% / 0.50% listen 3.24% / 2.16%)
+60906994:10: 7688 P 0.18 1 120065 1845512 34750 70443 0 0 26875 955865 6075 25817 0 0 (radio 5.35% / 3.24% tx 1.76% / 0.61% listen 3.58% / 2.62%)
+60944906:12: 7688 P 0.18 1 96187 1869636 29493 76330 0 0 38858 944055 11077 26807 0 0 (radio 5.38% / 3.85% tx 1.50% / 1.12% listen 3.88% / 2.72%)
+61058599:9: 7688 P 0.18 1 93323 1872723 31726 71082 0 0 23587 959388 4994 23193 0 0 (radio 5.22% / 2.86% tx 1.61% / 0.50% listen 3.61% / 2.35%)
+61065652:5: 7688 P 0.18 1 122383 1843662 55909 49139 0 0 28573 954349 8000 16922 0 0 (radio 5.34% / 2.53% tx 2.84% / 0.81% listen 2.49% / 1.72%)
+61069191:19: 7688 P 0.18 1 68104 1897437 25107 49697 0 0 22492 960256 6658 18486 0 0 (radio 3.80% / 2.55% tx 1.27% / 0.67% listen 2.52% / 1.88%)
+61106173:21:DIO sent
+61158851:17: 7688 P 0.18 1 95585 1870377 30633 68954 0 0 27856 955149 6685 24581 0 0 (radio 5.06% / 3.18% tx 1.55% / 0.68% listen 3.50% / 2.50%)
+61235077:13: 7688 P 0.18 1 136094 1829678 49928 79134 0 0 43340 939450 15493 25522 0 0 (radio 6.56% / 4.17% tx 2.53% / 1.57% listen 4.02% / 2.59%)
+61250263:3: 7688 P 0.18 1 128069 1837618 41384 75408 0 0 36522 946236 11893 22559 0 0 (radio 5.94% / 3.50% tx 2.10% / 1.21% listen 3.83% / 2.29%)
+61256412:15:DIO sent
+61257335:21: 7688 P 0.18 1 116639 1849182 54106 45678 0 0 39010 943891 15598 17421 0 0 (radio 5.07% / 3.35% tx 2.75% / 1.58% listen 2.32% / 1.77%)
+61335427:11:DIO sent
+61524722:14:DIO sent
+61572194:9:DIO sent
+61812550:7:DIO sent
+61979201:4:DIO sent
+62032045:5:DIO sent
+62115554:2:DIO sent
+62270623:6:DIO sent
+62330254:12:DIO sent
+62373986:8:DIO sent
+62545721:10:DATA send to 1 'Hello 1'
+62687027:1:10 0 62 0 2570 72 2 0 27756 8303
+62689910:1:DATA recv from 10 'Hello 1'
+62833527:13:DIO sent
+64071710:5:DAO sent
+64224207:21:DAO sent
+64517781:16:DIO sent
+64772553:10:DIO sent
+64965589:19:DIO sent
+65897321:1:DIO sent
+67181783:9:DIO sent
+67829759:20:DIO sent
+68571265:17:DIO sent
+69160982:21:DIO sent
+69293868:12:DIO sent
+69365281:2:DIO sent
+69563425:4:DIO sent
+69682601:7:DIO sent
+69747648:3:DIO sent
+69772901:11:DIO sent
+69911028:6:DATA send to 1 'Hello 1'
+69968379:8:msg sent to sink seqno: 1
+69994517:1:10 0 69 0 1542 72 1 0 27756 8303
+69997019:1:DATA recv from 6 'Hello 1'
+70125887:5:DIO sent
+70329317:14:DIO sent
+70398152:1:30 0 69 0 2056 1 3 0 22 8912 0 1862 33747 574 1292 771 8 1024 5 16 252 1 133 182 65535 65535 0 0 0 0
+70400274:1:DATA recv from 8 ''
+70474583:15:DIO sent
+70486945:18:DIO sent
+70647276:8:DIO sent
+70786464:6:DIO sent
+71195694:7:DATA send to 1 'Hello 1'
+71227209:1:10 0 70 0 1799 72 1 0 27756 8303
+71229710:1:DATA recv from 7 'Hello 1'
+71647233:10:msg sent to sink seqno: 1
+71743704:1:30 0 71 0 2570 1 2 0 22 9065 0 2031 34188 575 1222 1799 8 768 5 16 252 1 133 182 65535 65535 0 0 0 0
+71746205:1:DATA recv from 10 ''
+71943696:13:DIO sent
+71961363:2:msg sent to sink seqno: 1
+72009565:1:30 0 71 0 514 1 1 0 22 9146 0 1199 35346 291 1087 257 8 512 2 16 84 1 21 14 65535 65535 0 0 0 0
+72011690:1:DATA recv from 2 ''
+72055287:16:DIO sent
+72990461:1:DIO sent
+73162721:10:DIO sent
+73770123:19:DIO sent
+74859903:5:DATA send to 1 'Hello 1'
+75031752:16:DATA send to 1 'Hello 1'
+75045222:1:10 0 74 0 1285 72 3 0 27756 8303
+75047724:1:DATA recv from 5 'Hello 1'
+75326259:3:DIO sent
+75692719:9:DIO sent
+75741082:8:DIO sent
+75774146:17:DIO sent
+75958103:21:DIO sent
+76148918:1:10 0 75 0 4112 72 4 0 27756 8303
+76151798:1:DATA recv from 16 'Hello 1'
+76423446:14:DATA send to 1 'Hello 1'
+76510354:18:DIO sent
+76583775:12:msg sent to sink seqno: 1
+76648514:20:DIO sent
+76789645:5:DIO sent
+77338314:1:10 0 76 0 3598 72 3 0 27756 8303
+77341195:1:DATA recv from 14 'Hello 1'
+77360391:4:DIO sent
+77473651:1:30 0 76 0 3084 1 4 0 22 9692 0 1691 37040 486 1395 3341 8 1280 4 16 252 1 133 182 65535 65535 0 0 0 0
+77476150:1:DATA recv from 12 ''
+77716309:13:DIO sent
+77959052:15:DIO sent
+78466968:2:DIO sent
+78641727:14:DIO sent
+78881572:8:DATA send to 1 'Hello 1'
+79047256:7:DIO sent
+79159311:1:10 0 78 0 2056 72 3 0 27756 8303
+79161813:1:DATA recv from 8 'Hello 1'
+79201154:2:DATA send to 1 'Hello 1'
+79276046:1:10 0 78 0 514 72 1 0 27756 8303
+79278548:1:DATA recv from 2 'Hello 1'
+79352825:5:DAO sent
+79609324:11:DIO sent
+80069261:21:DAO sent
+80094423:5:DIO sent
+80219273:5:DIO sent
+80254999:6:DIO sent
+80391145:5:DIO sent
+80701452:10:DIO sent
+80727113:5:DIO sent
+80856092:19:DIO sent
+80935165:12:DIO sent
+81211429:5:DIO sent
+81670186:1:DIO sent
+81759050:17:msg sent to sink seqno: 1
+81797343:11:msg sent to sink seqno: 1
+81955238:1:30 0 81 0 2827 1 2 0 22 10411 0 2105 39502 567 1447 1799 10 768 3 16 252 1 189 182 65535 65535 0 0 0 0
+81957738:1:DATA recv from 11 ''
+82195914:16:DIO sent
+82273866:5:DIO sent
+82569266:1:30 0 81 0 4369 1 4 0 22 10327 0 1775 39496 540 1309 3598 8 1280 3 16 252 1 189 182 65535 65535 0 0 0 0
+82571767:1:DATA recv from 17 ''
+82844491:17:DIO sent
+83647241:8:DIO sent
+84145266:21:DIO sent
+84148928:5:DIO sent
+84283943:18:DIO sent
+84775319:9:DIO sent
+85470704:17:DATA send to 1 'Hello 1'
+85757954:20:DIO sent
+85852700:4:DIO sent
+85973563:1:10 0 85 0 4369 72 4 0 27756 8303
+85976443:1:DATA recv from 17 'Hello 1'
+86144329:14:DIO sent
+86201267:15:DIO sent
+86309436:12:DIO sent
+86318882:6:DIO sent
+86382149:11:DIO sent
+86766733:7:msg sent to sink seqno: 1
+86838220:7:DIO sent
+86872620:3:DIO sent
+86983101:1:30 0 86 0 1799 1 1 0 22 11020 0 1699 42345 330 1351 257 8 512 4 16 252 1 133 182 65535 65535 0 0 0 0
+86985223:1:DATA recv from 7 ''
+87494991:16:DIO sent
+87545015:10:DIO sent
+88018717:5:DIO sent
+88052780:2:DIO sent
+88622591:13:DIO sent
+88785680:19:DATA send to 1 'Hello 1'
+89076017:1:10 0 88 0 4883 72 5 0 27756 8303
+89078978:1:DATA recv from 19 'Hello 1'
+89806105:4:msg sent to sink seqno: 1
+89810773:1:DIO sent
+90213401:1:30 0 89 0 1028 1 3 0 22 11416 0 2516 43112 1074 1136 771 8 1024 3 16 252 1 189 182 65535 65535 0 0 0 0
+90215523:1:DATA recv from 4 ''
+90414421:8: 11527 P 0.18 2 139376 2808948 42479 97537 0 0 29043 953859 7356 21984 0 0 (radio 4.74% / 2.98% tx 1.44% / 0.74% listen 3.30% / 2.23%)
+90541769:11: 11528 P 0.18 2 149328 2799507 40394 99602 0 0 42497 940311 11669 25554 0 0 (radio 4.74% / 3.78% tx 1.36% / 1.18% listen 3.37% / 2.60%)
+90586561:2: 11528 P 0.18 2 94965 2853604 22657 83414 0 0 30891 952008 7497 21706 0 0 (radio 3.59% / 2.97% tx 0.76% / 0.76% listen 2.82% / 2.20%)
+90601116:6: 11528 P 0.18 2 86655 2862063 28770 65235 0 0 22248 960767 5079 18557 0 0 (radio 3.18% / 2.40% tx 0.97% / 0.51% listen 2.21% / 1.88%)
+90677044:18: 11528 P 0.18 2 120388 2828579 51304 56047 0 0 20831 962197 4992 15525 0 0 (radio 3.64% / 2.08% tx 1.73% / 0.50% listen 1.90% / 1.57%)
+90699270:4: 11528 P 0.18 2 162904 2785967 69124 73239 0 0 25039 957721 5360 18742 0 0 (radio 4.82% / 2.45% tx 2.34% / 0.54% listen 2.48% / 1.90%)
+90752304:7: 11528 P 0.18 2 113521 2835379 21356 89283 0 0 34449 948411 5138 24133 0 0 (radio 3.75% / 2.97% tx 0.72% / 0.52% listen 3.02% / 2.45%)
+90801064:14: 11528 P 0.18 2 130756 2817817 31093 105657 0 0 36670 946313 8748 25249 0 0 (radio 4.63% / 3.45% tx 1.05% / 0.88% listen 3.58% / 2.56%)
+90813194:15: 11528 P 0.18 2 143444 2805295 59960 76833 0 0 23748 959246 6658 19091 0 0 (radio 4.63% / 2.61% tx 2.03% / 0.67% listen 2.60% / 1.94%)
+90823433:20: 11528 P 0.18 2 119833 2828813 50379 66554 0 0 21568 961420 4992 16205 0 0 (radio 3.96% / 2.15% tx 1.70% / 0.50% listen 2.25% / 1.64%)
+90823857:16: 11528 P 0.18 2 113325 2835470 32936 82887 0 0 24730 958154 5494 19016 0 0 (radio 3.92% / 2.49% tx 1.11% / 0.55% listen 2.81% / 1.93%)
+90906997:10: 11528 P 0.18 2 149819 2798601 43105 92079 0 0 29751 953089 8355 21636 0 0 (radio 4.58% / 3.05% tx 1.46% / 0.85% listen 3.12% / 2.20%)
+90945320:12: 11528 P 0.18 2 122715 2825995 35313 100865 0 0 26525 956359 5820 24535 0 0 (radio 4.61% / 3.08% tx 1.19% / 0.59% listen 3.42% / 2.49%)
+91059447:9: 11528 P 0.18 2 116761 2832309 36721 93142 0 0 23435 959586 4995 22060 0 0 (radio 4.40% / 2.75% tx 1.24% / 0.50% listen 3.15% / 2.24%)
+91066339:5: 11528 P 0.18 2 164212 2784764 73452 65854 0 0 41826 941102 17543 16715 0 0 (radio 4.72% / 3.48% tx 2.49% / 1.78% listen 2.23% / 1.70%)
+91069120:19: 11528 P 0.18 2 90690 2857844 30351 65884 0 0 22583 960407 5244 16187 0 0 (radio 3.26% / 2.18% tx 1.02% / 0.53% listen 2.23% / 1.64%)
+91083859:3:msg sent to sink seqno: 1
+91159272:17: 11528 P 0.18 2 123246 2825545 37416 89533 0 0 27658 955168 6783 20579 0 0 (radio 4.30% / 2.78% tx 1.26% / 0.69% listen 3.03% / 2.09%)
+91201309:1:30 0 90 0 771 1 2 0 22 11509 0 2577 43419 784 1560 514 12 768 5 16 252 1 133 182 65535 65535 0 0 0 0
+91203464:1:DATA recv from 3 ''
+91235218:13: 11528 P 0.18 2 163730 2785032 56894 100597 0 0 27633 955354 6966 21463 0 0 (radio 5.34% / 2.89% tx 1.92% / 0.70% listen 3.41% / 2.18%)
+91250578:3: 11528 P 0.18 2 166713 2781952 50605 100077 0 0 38641 944334 9221 24669 0 0 (radio 5.11% / 3.44% tx 1.71% / 0.93% listen 3.39% / 2.50%)
+91256951:21: 11528 P 0.18 2 140510 2808181 59731 61755 0 0 23868 958999 5625 16077 0 0 (radio 4.11% / 2.20% tx 2.02% / 0.57% listen 2.09% / 1.63%)
+91587745:5:msg sent to sink seqno: 1
+92003727:1:30 0 91 0 1285 1 3 0 22 11597 0 2588 43766 1147 1032 771 15 1024 2 16 252 1 133 182 65535 65535 0 0 0 0
+92005849:1:DATA recv from 5 ''
+92160718:19:DIO sent
+92633584:17:DIO sent
+93017385:9:DIO sent
+93347484:14:DIO sent
+93364108:21:DIO sent
+93845475:20:DIO sent
+94076168:3:DIO sent
+94344857:4:DIO sent
+94373113:15:DIO sent
+94749460:11:DIO sent
+94991083:8:DIO sent
+95156083:7:DIO sent
+95165657:16:msg sent to sink seqno: 1
+95299386:18:DIO sent
+95657026:1:30 0 94 0 4112 1 4 0 22 12086 0 1826 46479 514 1344 3598 9 1280 4 16 252 1 133 182 65535 65535 0 0 0 0
+95659528:1:DATA recv from 16 ''
+95670475:6:DIO sent
+95687013:10:DIO sent
+96106581:3:DATA send to 1 'Hello 1'
+96320955:5:DIO sent
+96344952:1:10 0 95 0 771 72 2 0 27756 8303
+96347455:1:DATA recv from 3 'Hello 1'
+96685773:1:DIO sent
+96803719:13:DIO sent
+96826340:19:DIO sent
+96921531:2:DIO sent
+96981369:12:DIO sent
+98318950:15:msg sent to sink seqno: 1
+98349115:21:DAO sent
+98528842:1:30 0 97 0 3855 1 4 0 22 12491 0 2348 47577 962 1267 3341 15 1280 2 16 252 1 133 182 65535 65535 0 0 0 0
+98531344:1:DATA recv from 15 ''
+99250679:17:DIO sent
+99336447:16:DIO sent
+100236895:4:DIO sent
+100247403:3:DIO sent
+101466968:2:DIO sent
+101628286:18:DATA send to 1 'Hello 1'
+101712610:9:DIO sent
+101791575:18:DIO sent
+101979574:18:msg sent to sink seqno: 1
+102212039:14:DIO sent
+102430339:1:10 0 101 0 4626 72 6 0 27756 8303
+102433219:1:DATA recv from 18 'Hello 1'
+102443879:6:DIO sent
+102446210:11:DIO sent
+102648117:7:DIO sent
+102668704:21:DIO sent
+102775601:20:msg sent to sink seqno: 1
+102819419:1:30 0 102 0 4626 1 6 0 22 12977 0 2061 49811 860 964 5397 8 2048 1 16 252 1 133 182 65535 65535 0 0 0 0
+102821920:1:DATA recv from 18 ''
+103059014:1:30 0 102 0 5140 1 5 0 22 13060 0 2013 50188 813 1145 4112 15 1536 2 16 252 1 189 182 65535 65535 0 0 0 0
+103061592:1:DATA recv from 20 ''
+103481310:12:DIO sent
+103616083:8:DIO sent
+103755984:10:DIO sent
+103963396:14:msg sent to sink seqno: 1
+104086046:20:DIO sent
+104155690:16:DIO sent
+104484969:1:30 0 103 0 3598 1 3 0 22 13215 0 2321 50497 547 1824 2827 8 1024 5 16 252 1 133 182 65535 65535 0 0 0 0
+104487471:1:DATA recv from 14 ''
+104512513:12:DATA send to 1 'Hello 1'
+104638215:13:DIO sent
+104781680:5:DIO sent
+104826783:1:10 0 104 0 3084 72 4 0 27756 8303
+104829663:1:DATA recv from 12 'Hello 1'
+104857486:15:DIO sent
+105021952:13:msg sent to sink seqno: 1
+105524789:1:30 0 104 0 3341 1 3 0 22 13295 0 2792 50350 927 1776 2570 8 1024 5 16 252 1 189 182 65535 65535 0 0 0 0
+105527290:1:DATA recv from 13 ''
+107172613:17:DIO sent
+107818620:1:DIO sent
+107904165:15:DATA send to 1 'Hello 1'
+107910749:19:DIO sent
+108116728:1:10 0 107 0 3855 72 4 0 27756 8303
+108119608:1:DATA recv from 15 'Hello 1'
+108138051:13:DATA send to 1 'Hello 1'
+108353293:9:DIO sent
+108542832:1:10 0 107 0 3341 72 3 0 27756 8303
+108545742:1:DATA recv from 13 'Hello 1'
+108622552:21:DAO sent
+108640306:7:DIO sent
+108674021:9:msg sent to sink seqno: 1
+109109870:1:30 0 108 0 2313 1 3 0 22 13785 0 2083 53023 651 1649 771 8 1024 4 16 252 1 133 182 65535 65535 0 0 0 0
+109111992:1:DATA recv from 9 ''
+109270121:8:DIO sent
+109481655:3:DIO sent
+109496162:18:DIO sent
+109853427:14:DIO sent
+110022289:21:msg sent to sink seqno: 1
+110110508:5:DIO sent
+110208642:6:DIO sent
+110227690:6:msg sent to sink seqno: 1
+110261887:18:DIO sent
+110293673:21:DIO sent
+110365520:21:DIO sent
+110377509:18:DIO sent
+110379548:1:30 0 109 0 1542 1 1 0 22 14042 0 1545 54586 475 1214 257 8 512 2 16 252 1 189 182 65535 65535 0 0 0 0
+110381737:1:DATA recv from 6 ''
+110419938:2:DIO sent
+110496100:18:DIO sent
+110520205:21:DIO sent
+110749339:21:DIO sent
+110783913:18:DIO sent
+111002520:4:DIO sent
+111013078:12:DIO sent
+111247407:21:DIO sent
+111385382:18:DIO sent
+111609482:20:DIO sent
+111708283:13:DIO sent
+111855333:1:30 0 111 0 5397 1 5 0 22 13932 0 2559 53128 1031 1151 4369 16 1792 2 16 252 1 189 182 65535 65535 0 0 0 0
+111857841:1:DATA recv from 21 ''
+112014965:11:DIO sent
+112074387:18:DIO sent
+112129518:21:DIO sent
+112453159:20:DATA send to 1 'Hello 1'
+112807463:16:DIO sent
+112826452:10:DIO sent
+112946584:1:10 0 112 0 5140 72 5 0 27756 8303
+112949464:1:DATA recv from 20 'Hello 1'
+113700401:19:msg sent to sink seqno: 1
+113736913:18:DIO sent
+113826448:21:DIO sent
+114071968:9:DATA send to 1 'Hello 1'
+114076087:15:DIO sent
+114112023:1:DIO sent
+114389701:1:10 0 113 0 2313 72 3 0 27756 8303
+114392202:1:DATA recv from 9 'Hello 1'
+114519542:1:30 0 113 0 4883 1 5 0 22 14427 0 1696 55971 552 1222 4112 8 1536 2 16 252 1 189 182 65535 65535 0 0 0 0
+114522108:1:DATA recv from 19 ''
+115388654:19:DIO sent
+115449848:21:DATA send to 1 'Hello 1'
+116298981:1:10 0 115 0 5397 72 5 0 27756 8303
+116301861:1:DATA recv from 21 'Hello 1'
+116360286:4:DATA send to 1 'Hello 1'
+116382076:11:DATA send to 1 'Hello 1'
+116456359:9:DIO sent
+116600145:1:10 0 115 0 2827 72 2 0 27756 8303
+116603025:1:DATA recv from 11 'Hello 1'
+116690968:1:10 0 116 0 1028 72 3 0 27756 8303
+116693470:1:DATA recv from 4 'Hello 1'
+117410831:21:DIO sent
+117419858:3:DIO sent
+117594275:5:DIO sent
+117898088:7:DIO sent
+118016395:17:DIO sent
+118320299:20:DIO sent
+118366465:11:DIO sent
+118518169:18:DIO sent
+118672891:4:DIO sent
+118919282:13:DIO sent
+119045340:12:DIO sent
+119053430:8:DIO sent
+120009101:14:DIO sent
+120223750:6:DIO sent
+120240146:15:DIO sent
+120414485:8: 15367 P 0.18 3 163877 3767199 49017 120134 0 0 24498 958251 6538 22597 0 0 (radio 4.30% / 2.96% tx 1.24% / 0.66% listen 3.05% / 2.29%)
+120435715:1:DIO sent
+120542179:11: 15368 P 0.18 3 192869 3738947 52802 127629 0 0 43538 939440 12408 28027 0 0 (radio 4.58% / 4.11% tx 1.34% / 1.26% listen 3.24% / 2.85%)
+120587427:2: 15368 P 0.18 3 119020 3812292 26808 104559 0 0 24052 958688 4151 21145 0 0 (radio 3.34% / 2.57% tx 0.68% / 0.42% listen 2.65% / 2.15%)
+120601625:6: 15368 P 0.18 3 106608 3825046 32189 83928 0 0 19950 962983 3419 18693 0 0 (radio 2.95% / 2.24% tx 0.81% / 0.34% listen 2.13% / 1.90%)
+120677805:18: 15368 P 0.18 3 156574 3775382 65399 74020 0 0 36183 946803 14095 17973 0 0 (radio 3.54% / 3.26% tx 1.66% / 1.43% listen 1.88% / 1.82%)
+120699335:4: 15368 P 0.18 3 184380 3747479 73205 90280 0 0 21473 961512 4081 17041 0 0 (radio 4.15% / 2.14% tx 1.86% / 0.41% listen 2.29% / 1.73%)
+120753100:7: 15368 P 0.18 3 154148 3777735 30495 114197 0 0 40624 942356 9139 24914 0 0 (radio 3.67% / 3.46% tx 0.77% / 0.92% listen 2.90% / 2.53%)
+120801202:14: 15368 P 0.18 3 175471 3755967 42028 134144 0 0 44712 938150 10935 28487 0 0 (radio 4.48% / 4.01% tx 1.06% / 1.11% listen 3.41% / 2.89%)
+120813544:15: 15368 P 0.18 3 168951 3762680 67230 96039 0 0 25504 957385 7270 19206 0 0 (radio 4.15% / 2.69% tx 1.70% / 0.73% listen 2.44% / 1.95%)
+120823467:20: 15368 P 0.18 3 145911 3785665 57653 84421 0 0 26075 956852 7274 17867 0 0 (radio 3.61% / 2.55% tx 1.46% / 0.74% listen 2.14% / 1.81%)
+120824249:16: 15368 P 0.18 3 141765 3789975 38274 104987 0 0 28437 954505 5338 22100 0 0 (radio 3.64% / 2.79% tx 0.97% / 0.54% listen 2.67% / 2.24%)
+120907861:10: 15368 P 0.18 3 179550 3751614 50177 116784 0 0 29728 953013 7072 24705 0 0 (radio 4.24% / 3.23% tx 1.27% / 0.71% listen 2.97% / 2.51%)
+120945387:12: 15368 P 0.18 3 146386 3785206 40638 123475 0 0 23668 959211 5325 22610 0 0 (radio 4.17% / 2.84% tx 1.03% / 0.54% listen 3.14% / 2.30%)
+121058881:9: 15368 P 0.18 3 144750 3787277 43250 116465 0 0 27986 954968 6529 23323 0 0 (radio 4.06% / 3.03% tx 1.09% / 0.66% listen 2.96% / 2.37%)
+121065462:5: 15368 P 0.18 3 189556 3742160 80839 81925 0 0 25341 957396 7387 16071 0 0 (radio 4.13% / 2.38% tx 2.05% / 0.75% listen 2.08% / 1.63%)
+121069365:19: 15368 P 0.18 3 116397 3815098 37740 82452 0 0 25704 957254 7389 16568 0 0 (radio 3.05% / 2.43% tx 0.95% / 0.75% listen 2.09% / 1.68%)
+121161326:17: 15368 P 0.18 3 159819 3771968 47628 116914 0 0 36570 946423 10212 27381 0 0 (radio 4.18% / 3.82% tx 1.21% / 1.03% listen 2.97% / 2.78%)
+121180409:16:DIO sent
+121235239:13: 15368 P 0.18 3 198638 3733002 64833 127501 0 0 34905 947970 7939 26904 0 0 (radio 4.89% / 3.54% tx 1.64% / 0.80% listen 3.24% / 2.73%)
+121250697:3: 15368 P 0.18 3 201523 3729938 61248 122057 0 0 34807 947986 10643 21980 0 0 (radio 4.66% / 3.31% tx 1.55% / 1.08% listen 3.10% / 2.23%)
+121257401:21: 15368 P 0.18 3 186304 3745209 76522 80814 0 0 45791 937028 16791 19059 0 0 (radio 4.00% / 3.64% tx 1.94% / 1.70% listen 2.05% / 1.93%)
+121310867:2:DIO sent
+121693609:10:DIO sent
+122114636:6:msg sent to sink seqno: 2
+122180126:1:30 0 121 0 1542 2 1 0 22 15564 0 1205 47470 219 868 257 8 512 2 16 187 1 124 117 65535 65535 0 0 0 0
+122182252:1:DATA recv from 6 ''
+122379652:19:DIO sent
+124515267:7:DATA send to 1 'Hello 2'
+124588877:1:10 0 123 0 1799 72 1 0 27756 8303
+124591379:1:DATA recv from 7 'Hello 2'
+125079078:17:DIO sent
+125131587:8:DIO sent
+125196295:11:msg sent to sink seqno: 2
+125227737:4:msg sent to sink seqno: 2
+125356845:1:30 0 124 0 2827 2 2 0 22 15966 0 1924 42512 514 1180 1799 8 768 3 16 187 1 124 117 65535 65535 0 0 0 0
+125359347:1:DATA recv from 11 ''
+125769576:1:30 0 125 0 1028 2 3 0 22 15950 0 826 35442 139 619 771 8 1024 3 16 187 1 124 173 65535 65535 0 0 0 0
+125771747:1:DATA recv from 4 ''
+126018348:18:DIO sent
+126912829:8:DATA send to 1 'Hello 2'
+126935951:21:DIO sent
+126937600:11:DIO sent
+127094675:4:DIO sent
+127237646:1:10 0 126 0 2056 72 3 0 27756 8303
+127240147:1:DATA recv from 8 'Hello 2'
+127724087:3:DIO sent
+128037165:10:DATA send to 1 'Hello 2'
+128052116:21:DATA send to 1 'Hello 2'
+128157151:20:DIO sent
+128324330:1:10 0 127 0 2570 72 2 0 27756 8303
+128327275:1:DATA recv from 10 'Hello 2'
+128540917:9:DIO sent
+128688169:1:10 0 128 0 5397 72 5 0 27756 8303
+128691049:1:DATA recv from 21 'Hello 2'
+128842087:1:DIO sent
+128890313:2:DIO sent
+128919004:6:DIO sent
+129015979:7:DIO sent
+129180239:5:DIO sent
+129677979:10:DIO sent
+129754253:14:DIO sent
+129770553:12:DIO sent
+130615177:15:DIO sent
+130914546:5:DATA send to 1 'Hello 2'
+131042135:1:10 0 130 0 1285 72 3 0 27756 8303
+131044637:1:DATA recv from 5 'Hello 2'
+131075592:13:DIO sent
+132078834:17:DIO sent
+132156789:16:DIO sent
+132707653:19:DIO sent
+133229132:18:DIO sent
+133250081:20:DIO sent
+133405085:8:DIO sent
+133469844:14:DATA send to 1 'Hello 2'
+133496736:21:DIO sent
+133538742:7:DIO sent
+134308519:1:10 0 133 0 3598 72 3 0 27756 8303
+134311407:1:DATA recv from 14 'Hello 2'
+135168817:6:DIO sent
+135716218:13:DIO sent
+135863815:2:DIO sent
+135915918:9:DIO sent
+136232697:10:DIO sent
+136388137:12:DIO sent
+136516115:5:DIO sent
+136786373:3:DIO sent
+136885315:18:DATA send to 1 'Hello 2'
+137032144:4:DIO sent
+137378761:14:DIO sent
+137418770:12:DATA send to 1 'Hello 2'
+137443587:1:DIO sent
+137559367:11:DIO sent
+137677961:1:10 0 137 0 4626 72 6 0 27756 8303
+137680846:1:DATA recv from 18 'Hello 2'
+137916965:1:10 0 137 0 3084 72 4 0 27756 8303
+137919845:1:DATA recv from 12 'Hello 2'
+138033381:16:DIO sent
+138044986:15:DIO sent
+139911984:15:DATA send to 1 'Hello 2'
+140093272:1:10 0 139 0 3855 72 4 0 27756 8303
+140096152:1:DATA recv from 15 'Hello 2'
+140367896:17:DIO sent
+140430189:16:DATA send to 1 'Hello 2'
+140713710:1:10 0 140 0 4112 72 4 0 27756 8303
+140716590:1:DATA recv from 16 'Hello 2'
+141191998:19:DIO sent
+141385382:18:DIO sent
+141435084:3:DIO sent
+141504610:21:DIO sent
+141922014:20:DIO sent
+142681784:9:DIO sent
+142775542:8:DIO sent
+142796702:11:DIO sent
+142811744:11:DATA send to 1 'Hello 2'
+142891036:7:DIO sent
+143014898:1:10 0 142 0 2827 72 2 0 27756 8303
+143017781:1:DATA recv from 11 'Hello 2'
+143648958:5:DIO sent
+143700158:6:DIO sent
+143758920:4:DIO sent
+143903334:12:DIO sent
+144114290:12:msg sent to sink seqno: 2
+144329288:14:DIO sent
+144462108:1:30 0 143 0 3084 2 4 0 22 18336 0 934 33635 235 804 3341 8 1280 4 16 187 1 124 117 65535 65535 0 0 0 0
+144464614:1:DATA recv from 12 ''
+145107731:15:msg sent to sink seqno: 2
+145208254:19:DATA send to 1 'Hello 2'
+145513094:13:DIO sent
+145617364:1:10 0 144 0 4883 72 5 0 27756 8303
+145620244:1:DATA recv from 19 'Hello 2'
+145671769:2:DIO sent
+146127901:1:30 0 145 0 3855 2 4 0 22 18480 0 1277 46628 339 981 3341 14 1280 2 16 187 1 124 117 65535 65535 0 0 0 0
+146130402:1:DATA recv from 15 ''
+146576054:15:DIO sent
+147221861:16:DIO sent
+147225282:10:DIO sent
+147467057:1:DIO sent
+149516486:17:DIO sent
+149621690:19:DIO sent
+149631586:8:DIO sent
+149915824:9:DIO sent
+150414236:8: 19207 P 0.18 4 191034 4723036 55255 144359 0 0 27154 955837 6238 24225 0 0 (radio 4.06% / 3.09% tx 1.12% / 0.63% listen 2.93% / 2.46%)
+150541044:11: 19208 P 0.18 4 226395 4688382 61163 149617 0 0 33523 949435 8361 21988 0 0 (radio 4.28% / 3.08% tx 1.24% / 0.85% listen 3.04% / 2.23%)
+150587375:2: 19208 P 0.18 4 144496 4769816 32265 125568 0 0 25473 957524 5457 21009 0 0 (radio 3.21% / 2.69% tx 0.65% / 0.55% listen 2.55% / 2.13%)
+150601577:6: 19208 P 0.18 4 128506 4786161 37272 101349 0 0 21895 961115 5083 17421 0 0 (radio 2.82% / 2.28% tx 0.75% / 0.51% listen 2.06% / 1.77%)
+150676981:18: 19208 P 0.18 4 177937 4736926 70726 89125 0 0 21360 961544 5327 15105 0 0 (radio 3.25% / 2.07% tx 1.43% / 0.54% listen 1.81% / 1.53%)
+150699589:4: 19208 P 0.18 4 208226 4706578 78929 107150 0 0 23843 959099 5724 16870 0 0 (radio 3.78% / 2.29% tx 1.60% / 0.58% listen 2.18% / 1.71%)
+150753004:7: 19208 P 0.18 4 189788 4724870 37448 138015 0 0 35637 947135 6953 23818 0 0 (radio 3.57% / 3.13% tx 0.76% / 0.70% listen 2.80% / 2.42%)
+150758821:17:msg sent to sink seqno: 2
+150801472:14: 19208 P 0.18 4 205558 4708874 47182 158740 0 0 30084 952907 5154 24596 0 0 (radio 4.19% / 3.02% tx 0.96% / 0.52% listen 3.23% / 2.50%)
+150813487:15: 19208 P 0.18 4 198682 4715887 74876 116476 0 0 29728 953207 7646 20437 0 0 (radio 3.89% / 2.85% tx 1.52% / 0.77% listen 2.37% / 2.07%)
+150823441:20: 19208 P 0.18 4 167708 4746866 62646 100165 0 0 21794 961201 4993 15744 0 0 (radio 3.31% / 2.10% tx 1.27% / 0.50% listen 2.03% / 1.60%)
+150824222:16: 19208 P 0.18 4 164812 4749856 42183 123073 0 0 23044 959881 3909 18086 0 0 (radio 3.36% / 2.23% tx 0.85% / 0.39% listen 2.50% / 1.84%)
+150908992:10: 19208 P 0.18 4 214849 4699313 60416 140390 0 0 35296 947699 10239 23606 0 0 (radio 4.08% / 3.44% tx 1.22% / 1.04% listen 2.85% / 2.40%)
+150945571:12: 19208 P 0.18 4 173254 4741287 46582 146085 0 0 26865 956081 5944 22610 0 0 (radio 3.92% / 2.90% tx 0.94% / 0.60% listen 2.97% / 2.30%)
+151028047:21:DIO sent
+151059441:9: 19208 P 0.18 4 169924 4745125 49792 137371 0 0 25171 957848 6542 20906 0 0 (radio 3.80% / 2.79% tx 1.01% / 0.66% listen 2.79% / 2.12%)
+151065643:5: 19208 P 0.18 4 211084 4703653 86081 97033 0 0 21525 961493 5242 15108 0 0 (radio 3.72% / 2.07% tx 1.75% / 0.53% listen 1.97% / 1.53%)
+151069976:19: 19208 P 0.18 4 142291 4772202 45068 97785 0 0 25891 957104 7328 15333 0 0 (radio 2.90% / 2.30% tx 0.91% / 0.74% listen 1.98% / 1.55%)
+151159768:17: 19208 P 0.18 4 191572 4722977 56701 137363 0 0 31750 951009 9073 20449 0 0 (radio 3.94% / 3.00% tx 1.15% / 0.92% listen 2.79% / 2.08%)
+151178286:6:DIO sent
+151235232:13: 19208 P 0.18 4 228430 4686191 71629 153067 0 0 29789 953189 6796 25566 0 0 (radio 4.57% / 3.29% tx 1.45% / 0.69% listen 3.11% / 2.60%)
+151249489:1:30 0 150 0 4369 2 4 0 22 19159 0 1166 34156 331 825 3598 11 1280 3 16 187 1 124 173 65535 65535 0 0 0 0
+151250324:3: 19208 P 0.18 4 233355 4681102 69561 144131 0 0 31829 951164 8313 22074 0 0 (radio 4.34% / 3.09% tx 1.41% / 0.84% listen 2.93% / 2.24%)
+151251989:1:DATA recv from 17 ''
+151257599:21: 19208 P 0.18 4 211052 4703464 82348 95943 0 0 24745 958255 5826 15129 0 0 (radio 3.62% / 2.13% tx 1.67% / 0.59% listen 1.95% / 1.53%)
+151683784:18:DIO sent
+151835679:7:DIO sent
+152358440:10:msg sent to sink seqno: 2
+152413371:11:DIO sent
+152674943:1:30 0 152 0 2570 2 2 0 22 19396 0 1358 39957 368 989 1799 8 768 5 16 187 1 124 173 65535 65535 0 0 0 0
+152677444:1:DATA recv from 10 ''
+152695450:20:DIO sent
+152977701:4:DIO sent
+153018421:18:msg sent to sink seqno: 2
+153076339:2:DIO sent
+153220034:14:DIO sent
+153442215:12:DIO sent
+153544278:3:DIO sent
+153789051:1:30 0 153 0 4626 2 6 0 22 19510 0 1585 50672 542 915 5397 8 1792 1 16 187 1 124 117 65535 65535 0 0 0 0
+153791552:1:DATA recv from 18 ''
+153881321:15:DIO sent
+154529561:1:DIO sent
+154648866:5:DIO sent
+155903778:13:DIO sent
+156162786:10:DIO sent
+156984945:16:DIO sent
+156985114:17:DIO sent
+157187559:20:DATA send to 1 'Hello 2'
+158006338:1:10 0 157 0 5140 72 5 0 27756 8303
+158009218:1:DATA recv from 20 'Hello 2'
+158122418:19:DIO sent
+158616082:8:DIO sent
+159110288:5:msg sent to sink seqno: 2
+159305642:4:DIO sent
+159411294:3:DATA send to 1 'Hello 2'
+159423530:1:30 0 158 0 1285 2 3 0 22 20240 0 821 33745 223 550 771 14 1024 2 16 187 1 124 173 65535 65535 0 0 0 0
+159425652:1:DATA recv from 5 ''
+159506750:2:msg sent to sink seqno: 2
+159597961:1:30 0 158 0 514 2 1 0 22 20352 0 1191 43624 240 964 257 8 512 2 16 135 1 72 65 65535 65535 0 0 0 0
+159600159:1:DATA recv from 2 ''
+159704370:7:DIO sent
+159728235:9:DIO sent
+159834941:21:DIO sent
+159835428:11:DIO sent
+159945429:1:10 0 159 0 771 72 2 0 27756 8303
+159947933:1:DATA recv from 3 'Hello 2'
+160002510:18:DIO sent
+160249945:3:DIO sent
+160270340:12:DIO sent
+160492386:20:DIO sent
+160599491:15:DIO sent
+160928651:10:DIO sent
+161113404:14:DIO sent
+161145411:6:DIO sent
+161154566:13:msg sent to sink seqno: 2
+161329439:1:30 0 160 0 3341 2 3 0 22 20480 0 1840 55633 434 1494 2570 8 1024 5 16 194 1 131 124 65535 65535 0 0 0 0
+161331940:1:DATA recv from 13 ''
+161344662:4:DATA send to 1 'Hello 2'
+161406759:16:DIO sent
+161497103:1:10 0 160 0 1028 72 3 0 27756 8303
+161499604:1:DATA recv from 4 'Hello 2'
+162118104:7:msg sent to sink seqno: 2
+162191600:1:30 0 161 0 1799 2 1 0 22 20665 0 1497 37075 295 942 257 8 512 4 16 187 1 124 117 65535 65535 0 0 0 0
+162193768:1:DATA recv from 7 ''
+162406772:5:DIO sent
+162787232:13:DIO sent
+162802963:2:DIO sent
+164205634:18:DIO sent
+164293594:19:DIO sent
+164428601:1:DIO sent
+165836676:17:DIO sent
+165934297:21:DIO sent
+166282114:4:DIO sent
+166442653:3:DIO sent
+167367420:20:DIO sent
+167569590:11:DIO sent
+168454885:9:DIO sent
+168497003:6:DIO sent
+168545200:6:DATA send to 1 'Hello 2'
+168585968:1:10 0 167 0 1542 72 1 0 27756 8303
+168588470:1:DATA recv from 6 'Hello 2'
+169141008:7:DIO sent
+169582839:12:DIO sent
+169797018:15:DIO sent
+169798036:14:DIO sent
+169952448:8:msg sent to sink seqno: 2
+170074427:8:DIO sent
+170319974:1:30 0 169 0 2056 2 3 0 22 21710 0 1334 49849 314 1192 771 9 1024 5 16 187 1 124 173 65535 65535 0 0 0 0
+170322095:1:DATA recv from 8 ''
+170575502:13:DIO sent
+170677963:2:DIO sent
+170856060:19:DIO sent
+170857057:3:msg sent to sink seqno: 2
+170865461:1:DIO sent
+170995389:1:30 0 170 0 771 2 2 0 22 21720 0 1415 39423 383 946 514 12 768 5 16 187 1 124 117 65535 65535 0 0 0 0
+170997513:1:DATA recv from 3 ''
+171148959:5:DIO sent
+171779358:10:DIO sent
+172370527:9:msg sent to sink seqno: 2
+172616675:1:30 0 171 0 2313 2 3 0 22 21938 0 1653 63566 356 1494 771 8 1024 4 16 187 1 12 5 65535 65535 0 0 0 0
+172618797:1:DATA recv from 9 ''
+172778482:21:msg sent to sink seqno: 2
+172947175:20:msg sent to sink seqno: 2
+173432048:1:30 0 172 0 5397 2 5 0 22 21965 0 1905 62353 571 1073 4369 12 1536 2 16 194 1 131 124 65535 65535 0 0 0 0
+173434548:1:DATA recv from 21 ''
+173463478:18:DIO sent
+173517721:16:DIO sent
+173732467:1:30 0 173 0 5140 2 5 0 22 22042 0 900 35024 250 625 4112 12 1536 2 16 187 1 124 173 65535 65535 0 0 0 0
+173735044:1:DATA recv from 20 ''
+173810549:2:DATA send to 1 'Hello 2'
+173834642:1:10 0 173 0 514 72 1 0 27756 8303
+173837143:1:DATA recv from 2 'Hello 2'
+174113985:21:DIO sent
+174407656:16:msg sent to sink seqno: 2
+174729331:1:30 0 174 0 4112 2 4 0 22 22229 0 1114 39451 243 816 3598 9 1280 4 16 187 1 124 117 65535 65535 0 0 0 0
+174731831:1:DATA recv from 16 ''
+175244285:9:DIO sent
+175709720:3:DIO sent
+175711459:5:DIO sent
+176125894:4:DIO sent
+176149117:17:DIO sent
+176861031:9:DATA send to 1 'Hello 2'
+176974522:15:DIO sent
+177136154:1:10 0 176 0 2313 72 3 0 27756 8303
+177138657:1:DATA recv from 9 'Hello 2'
+177217553:8:DIO sent
+177625665:17:DATA send to 1 'Hello 2'
+177697570:14:msg sent to sink seqno: 2
+177794910:2:DIO sent
+178093213:1:30 0 177 0 3598 2 3 0 22 22653 0 1349 36399 286 996 2827 8 1024 5 16 187 1 124 117 65535 65535 0 0 0 0
+178095713:1:DATA recv from 14 ''
+178133712:11:DIO sent
+178177301:6:DIO sent
+178329729:20:DIO sent
+178335526:7:DIO sent
+178747851:1:10 0 178 0 4369 72 4 0 27756 8303
+178750797:1:DATA recv from 17 'Hello 2'
+178950563:13:DIO sent
+179094913:14:DIO sent
+179153336:12:DIO sent
+179458301:13:DATA send to 1 'Hello 2'
+179805760:1:10 0 179 0 3341 72 3 0 27756 8303
+179808640:1:DATA recv from 13 'Hello 2'
+180072381:1:DIO sent
+180107453:10:DIO sent
+180341049:19:DIO sent
+180359871:19:msg sent to sink seqno: 2
+180414504:8: 23047 P 0.18 5 217386 5679598 61072 167957 0 0 26349 956562 5817 23598 0 0 (radio 3.88% / 2.99% tx 1.03% / 0.59% listen 2.84% / 2.40%)
+180541835:11: 23048 P 0.18 5 264222 5633553 70685 174355 0 0 37824 945171 9522 24738 0 0 (radio 4.15% / 3.48% tx 1.19% / 0.96% listen 2.95% / 2.51%)
+180587127:2: 23048 P 0.18 5 178006 5719253 40210 147113 0 0 33507 949437 7945 21545 0 0 (radio 3.17% / 3.00% tx 0.68% / 0.80% listen 2.49% / 2.19%)
+180601654:6: 23048 P 0.18 5 150180 5747401 42346 120501 0 0 21671 961240 5074 19152 0 0 (radio 2.76% / 2.46% tx 0.71% / 0.51% listen 2.04% / 1.94%)
+180677814:18: 23048 P 0.18 5 201644 5696195 77751 105290 0 0 23704 959269 7025 16165 0 0 (radio 3.10% / 2.35% tx 1.31% / 0.71% listen 1.78% / 1.64%)
+180699668:4: 23048 P 0.18 5 236643 5661162 87661 124916 0 0 28414 954584 8732 17766 0 0 (radio 3.60% / 2.69% tx 1.48% / 0.88% listen 2.11% / 1.80%)
+180753665:7: 23048 P 0.18 5 226310 5671233 45073 160765 0 0 36519 946363 7625 22750 0 0 (radio 3.49% / 3.09% tx 0.76% / 0.77% listen 2.72% / 2.31%)
+180801230:14: 23048 P 0.18 5 245742 5651688 57210 184478 0 0 40181 942814 10028 25738 0 0 (radio 4.09% / 3.63% tx 0.97% / 1.02% listen 3.12% / 2.61%)
+180813925:15: 23048 P 0.18 5 219194 5678113 79868 135830 0 0 20509 962226 4992 19354 0 0 (radio 3.65% / 2.47% tx 1.35% / 0.50% listen 2.30% / 1.96%)
+180815719:1:30 0 180 0 4883 2 5 0 22 22959 0 889 33238 255 558 4112 9 1536 2 16 187 1 124 173 65535 65535 0 0 0 0
+180818220:1:DATA recv from 19 ''
+180823468:20: 23048 P 0.18 5 193961 5703561 70083 118370 0 0 26250 956695 7437 18205 0 0 (radio 3.19% / 2.60% tx 1.18% / 0.75% listen 2.00% / 1.85%)
+180824249:16: 23048 P 0.18 5 196305 5701166 50047 143733 0 0 31490 951310 7864 20660 0 0 (radio 3.28% / 2.90% tx 0.84% / 0.80% listen 2.43% / 2.10%)
+180907863:10: 23048 P 0.18 5 245050 5651869 68640 163412 0 0 30198 952556 8224 23022 0 0 (radio 3.93% / 3.17% tx 1.16% / 0.83% listen 2.77% / 2.34%)
+180945706:12: 23048 P 0.18 5 197388 5700137 53237 168269 0 0 24131 958850 6655 22184 0 0 (radio 3.75% / 2.93% tx 0.90% / 0.67% listen 2.85% / 2.25%)
+181024342:16:DIO sent
+181059801:9: 23048 P 0.18 5 196836 5701183 55903 159164 0 0 26909 956058 6111 21793 0 0 (radio 3.64% / 2.83% tx 0.94% / 0.62% listen 2.69% / 2.21%)
+181066436:5: 23048 P 0.18 5 235623 5661933 93106 114167 0 0 24536 958280 7025 17134 0 0 (radio 3.51% / 2.45% tx 1.57% / 0.71% listen 1.93% / 1.74%)
+181070370:19: 23048 P 0.18 5 168390 5729131 52462 114890 0 0 26096 956929 7394 17105 0 0 (radio 2.83% / 2.49% tx 0.88% / 0.75% listen 1.94% / 1.74%)
+181159763:17: 23048 P 0.18 5 222652 5674878 64042 159683 0 0 31077 951901 7341 22320 0 0 (radio 3.79% / 3.01% tx 1.08% / 0.74% listen 2.70% / 2.27%)
+181236392:13: 23048 P 0.18 5 258446 5639172 79403 178396 0 0 30013 952981 7774 25329 0 0 (radio 4.37% / 3.36% tx 1.34% / 0.79% listen 3.02% / 2.57%)
+181250652:3: 23048 P 0.18 5 264973 5632397 75887 168492 0 0 31615 951295 6326 24361 0 0 (radio 4.14% / 3.12% tx 1.28% / 0.64% listen 2.85% / 2.47%)
+181258965:21: 23048 P 0.18 5 232199 5665252 86255 113027 0 0 21144 961788 3907 17084 0 0 (radio 3.37% / 2.13% tx 1.46% / 0.39% listen 1.91% / 1.73%)
+181313391:17:DIO sent
+181796099:17:DAO sent
+181815903:17:DIO sent
+181837222:14:DIO sent
+181853697:16:DIO sent
+181900633:16:DIO sent
+181952033:14:DIO sent
+181952979:17:DIO sent
+182002114:16:DIO sent
+182036017:21:DIO sent
+182099904:21:DIO sent
+182104269:14:DIO sent
+182114967:17:DIO sent
+182228675:16:DIO sent
+182262039:18:DIO sent
+182270235:21:DIO sent
+182317702:18:DIO sent
+182347460:17:DIO sent
+182352694:14:DIO sent
+182482571:3:DIO sent
+182518164:18:DIO sent
+182587924:21:DIO sent
+182662405:19:DIO sent
+182665829:20:DIO sent
+182667767:17:DAO sent
+182672446:16:DIO sent
+182682394:14:DIO sent
+182687199:17:DIO sent
+182728264:20:DIO sent
+182736719:17:DIO sent
+182736978:18:DIO sent
+182778088:19:DIO sent
+182913071:20:DIO sent
+182928946:19:DIO sent
+182929054:21:DIO sent
+182936377:17:DIO sent
+183119253:9:DIO sent
+183127332:17:DIO sent
+183132473:19:DIO sent
+183148575:20:DIO sent
+183323586:18:DIO sent
+183614026:19:DIO sent
+183720863:16:DIO sent
+183738427:14:DIO sent
+183765329:17:DIO sent
+183767105:20:DIO sent
+183921502:7:DATA send to 1 'Hello 3'
+183970929:1:10 0 183 0 1799 72 1 0 27756 8303
+183973431:1:DATA recv from 7 'Hello 3'
+184207736:21:DIO sent
+184265458:7:DIO sent
+184479164:18:DIO sent
+184590435:19:DIO sent
+184650250:4:DIO sent
+184761479:20:DIO sent
+184766486:17:DIO sent
+185420230:15:DIO sent
+185494028:11:DIO sent
+185497206:12:DIO sent
+185528438:6:DIO sent
+185664828:5:DIO sent
+185788018:8:DIO sent
+185789664:16:DIO sent
+185938814:14:DIO sent
+186076400:2:DIO sent
+186113903:19:DIO sent
+186114017:21:DIO sent
+186297984:17:DIO sent
+186346578:17:DAO sent
+186469559:20:DIO sent
+186518194:18:DIO sent
+186717227:15:msg sent to sink seqno: 3
+187002184:7:msg sent to sink seqno: 3
+187100453:1:30 0 186 0 1799 3 1 0 22 23850 0 1945 49009 440 1185 257 8 512 4 16 59 1 252 245 65535 65535 0 0 0 0
+187102576:1:DATA recv from 7 ''
+187122261:21:msg sent to sink seqno: 3
+187215707:1:30 0 186 0 3855 3 4 0 22 23806 0 1071 41525 283 902 3341 14 1280 2 16 171 1 108 101 65535 65535 0 0 0 0
+187218205:1:DATA recv from 15 ''
+187227979:16:msg sent to sink seqno: 3
+187517214:1:30 0 186 0 5397 3 5 0 22 23801 0 3207 55532 1282 1465 4369 11 1792 2 8 178 1 115 108 65535 65535 0 0 0 0
+187519714:1:DATA recv from 21 ''
+187778216:6:DATA send to 1 'Hello 3'
+187779329:10:DIO sent
+187824648:1:10 0 187 0 1542 72 1 0 27756 8303
+187827215:1:DATA recv from 6 'Hello 3'
+188138936:1:DIO sent
+188216310:13:DIO sent
+188255556:1:30 0 187 0 4112 3 4 0 22 23870 0 2912 49595 811 1638 3598 10 1536 4 8 171 1 108 101 65535 65535 0 0 0 0
+188258121:1:DATA recv from 16 ''
+189166080:14:DIO sent
+189614821:12:DATA send to 1 'Hello 3'
+189712592:17:DIO sent
+189712605:16:DIO sent
+189809876:21:DIO sent
+189909928:1:10 0 189 0 3084 72 4 0 27756 8303
+189912843:1:DATA recv from 12 'Hello 3'
+190032059:20:DIO sent
+190361948:18:DIO sent
+190785719:19:DIO sent
+191102670:4:DIO sent
+191641011:7:DIO sent
+192161432:6:DIO sent
+192335371:11:DIO sent
+192959802:8:DIO sent
+193141152:20:msg sent to sink seqno: 3
+193212819:9:DIO sent
+193414734:17:DATA send to 1 'Hello 3'
+193733032:1:30 0 193 0 5140 3 5 0 22 24627 0 1754 39598 549 942 4112 12 1792 2 16 178 1 115 108 65535 65535 0 0 0 0
+193735533:1:DATA recv from 20 ''
+193806962:17:DIO sent
+193845064:14:DIO sent
+193869440:17:DIO sent
+193885519:14:DIO sent
+193904502:19:DIO sent
+193914602:16:DIO sent
+193950378:1:10 0 193 0 4369 72 4 0 27756 8303
+193953257:1:DATA recv from 17 'Hello 3'
+193959249:19:DIO sent
+193978635:16:DIO sent
+193978815:17:DIO sent
+193979269:14:DIO sent
+193984426:20:DIO sent
+194092304:20:DIO sent
+194103645:16:DIO sent
+194122326:19:DIO sent
+194221398:20:DIO sent
+194237843:14:DIO sent
+194274178:17:DIO sent
+194302916:19:DIO sent
+194346957:21:DIO sent
+194351086:15:DIO sent
+194359121:16:DIO sent
+194396738:21:DIO sent
+194461044:20:DIO sent
+194466187:3:DIO sent
+194559267:21:DIO sent
+194575453:18:DIO sent
+194641756:14:DIO sent
+194706031:18:DIO sent
+194767720:16:DIO sent
+194768902:17:DIO sent
+194776532:19:DIO sent
+194865520:21:DIO sent
+194885323:18:DIO sent
+195132891:20:DIO sent
+195197882:18:DIO sent
+195276522:21:DIO sent
+195348942:13:DIO sent
+195435774:1:DIO sent
+195453676:5:DIO sent
+195614026:19:DIO sent
+195643227:18:DIO sent
+195807411:14:DIO sent
+195846861:16:DIO sent
+195867927:17:DIO sent
+195872369:13:DATA send to 1 'Hello 3'
+196086014:20:DIO sent
+196107497:2:DIO sent
+196200576:12:DIO sent
+196314094:1:10 0 195 0 3341 72 3 0 27756 8303
+196316974:1:DATA recv from 13 'Hello 3'
+196317114:21:DIO sent
+196658851:18:DIO sent
+196986293:9:msg sent to sink seqno: 3
+197165165:14:DIO sent
+197468008:19:DIO sent
+197484514:20:DIO sent
+197537816:10:DIO sent
+197663400:21:DIO sent
+197680379:16:DIO sent
+197770265:1:30 0 197 0 2313 3 3 0 22 25089 0 1519 48892 382 993 771 8 1024 4 16 112 1 49 42 65535 65535 0 0 0 0
+197772385:1:DATA recv from 9 ''
+197953987:17:DIO sent
+198032226:5:msg sent to sink seqno: 3
+198197023:1:30 0 197 0 1285 3 3 0 22 25222 0 975 38872 271 696 771 13 1024 2 16 178 1 115 108 65535 65535 0 0 0 0
+198199145:1:DATA recv from 5 ''
+198815040:18:DIO sent
+199023631:2:msg sent to sink seqno: 3
+199067634:1:30 0 198 0 514 3 1 0 22 25410 0 1283 39177 309 857 257 8 512 2 16 207 1 200 193 65535 65535 0 0 0 0
+199069755:1:DATA recv from 2 ''
+199762909:3:DIO sent
+200128966:9:DIO sent
+200140275:7:DIO sent
+200302399:3:msg sent to sink seqno: 3
+200432393:1:30 0 199 0 771 3 2 0 22 25489 0 2053 58242 495 1342 514 11 768 5 16 171 1 108 101 65535 65535 0 0 0 0
+200434515:1:DATA recv from 3 ''
+200444117:8:DATA send to 1 'Hello 3'
+200448969:20:DIO sent
+200508554:17:DIO sent
+200801342:19:DIO sent
+200837645:1:10 0 200 0 2056 72 3 0 27756 8303
+200840146:1:DATA recv from 8 'Hello 3'
+201118900:14:DIO sent
+201313073:16:DIO sent
+201685397:15:DIO sent
+201688418:5:DIO sent
+201840848:12:msg sent to sink seqno: 3
+202020440:6:DIO sent
+202111945:18:DIO sent
+202199621:1:30 0 201 0 3084 3 4 0 22 25725 0 1428 57677 333 1454 3341 8 1280 4 16 171 1 108 101 65535 65535 0 0 0 0
+202202187:1:DATA recv from 12 ''
+202412896:8:DIO sent
+202638949:21:DIO sent
+203104109:4:DIO sent
+203122376:13:DIO sent
+203333833:15:DATA send to 1 'Hello 3'
+203498061:2:DIO sent
+203524337:11:DIO sent
+203854105:1:10 0 203 0 3855 72 4 0 27756 8303
+203856985:1:DATA recv from 15 'Hello 3'
+204491919:10:DIO sent
+204513077:12:DIO sent
+205881149:1:DIO sent
+206832626:19:DIO sent
+207001102:14:DIO sent
+207360114:17:DIO sent
+207650289:9:DIO sent
+207957675:21:DIO sent
+208049568:18:DIO sent
+208280559:8:msg sent to sink seqno: 3
+208356500:6:DIO sent
+208597361:1:30 0 207 0 2056 3 3 0 22 26616 0 1134 38108 296 948 771 9 1024 5 16 178 1 115 108 65535 65535 0 0 0 0
+208599482:1:DATA recv from 8 ''
+208648545:20:DIO sent
+209070055:7:DIO sent
+209117678:5:DIO sent
+209165697:11:msg sent to sink seqno: 3
+209255185:3:DIO sent
+209364295:1:30 0 208 0 2827 3 2 0 22 26714 0 1500 41485 347 1183 1799 8 768 3 16 171 1 108 157 65535 65535 0 0 0 0
+209366795:1:DATA recv from 11 ''
+209398895:5:DATA send to 1 'Hello 3'
+209445824:16:DIO sent
+209573014:1:10 0 208 0 1285 72 3 0 27756 8303
+209575515:1:DATA recv from 5 'Hello 3'
+209640280:2:DIO sent
+209692215:12:DIO sent
+209844767:4:DIO sent
+210368059:11:DIO sent
+210373804:8:DIO sent
+210415364:8: 26887 P 0.18 6 246523 6633436 68431 191258 0 0 29134 953838 7359 23301 0 0 (radio 3.77% / 3.11% tx 0.99% / 0.74% listen 2.77% / 2.37%)
+210476577:20:DATA send to 1 'Hello 3'
+210541105:11: 26888 P 0.18 6 294469 6586036 75417 207378 0 0 30244 952483 4732 33023 0 0 (radio 4.11% / 3.84% tx 1.09% / 0.48% listen 3.01% / 3.36%)
+210587024:2: 26888 P 0.18 6 207823 6672428 46546 167601 0 0 29814 953175 6336 20488 0 0 (radio 3.11% / 2.72% tx 0.67% / 0.64% listen 2.43% / 2.08%)
+210602530:6: 26888 P 0.18 6 174528 6706067 49086 139540 0 0 24345 958666 6740 19039 0 0 (radio 2.74% / 2.62% tx 0.71% / 0.68% listen 2.02% / 1.93%)
+210679891:18: 26888 P 0.18 6 251495 6629362 100938 125165 0 0 49848 933167 23187 19875 0 0 (radio 3.28% / 4.38% tx 1.46% / 2.35% listen 1.81% / 2.02%)
+210699356:4: 26888 P 0.18 6 258385 6622180 92654 141327 0 0 21739 961018 4993 16411 0 0 (radio 3.40% / 2.17% tx 1.34% / 0.50% listen 2.05% / 1.66%)
+210717986:4:msg sent to sink seqno: 3
+210753015:7: 26888 P 0.18 6 265944 6614545 53259 185291 0 0 39631 943312 8186 24526 0 0 (radio 3.46% / 3.32% tx 0.77% / 0.83% listen 2.69% / 2.49%)
+210801805:14: 26888 P 0.18 6 306019 6574355 78267 220799 0 0 60274 922667 21057 36321 0 0 (radio 4.34% / 5.83% tx 1.13% / 2.14% listen 3.20% / 3.69%)
+210813797:15: 26888 P 0.18 6 242784 6637451 84774 160086 0 0 23587 959338 4906 24256 0 0 (radio 3.55% / 2.96% tx 1.23% / 0.49% listen 2.32% / 2.46%)
+210823762:20: 26888 P 0.18 6 243026 6637480 88862 140736 0 0 49062 933919 18779 22366 0 0 (radio 3.33% / 4.18% tx 1.29% / 1.91% listen 2.04% / 2.27%)
+210824555:16: 26888 P 0.18 6 248453 6631804 66800 169255 0 0 52145 930638 16753 25522 0 0 (radio 3.43% / 4.30% tx 0.97% / 1.70% listen 2.46% / 2.59%)
+210831514:1:10 0 210 0 5140 72 5 0 27756 8303
+210834393:1:DATA recv from 20 'Hello 3'
+210907504:10: 26888 P 0.18 6 275366 6604546 75210 191853 0 0 30313 952677 6570 28441 0 0 (radio 3.88% / 3.56% tx 1.09% / 0.66% listen 2.78% / 2.89%)
+210945600:12: 26888 P 0.18 6 224569 6655849 60594 193788 0 0 27178 955712 7357 25519 0 0 (radio 3.69% / 3.34% tx 0.88% / 0.74% listen 2.81% / 2.59%)
+211027322:1:30 0 210 0 1028 3 3 0 22 26892 0 1126 42638 303 762 771 12 1024 3 16 178 1 115 108 65535 65535 0 0 0 0
+211029444:1:DATA recv from 4 ''
+211059713:9: 26888 P 0.18 6 221743 6659170 61357 180858 0 0 24904 957987 5454 21694 0 0 (radio 3.52% / 2.76% tx 0.89% / 0.55% listen 2.62% / 2.20%)
+211066695:5: 26888 P 0.18 6 262163 6618379 100287 131003 0 0 26537 956446 7181 16836 0 0 (radio 3.36% / 2.44% tx 1.45% / 0.73% listen 1.90% / 1.71%)
+211070684:19: 26888 P 0.18 6 210458 6670021 68546 136222 0 0 42065 940890 16084 21332 0 0 (radio 2.97% / 3.80% tx 0.99% / 1.63% listen 1.97% / 2.17%)
+211160024:17: 26888 P 0.18 6 282023 6598437 85945 189343 0 0 59368 923559 21903 29660 0 0 (radio 4.00% / 5.24% tx 1.24% / 2.22% listen 2.75% / 3.01%)
+211234523:13: 26888 P 0.18 6 294295 6586320 88269 209263 0 0 35846 947148 8866 30867 0 0 (radio 4.32% / 4.04% tx 1.28% / 0.90% listen 3.04% / 3.14%)
+211250373:3: 26888 P 0.18 6 303987 6576378 86620 191319 0 0 39011 943981 10733 22827 0 0 (radio 4.03% / 3.41% tx 1.25% / 1.09% listen 2.78% / 2.32%)
+211258675:21: 26888 P 0.18 6 283706 6596747 107266 137175 0 0 51504 931495 21011 24148 0 0 (radio 3.55% / 4.59% tx 1.55% / 2.13% listen 1.99% / 2.45%)
+212099521:15:DIO sent
+212420186:1:DIO sent
+212787855:6:msg sent to sink seqno: 3
+212833031:1:30 0 212 0 1542 3 1 0 22 27170 0 1067 45353 264 876 257 8 512 2 16 3 1 252 245 65535 65535 0 0 0 0
+212835154:1:DATA recv from 6 ''
+213145813:13:DIO sent
+214006014:10:DIO sent
+214912184:10:DATA send to 1 'Hello 3'
+215007718:1:10 0 214 0 2570 72 2 0 27756 8303
+215010599:1:DATA recv from 10 'Hello 3'
+216002600:18:DIO sent
+216715891:19:msg sent to sink seqno: 3
+216792097:19:DIO sent
+217080351:1:30 0 216 0 4883 3 5 0 22 27613 0 1515 35709 525 775 4112 9 1536 2 16 178 1 115 108 65535 65535 0 0 0 0
+217082852:1:DATA recv from 19 ''
+217200098:6:DIO sent
+217648485:20:DIO sent
+217786315:3:DIO sent
+218009098:14:DIO sent
+218103616:5:DIO sent
+218132635:12:DIO sent
+218149396:4:DIO sent
+218186841:11:DIO sent
+218293702:21:DIO sent
+218422475:16:DIO sent
+218453260:15:DIO sent
+218500679:17:DIO sent
+218625337:8:DIO sent
+218689325:9:DIO sent
+218911442:13:DIO sent
+219130952:10:DIO sent
+219913710:7:DIO sent
+220037185:2:DIO sent
+220134468:9:DATA send to 1 'Hello 3'
+220307215:1:10 0 219 0 2313 72 3 0 27756 8303
+220309719:1:DATA recv from 9 'Hello 3'
+221844245:16:DATA send to 1 'Hello 3'
+222178570:1:DIO sent
+222297721:1:10 0 221 0 4112 72 4 0 27756 8303
+222300601:1:DATA recv from 16 'Hello 3'
+223024551:14:DATA send to 1 'Hello 3'
+223223824:1:10 0 222 0 3598 72 3 0 27756 8303
+223226705:1:DATA recv from 14 'Hello 3'
+224016706:4:DIO sent
+224266757:14:DIO sent
+224586849:4:DATA send to 1 'Hello 3'
+224598846:3:DIO sent
+224891841:7:DIO sent
+224913373:11:DIO sent
+224950331:3:DATA send to 1 'Hello 3'
+225045904:1:10 0 224 0 1028 72 3 0 27756 8303
+225048407:1:DATA recv from 4 'Hello 3'
+225156790:16:DIO sent
+225162670:1:10 0 224 0 771 72 2 0 27756 8303
+225165172:1:DATA recv from 3 'Hello 3'
+225260082:17:DIO sent
+225270204:21:DIO sent
+225938218:20:DIO sent
+226189294:9:DIO sent
+226313172:5:DIO sent
+226344085:8:DIO sent
+226381259:15:DIO sent
+226600509:2:DIO sent
+226830634:18:DIO sent
+227013806:19:DIO sent
+227428681:10:DIO sent
+228459474:6:DIO sent
+228498311:1:DIO sent
+229692246:12:DIO sent
+229981783:13:DIO sent
+230193522:13:msg sent to sink seqno: 3
+230236985:17:msg sent to sink seqno: 3
+230363250:1:30 0 229 0 3341 3 3 0 22 29317 0 1153 34193 311 946 2570 11 1024 5 16 178 1 115 108 65535 65535 0 0 0 0
+230365826:1:DATA recv from 13 ''
+230602563:1:30 0 229 0 4369 3 4 0 22 29332 0 1653 39035 497 1007 3598 10 1280 3 16 178 1 115 108 65535 65535 0 0 0 0
+230605066:1:DATA recv from 17 ''
+231429798:20:DIO sent
+231961415:16:DIO sent
+232043672:21:DIO sent
+232632090:11:DIO sent
+232756586:8:DIO sent
+233488799:19:DATA send to 1 'Hello 3'
+233536250:6:DIO sent
+233916664:18:DIO sent
+234131673:1:10 0 233 0 4883 72 5 0 27756 8303
+234134553:1:DATA recv from 19 'Hello 3'
+234244880:14:DIO sent
+234676411:21:DATA send to 1 'Hello 3'
+234733429:10:msg sent to sink seqno: 3
+234782920:9:DIO sent
+235016729:1:30 0 234 0 2570 3 2 0 22 29940 0 1250 40919 320 1029 1799 8 768 5 16 178 1 115 164 65535 65535 0 0 0 0
+235019230:1:DATA recv from 10 ''
+235087287:17:DIO sent
+235098813:3:DIO sent
+235278578:19:DIO sent
+235300496:1:10 0 234 0 5397 72 5 0 27756 8303
+235303411:1:DATA recv from 21 'Hello 3'
+235646548:10:DIO sent
+235680673:4:DIO sent
+235838766:18:msg sent to sink seqno: 3
+235966708:15:DIO sent
+236170186:1:DIO sent
+236288536:12:DIO sent
+236296525:7:DIO sent
+236300682:18:DATA send to 1 'Hello 3'
+236513747:2:DIO sent
+236656772:5:DIO sent
+236689661:1:30 0 236 0 4626 3 6 0 22 30111 0 1371 41031 524 726 5397 8 1792 1 16 171 1 108 157 65535 65535 0 0 0 0
+236692162:1:DATA recv from 18 ''
+236721078:14:msg sent to sink seqno: 3
+236937383:1:30 0 236 0 3598 3 3 0 22 30208 0 3253 57181 1024 1949 2827 12 1024 5 16 171 1 108 101 65535 65535 0 0 0 0
+236939883:1:DATA recv from 14 ''
+237013674:2:DATA send to 1 'Hello 3'
+237092434:1:10 0 236 0 514 72 1 0 27756 8303
+237094935:1:DATA recv from 2 'Hello 3'
+237153446:1:10 0 236 0 4626 72 6 0 27756 8303
+237156327:1:DATA recv from 18 'Hello 3'
+237911440:13:DIO sent
+239405513:11:DATA send to 1 'Hello 3'
+239407566:14:DIO sent
+239517196:1:10 0 238 0 2827 72 2 0 27756 8303
+239520076:1:DATA recv from 11 'Hello 3'
+240414479:8: 30727 P 0.18 7 263782 7598929 70095 211201 0 0 17256 965493 1664 19943 0 0 (radio 3.57% / 2.19% tx 0.89% / 0.16% listen 2.68% / 2.02%)
+240541152:11: 30728 P 0.18 7 330677 7532806 84628 232695 0 0 36205 946770 9211 25317 0 0 (radio 4.03% / 3.51% tx 1.07% / 0.93% listen 2.95% / 2.57%)
+240587177:2: 30728 P 0.18 7 233862 7629368 52144 185171 0 0 26036 956940 5598 17570 0 0 (radio 3.01% / 2.35% tx 0.66% / 0.56% listen 2.35% / 1.78%)
+240601655:6: 30728 P 0.18 7 193930 7669434 52506 157953 0 0 19399 963367 3420 18413 0 0 (radio 2.67% / 2.22% tx 0.66% / 0.34% listen 2.00% / 1.87%)
+240678206:18: 30728 P 0.18 7 275236 7588647 106714 141241 0 0 23738 959285 5776 16076 0 0 (radio 3.15% / 2.22% tx 1.35% / 0.58% listen 1.79% / 1.63%)
+240699364:4: 30728 P 0.18 7 283638 7579928 98764 157286 0 0 25250 957748 6110 15959 0 0 (radio 3.25% / 2.24% tx 1.25% / 0.62% listen 2.00% / 1.62%)
+240753089:7: 30728 P 0.18 7 301273 7562191 59085 207777 0 0 35326 947646 5826 22486 0 0 (radio 3.39% / 2.88% tx 0.75% / 0.59% listen 2.64% / 2.28%)
+240801525:14: 30728 P 0.18 7 345982 7517348 88617 245526 0 0 39960 942993 10350 24727 0 0 (radio 4.24% / 3.56% tx 1.12% / 1.05% listen 3.12% / 2.51%)
+240813906:15: 30728 P 0.18 7 262901 7600086 89764 177162 0 0 20114 962635 4990 17076 0 0 (radio 3.39% / 2.24% tx 1.14% / 0.50% listen 2.25% / 1.73%)
+240823788:20: 30728 P 0.18 7 262923 7600330 93846 157016 0 0 19894 962850 4984 16280 0 0 (radio 3.19% / 2.16% tx 1.19% / 0.50% listen 1.99% / 1.65%)
+240824251:16: 30728 P 0.18 7 276575 7586571 73909 188059 0 0 28119 954767 7109 18804 0 0 (radio 3.33% / 2.63% tx 0.93% / 0.72% listen 2.39% / 1.91%)
+240879179:18:msg sent to sink seqno: 4
+240907535:10: 30728 P 0.18 7 304535 7558338 82972 213035 0 0 29166 953792 7762 21182 0 0 (radio 3.76% / 2.94% tx 1.05% / 0.78% listen 2.70% / 2.15%)
+240945389:12: 30728 P 0.18 7 241795 7621603 62259 214218 0 0 17223 965754 1665 20430 0 0 (radio 3.51% / 2.24% tx 0.79% / 0.16% listen 2.72% / 2.07%)
+241059797:9: 30728 P 0.18 7 244077 7619756 66676 198950 0 0 22331 960586 5319 18092 0 0 (radio 3.37% / 2.38% tx 0.84% / 0.54% listen 2.52% / 1.84%)
+241066782:5: 30728 P 0.18 7 280170 7583124 103615 145108 0 0 18004 964745 3328 14105 0 0 (radio 3.16% / 1.77% tx 1.31% / 0.33% listen 1.84% / 1.43%)
+241070364:19: 30728 P 0.18 7 234663 7628769 74476 152060 0 0 24202 958748 5930 15838 0 0 (radio 2.88% / 2.21% tx 0.94% / 0.60% listen 1.93% / 1.61%)
+241076452:21:DIO sent
+241160887:17: 30728 P 0.18 7 314894 7548559 93551 212492 0 0 32868 950122 7606 23149 0 0 (radio 3.89% / 3.12% tx 1.18% / 0.77% listen 2.70% / 2.35%)
+241236107:13: 30728 P 0.18 7 320203 7543346 95199 231654 0 0 25905 957026 6930 22391 0 0 (radio 4.15% / 2.98% tx 1.21% / 0.70% listen 2.94% / 2.27%)
+241250662:3: 30728 P 0.18 7 329607 7533625 92700 210379 0 0 25617 957247 6080 19060 0 0 (radio 3.85% / 2.55% tx 1.17% / 0.61% listen 2.67% / 1.93%)
+241258543:21: 30728 P 0.18 7 316521 7546905 117338 155010 0 0 32812 950158 10072 17835 0 0 (radio 3.46% / 2.83% tx 1.49% / 1.02% listen 1.97% / 1.81%)
+241359696:20:DIO sent
+241680796:4:DIO sent
+241954016:17:DIO sent
+242151745:1:30 0 241 0 4626 4 6 0 22 30756 0 1542 39745 196 960 5397 8 1792 1 16 162 1 99 92 65535 65535 0 0 0 0
+242154249:1:DATA recv from 18 ''
+242184338:19:DIO sent
+242232650:2:DIO sent
+242455847:18:DIO sent
+242458114:12:DIO sent
+242473277:21:DATA send to 1 'Hello 4'
+242525660:16:DIO sent
+242807206:1:10 0 242 0 5397 72 5 0 27756 8303
+242810087:1:DATA recv from 21 'Hello 4'
+242968674:7:DIO sent
+243184686:6:DIO sent
+243533163:9:DIO sent
+243645841:3:DIO sent
+243660957:12:DATA send to 1 'Hello 4'
+244046009:1:10 0 243 0 3084 72 4 0 27756 8303
+244048889:1:DATA recv from 12 'Hello 4'
+244311486:8:DIO sent
+244352490:5:msg sent to sink seqno: 4
+244383730:4:DATA send to 1 'Hello 4'
+244506412:15:DIO sent
+244548190:5:DIO sent
+244665166:1:30 0 244 0 1285 4 3 0 22 31151 0 1055 46366 224 750 771 12 1024 2 16 162 1 99 148 65535 65535 0 0 0 0
+244667288:1:DATA recv from 5 ''
+244702619:11:DIO sent
+244837860:9:msg sent to sink seqno: 4
+244945328:1:10 0 244 0 1028 72 3 0 27756 8303
+244947833:1:DATA recv from 4 'Hello 4'
+245186097:13:DAO sent
+245204532:1:30 0 244 0 2313 4 3 0 22 31214 0 1225 47766 284 1044 771 8 1024 4 16 96 1 33 26 65535 65535 0 0 0 0
+245206653:1:DATA recv from 9 ''
+245265465:12:DAO sent
+245272993:15:DIO sent
+245282403:12:DIO sent
+245293152:13:DIO sent
+245350097:12:DIO sent
+245397559:15:DIO sent
+245438020:13:DIO sent
+245513198:12:DIO sent
+245589299:13:DIO sent
+245593417:15:DIO sent
+245811512:13:DIO sent
+245812779:15:DIO sent
+245817305:12:DIO sent
+245857782:15:msg sent to sink seqno: 4
+245961439:16:DATA send to 1 'Hello 4'
+246246962:12:DIO sent
+246304212:15:DIO sent
+246388154:13:DIO sent
+246569508:19:msg sent to sink seqno: 4
+246635366:1:30 0 245 0 3855 4 5 0 22 31376 0 1551 58996 392 1323 3341 14 1536 2 0 155 1 92 85 65535 65535 0 0 0 0
+246637867:1:DATA recv from 15 ''
+246826509:10:DIO sent
+246920186:1:DIO sent
+247053214:12:DIO sent
+247085461:15:DIO sent
+247099152:13:DIO sent
+247159686:1:10 0 246 0 4112 72 4 0 27756 8303
+247162565:1:DATA recv from 16 'Hello 4'
+247186363:2:msg sent to sink seqno: 4
+247255480:1:30 0 246 0 514 4 1 0 22 31575 0 1586 47730 323 1034 257 8 512 2 16 58 1 251 244 65535 65535 0 0 0 0
+247257677:1:DATA recv from 2 ''
+247735826:1:30 0 247 0 4883 4 5 0 22 31434 0 1678 59453 474 1093 4112 9 1536 2 16 162 1 99 92 65535 65535 0 0 0 0
+247738327:1:DATA recv from 19 ''
+248786686:13:DIO sent
+248865290:10:DATA send to 1 'Hello 4'
+249024422:4:DIO sent
+249026080:1:10 0 248 0 2570 72 2 0 27756 8303
+249028960:1:DATA recv from 10 'Hello 4'
+249295401:12:DIO sent
+249357517:15:DIO sent
+249419919:3:DIO sent
+249496659:19:DIO sent
+249736948:18:DIO sent
+249895265:21:DIO sent
+250052452:12:DAO sent
+250180589:11:DIO sent
+250207972:6:DIO sent
+250250743:17:DIO sent
+250760079:14:msg sent to sink seqno: 4
+250817278:6:DATA send to 1 'Hello 4'
+250836507:16:DIO sent
+250864500:1:10 0 250 0 1542 72 1 0 27756 8303
+250867001:1:DATA recv from 6 'Hello 4'
+250957430:14:DIO sent
+251225396:8:DIO sent
+251474284:1:30 0 250 0 3598 4 3 0 22 32005 0 3157 54338 712 1977 2827 11 1024 5 16 155 1 92 141 65535 65535 0 0 0 0
+251476860:1:DATA recv from 14 ''
+251560088:9:DIO sent
+251562517:20:DIO sent
+251576187:2:DIO sent
+252031114:7:DIO sent
+252138171:12:DIO sent
+252474186:13:DIO sent
+252630922:10:DIO sent
+252826266:15:DIO sent
+253162397:1:DIO sent
+253282319:14:DATA send to 1 'Hello 4'
+253508428:5:DIO sent
+253628553:1:10 0 252 0 3598 72 3 0 27756 8303
+253631463:1:DATA recv from 14 'Hello 4'
+253661959:15:DATA send to 1 'Hello 4'
+254173019:4:msg sent to sink seqno: 4
+254312958:5:DATA send to 1 'Hello 4'
+254421248:1:30 0 253 0 1028 4 3 0 22 32455 0 1237 43257 328 806 771 11 1024 3 16 162 1 99 92 65535 65535 0 0 0 0
+254423372:1:DATA recv from 4 ''
+254639269:1:10 0 253 0 3855 72 5 0 27756 8303
+254642149:1:DATA recv from 15 'Hello 4'
+254748766:8:DATA send to 1 'Hello 4'
+254752877:1:10 0 254 0 1285 72 3 0 27756 8303
+254755380:1:DATA recv from 5 'Hello 4'
+254991630:1:10 0 254 0 2056 72 3 0 27756 8303
+254994132:1:DATA recv from 8 'Hello 4'
+255076452:13:DAO sent
+255859017:7:DATA send to 1 'Hello 4'
+255929931:1:10 0 255 0 1799 72 1 0 27756 8303
+255932435:1:DATA recv from 7 'Hello 4'
+255954761:9:DATA send to 1 'Hello 4'
+256225834:1:10 0 255 0 2313 72 3 0 27756 8303
+256228337:1:DATA recv from 9 'Hello 4'
+256552057:13:DATA send to 1 'Hello 4'
+256653689:21:DIO sent
+256924352:18:DIO sent
+257019125:19:DIO sent
+257030329:1:10 0 256 0 3341 72 4 0 27756 8303
+257033210:1:DATA recv from 13 'Hello 4'
+257039631:16:DIO sent
+257836676:17:DIO sent
+257923575:9:DIO sent
+257983645:11:DATA send to 1 'Hello 4'
+258106199:1:10 0 257 0 2827 72 2 0 27756 8303
+258109105:1:DATA recv from 11 'Hello 4'
+258294185:3:DIO sent
+258436994:11:DIO sent
+258759065:14:DIO sent
+259423546:20:DIO sent
+259435428:15:DIO sent
+259575668:12:DIO sent
+259906775:5:DIO sent
+260171530:2:DIO sent
+260194146:8:DIO sent
+260547227:7:DIO sent
+260719704:4:DIO sent
+261044312:13:DIO sent
+261442318:6:DIO sent
+262521607:10:DIO sent
+262915091:17:msg sent to sink seqno: 4
+263005529:3:msg sent to sink seqno: 4
+263164182:1:30 0 262 0 771 4 2 0 22 33515 0 2482 61717 647 1595 514 8 768 5 16 155 1 92 85 65535 65535 0 0 0 0
+263166304:1:DATA recv from 3 ''
+263590937:3:DATA send to 1 'Hello 4'
+263803890:1:30 0 263 0 4369 4 4 0 22 33515 0 2725 64185 793 1911 3598 13 1280 3 16 162 1 99 92 65535 65535 0 0 0 0
+263806391:1:DATA recv from 17 ''
+263882586:1:10 0 263 0 771 72 2 0 27756 8303
+263885088:1:DATA recv from 3 'Hello 4'
+264576031:12:msg sent to sink seqno: 4
+264599874:1:DIO sent
+264859452:20:DIO sent
+265079900:1:30 0 264 0 3084 4 4 0 22 33755 0 1899 62333 504 1472 2056 8 1280 4 16 99 1 36 29 65535 65535 0 0 0 0
+265082401:1:DATA recv from 12 ''
+265148980:16:DIO sent
+265462318:17:DIO sent
+266066839:21:DIO sent
+266076184:11:DIO sent
+266258304:5:DIO sent
+266371654:19:DIO sent
+266615218:2:DIO sent
+266665195:14:DIO sent
+267194893:9:DIO sent
+267197459:4:DIO sent
+267854162:18:DIO sent
+267968613:7:DIO sent
+268264611:8:DIO sent
+268606812:13:DIO sent
+268778499:3:DIO sent
+269504687:12:DIO sent
+269786462:6:DIO sent
+269805157:6:msg sent to sink seqno: 4
+269873332:1:30 0 269 0 1542 4 1 0 22 34468 0 1300 57077 317 1103 257 8 512 2 16 103 1 40 33 65535 65535 0 0 0 0
+269875454:1:DATA recv from 6 ''
+269897159:15:DIO sent
+270415491:8: 34567 P 0.18 8 305175 8540524 81303 239920 0 0 41390 941595 11208 28719 0 0 (radio 3.63% / 4.06% tx 0.91% / 1.14% listen 2.71% / 2.92%)
+270541172:11: 34568 P 0.18 8 373149 8473177 96237 262843 0 0 42469 940371 11609 30148 0 0 (radio 4.05% / 4.24% tx 1.08% / 1.18% listen 2.97% / 3.06%)
+270587104:2: 34568 P 0.18 8 270678 8575539 59086 209377 0 0 36813 946171 6942 24206 0 0 (radio 3.03% / 3.16% tx 0.66% / 0.70% listen 2.36% / 2.46%)
+270598768:21:msg sent to sink seqno: 4
+270601873:6: 34568 P 0.18 8 219955 8626417 59339 176491 0 0 26022 956983 6833 18538 0 0 (radio 2.66% / 2.58% tx 0.67% / 0.69% listen 1.99% / 1.88%)
+270677803:18: 34568 P 0.18 8 300430 8546196 114200 156797 0 0 25191 957549 7486 15556 0 0 (radio 3.06% / 2.34% tx 1.29% / 0.76% listen 1.77% / 1.58%)
+270699619:4: 34568 P 0.18 8 312943 8533589 106231 178774 0 0 29302 953661 7467 21488 0 0 (radio 3.22% / 2.94% tx 1.20% / 0.75% listen 2.02% / 2.18%)
+270753004:7: 34568 P 0.18 8 335928 8510405 67088 234074 0 0 34652 948214 8003 26297 0 0 (radio 3.40% / 3.48% tx 0.75% / 0.81% listen 2.64% / 2.67%)
+270801356:14: 34568 P 0.18 8 386968 8459203 98378 276155 0 0 40983 941855 9761 30629 0 0 (radio 4.23% / 4.10% tx 1.11% / 0.99% listen 3.12% / 3.11%)
+270814531:15: 34568 P 0.18 8 299163 8546669 101541 201878 0 0 36259 946583 11777 24716 0 0 (radio 3.43% / 3.71% tx 1.14% / 1.19% listen 2.28% / 2.51%)
+270823495:20: 34568 P 0.18 8 284288 8561965 98836 174243 0 0 21362 961635 4990 17227 0 0 (radio 3.08% / 2.26% tx 1.11% / 0.50% listen 1.96% / 1.75%)
+270824221:16: 34568 P 0.18 8 304598 8541345 80369 209592 0 0 28020 954774 6460 21533 0 0 (radio 3.27% / 2.84% tx 0.90% / 0.65% listen 2.36% / 2.19%)
+270907452:10: 34568 P 0.18 8 333763 8512119 89131 240967 0 0 29225 953781 6159 27932 0 0 (radio 3.73% / 3.46% tx 1.00% / 0.62% listen 2.72% / 2.84%)
+270945918:12: 34568 P 0.18 8 281706 8564545 75064 239177 0 0 39908 942942 12805 24959 0 0 (radio 3.55% / 3.84% tx 0.84% / 1.30% listen 2.70% / 2.53%)
+271059695:9: 34568 P 0.18 8 271217 8575503 71951 226166 0 0 27137 955747 5275 27216 0 0 (radio 3.36% / 3.30% tx 0.81% / 0.53% listen 2.55% / 2.76%)
+271066690:5: 34568 P 0.18 8 306523 8539627 110799 163521 0 0 26350 956503 7184 18413 0 0 (radio 3.10% / 2.60% tx 1.25% / 0.73% listen 1.84% / 1.87%)
+271070340:19: 34568 P 0.18 8 257105 8589338 79744 169770 0 0 22439 960569 5268 17710 0 0 (radio 2.82% / 2.33% tx 0.90% / 0.53% listen 1.91% / 1.80%)
+271160736:17: 34568 P 0.18 8 350418 8495849 104107 237837 0 0 35521 947290 10556 25345 0 0 (radio 3.86% / 3.65% tx 1.17% / 1.07% listen 2.68% / 2.57%)
+271235280:13: 34568 P 0.18 8 372856 8473620 114109 262063 0 0 52650 930274 18910 30409 0 0 (radio 4.25% / 5.01% tx 1.28% / 1.92% listen 2.96% / 3.09%)
+271251337:3: 34568 P 0.18 8 378024 8468108 106113 238944 0 0 48414 934483 13413 28565 0 0 (radio 3.90% / 4.27% tx 1.19% / 1.36% listen 2.70% / 2.90%)
+271264284:21: 34569 P 0.18 8 346319 8500306 124797 171978 0 0 29795 953401 7459 16968 0 0 (radio 3.35% / 2.48% tx 1.41% / 0.75% listen 1.94% / 1.72%)
+271292041:1:30 0 270 0 5397 4 5 0 22 34486 0 1406 41331 437 799 4369 13 1536 2 16 162 1 99 92 65535 65535 0 0 0 0
+271294542:1:DATA recv from 21 ''
+271427889:10:DIO sent
+271967088:1:DIO sent
+272269761:18:DIO sent
+272293704:21:DIO sent
+272349864:21:DIO sent
+272393074:18:DIO sent
+272490508:18:DIO sent
+272504550:21:DIO sent
+272725870:21:DIO sent
+272791576:18:DIO sent
+272989057:19:DIO sent
+273278078:21:DIO sent
+273417182:18:DIO sent
+273602673:4:DIO sent
+273781117:7:DIO sent
+274016489:17:DIO sent
+274293642:21:DIO sent
+274408942:18:DIO sent
+274602694:14:DIO sent
+274896486:2:DATA send to 1 'Hello 4'
+274922511:1:10 0 274 0 514 72 1 0 27756 8303
+274925013:1:DATA recv from 2 'Hello 4'
+275030063:3:DIO sent
+275044243:8:DIO sent
+275074998:2:DIO sent
+275396113:6:DIO sent
+275508477:17:DATA send to 1 'Hello 4'
+275623300:21:DIO sent
+275633504:16:DIO sent
+275808792:18:DIO sent
+275884839:1:10 0 275 0 4369 72 4 0 27756 8303
+275887720:1:DATA recv from 17 'Hello 4'
+275998570:10:msg sent to sink seqno: 4
+276056783:9:DIO sent
+276332069:15:DIO sent
+276642262:20:DIO sent
+276645068:1:30 0 275 0 2570 4 2 0 22 35222 0 1348 40904 307 1161 1799 8 768 5 16 169 1 106 155 65535 65535 0 0 0 0
+276647633:1:DATA recv from 10 ''
+276834313:13:msg sent to sink seqno: 4
+277020876:13:DIO sent
+277432720:1:30 0 276 0 3341 4 4 0 22 35287 0 2050 45703 651 1408 2056 8 1280 5 16 162 1 99 92 65535 65535 0 0 0 0
+277435225:1:DATA recv from 13 ''
+277555393:11:msg sent to sink seqno: 4
+277699747:11:DIO sent
+277841892:10:DIO sent
+277930208:5:DIO sent
+277953441:1:30 0 277 0 2827 4 2 0 22 35468 0 1369 33642 342 1011 1799 9 768 3 16 162 1 99 92 65535 65535 0 0 0 0
+277955941:1:DATA recv from 11 ''
+278223465:12:DIO sent
+279471350:18:DIO sent
+280184908:21:DIO sent
+280623311:1:DIO sent
+280759678:14:DIO sent
+281476613:20:DIO sent
+281985330:4:DIO sent
+282039631:16:DIO sent
+282879786:6:DIO sent
+282951908:3:DIO sent
+283013721:2:DIO sent
+283478645:17:DIO sent
+283697162:11:DIO sent
+283718612:7:DIO sent
+284049937:5:DIO sent
+284110983:9:DIO sent
+284328625:15:DIO sent
+284371655:19:DIO sent
+284483518:8:DIO sent
+285442185:12:DIO sent
+285557183:18:DATA send to 1 'Hello 4'
+285865143:13:DIO sent
+285955635:18:DIO sent
+286039121:20:DATA send to 1 'Hello 4'
+286879553:21:DIO sent
+286921312:1:10 0 286 0 5140 72 5 0 27756 8303
+286924192:1:DATA recv from 20 'Hello 4'
+287035020:1:10 0 286 0 4626 72 6 0 27756 8303
+287037927:1:DATA recv from 18 'Hello 4'
+287262894:18:DIO sent
+287301606:21:DIO sent
+287350872:21:DIO sent
+287385292:18:DIO sent
+287472792:18:DIO sent
+287527986:21:DIO sent
+287724865:21:DIO sent
+287776038:18:DIO sent
+287836851:7:msg sent to sink seqno: 4
+287904419:10:DIO sent
+288043846:1:30 0 287 0 1799 4 1 0 22 36757 0 1891 49729 375 1266 257 8 512 4 16 124 1 61 54 65535 65535 0 0 0 0
+288045967:1:DATA recv from 7 ''
+288138927:21:DIO sent
+288190010:18:DIO sent
+288677960:1:DIO sent
+288953594:20:msg sent to sink seqno: 4
+289284362:1:30 0 288 0 5140 4 5 0 22 36891 0 1323 47726 400 877 4112 10 1536 2 16 162 1 99 148 65535 65535 0 0 0 0
+289286862:1:DATA recv from 20 ''
+289364077:21:DIO sent
+289448523:18:DIO sent
+290477040:16:DIO sent
+290627570:18:DIO sent
+291079729:20:DIO sent
+291176661:6:DIO sent
+291176669:21:DIO sent
+291309111:19:DATA send to 1 'Hello 4'
+291754825:1:10 0 291 0 4883 72 5 0 27756 8303
+291757704:1:DATA recv from 19 'Hello 4'
+291953989:17:DIO sent
+292263806:19:DIO sent
+292264611:8:DIO sent
+292352083:5:DIO sent
+292426803:12:DIO sent
+292498096:2:DIO sent
+292813814:14:DIO sent
+293063892:16:msg sent to sink seqno: 4
+293225809:11:DIO sent
+293231655:3:DIO sent
+293275412:9:DIO sent
+293702802:1:30 0 293 0 4112 4 4 0 22 37417 0 1866 52308 507 1164 3598 12 1280 4 16 155 1 92 85 65535 65535 0 0 0 0
+293705306:1:DATA recv from 16 ''
+293852518:4:DIO sent
+293958926:15:DIO sent
+294069931:7:DIO sent
+294535803:21:DIO sent
+294591894:10:DIO sent
+295075531:13:DIO sent
+295382995:8:msg sent to sink seqno: 4
+295385383:18:DIO sent
+295612413:1:30 0 294 0 2056 4 3 0 22 37765 0 1338 43251 312 1061 771 9 1024 5 16 162 1 99 92 65535 65535 0 0 0 0
+295614534:1:DATA recv from 8 ''
+296349869:1:DIO sent
+297837607:9:DIO sent
+298307352:14:DIO sent
+298363874:19:DIO sent
+298508352:16:DIO sent
+298843196:8:DIO sent
+299325502:13:DIO sent
+299430179:5:DIO sent
+299524177:17:DIO sent
+299645656:3:DIO sent
+299742479:20:DIO sent
+300096442:18:DIO sent
+300192317:6:DIO sent
+300273119:7:DIO sent
+300414494:8: 38407 P 0.18 9 332698 9495975 88400 260180 0 0 27520 955451 7097 20260 0 0 (radio 3.54% / 2.78% tx 0.89% / 0.72% listen 2.64% / 2.06%)
+300541564:11: 38408 P 0.18 9 403221 9426101 102567 291401 0 0 30069 952924 6330 28558 0 0 (radio 4.00% / 3.54% tx 1.04% / 0.64% listen 2.96% / 2.90%)
+300587444:2: 38408 P 0.18 9 293575 9535427 63916 228025 0 0 22894 959888 4830 18648 0 0 (radio 2.97% / 2.38% tx 0.65% / 0.49% listen 2.31% / 1.89%)
+300601972:6: 38408 P 0.18 9 242514 9586611 65996 193558 0 0 22556 960194 6657 17067 0 0 (radio 2.64% / 2.41% tx 0.67% / 0.67% listen 1.96% / 1.73%)
+300678576:18: 38408 P 0.18 9 348873 9480624 136577 174918 0 0 48440 934428 22377 18121 0 0 (radio 3.16% / 4.12% tx 1.38% / 2.27% listen 1.77% / 1.84%)
+300700036:4: 38408 P 0.18 9 333873 9495672 111226 195409 0 0 20927 962083 4995 16635 0 0 (radio 3.11% / 2.20% tx 1.13% / 0.50% listen 1.98% / 1.69%)
+300752771:7: 38408 P 0.18 9 372066 9457123 74969 256382 0 0 36135 946718 7881 22308 0 0 (radio 3.37% / 3.07% tx 0.76% / 0.80% listen 2.60% / 2.26%)
+300801200:14: 38408 P 0.18 9 422955 9405973 106816 304331 0 0 35984 946770 8438 28176 0 0 (radio 4.18% / 3.72% tx 1.08% / 0.85% listen 3.09% / 2.86%)
+300813962:15: 38408 P 0.18 9 317255 9511323 104646 221186 0 0 18089 964654 3105 19308 0 0 (radio 3.31% / 2.28% tx 1.06% / 0.31% listen 2.25% / 1.96%)
+300823591:20: 38408 P 0.18 9 310978 9518176 106286 192100 0 0 26687 956211 7450 17857 0 0 (radio 3.03% / 2.57% tx 1.08% / 0.75% listen 1.95% / 1.81%)
+300823995:16: 38408 P 0.18 9 338504 9490249 89443 230580 0 0 33903 948904 9074 20988 0 0 (radio 3.25% / 3.05% tx 0.91% / 0.92% listen 2.34% / 2.13%)
+300907544:10: 38408 P 0.18 9 363117 9465559 97354 262472 0 0 29351 953440 8223 21505 0 0 (radio 3.66% / 3.02% tx 0.99% / 0.83% listen 2.67% / 2.18%)
+300945691:12: 38408 P 0.18 9 303162 9526081 80056 260032 0 0 21453 961536 4992 20855 0 0 (radio 3.45% / 2.62% tx 0.81% / 0.50% listen 2.64% / 2.12%)
+301059802:9: 38408 P 0.18 9 295410 9534297 78165 248761 0 0 24190 958794 6214 22595 0 0 (radio 3.32% / 2.93% tx 0.79% / 0.63% listen 2.53% / 2.29%)
+301066493:5: 38408 P 0.18 9 326851 9502049 115791 179348 0 0 20325 962422 4992 15827 0 0 (radio 3.00% / 2.11% tx 1.17% / 0.50% listen 1.82% / 1.61%)
+301069802:11:DIO sent
+301070365:19: 38408 P 0.18 9 281638 9547739 86729 187838 0 0 24530 958401 6985 18068 0 0 (radio 2.79% / 2.54% tx 0.88% / 0.71% listen 1.91% / 1.83%)
+301160762:17: 38408 P 0.18 9 379527 9449749 112342 261757 0 0 29106 953900 8235 23920 0 0 (radio 3.80% / 3.27% tx 1.14% / 0.83% listen 2.66% / 2.43%)
+301178072:10:DIO sent
+301235613:13: 38408 P 0.18 9 401142 9428141 121960 285290 0 0 28283 954521 7851 23227 0 0 (radio 4.14% / 3.16% tx 1.24% / 0.79% listen 2.90% / 2.36%)
+301251016:3: 38408 P 0.18 9 402496 9426378 110662 260128 0 0 24469 958270 4549 21184 0 0 (radio 3.77% / 2.61% tx 1.12% / 0.46% listen 2.64% / 2.15%)
+301258463:21: 38408 P 0.18 9 394665 9434530 145649 190943 0 0 48343 934224 20852 18965 0 0 (radio 3.42% / 4.05% tx 1.48% / 2.12% listen 1.94% / 1.93%)
+301571664:4:DIO sent
+302021610:15:DIO sent
+302143426:1:DIO sent
+302200700:12:DIO sent
+303356356:21:DIO sent
+303427996:2:DIO sent
+304348932:13:DATA send to 1 'Hello 5'
+304643263:1:10 0 304 0 3341 72 4 0 27756 8303
+304646144:1:DATA recv from 13 'Hello 5'
+306704017:17:DIO sent
+306914980:4:DATA send to 1 'Hello 5'
+307075990:1:10 0 306 0 1028 72 3 0 27756 8303
+307078556:1:DATA recv from 4 'Hello 5'
+307374270:11:DATA send to 1 'Hello 5'
+307482559:1:10 0 306 0 2827 72 2 0 27756 8303
+307485483:1:DATA recv from 11 'Hello 5'
+307546915:20:DATA send to 1 'Hello 5'
+307598280:19:DIO sent
+307751577:16:DIO sent
+307961892:4:DIO sent
+308095510:9:DIO sent
+308180269:5:DIO sent
+308263949:21:DIO sent
+308408824:1:10 0 307 0 5140 72 5 0 27756 8303
+308411704:1:DATA recv from 20 'Hello 5'
+308897279:3:DIO sent
+308945148:7:DIO sent
+309171425:15:DIO sent
+309207343:18:DIO sent
+309211185:14:DIO sent
+309428582:8:DIO sent
+309554917:20:DIO sent
+309719140:2:DIO sent
+309778314:6:DIO sent
+309842593:10:DIO sent
+309896635:12:msg sent to sink seqno: 5
+309916688:11:DIO sent
+309996478:12:DIO sent
+310397755:1:30 0 309 0 3084 5 4 0 22 39556 0 1138 45268 271 980 2056 8 1280 4 16 76 1 13 62 65535 65535 0 0 0 0
+310400256:1:DATA recv from 12 ''
+310426105:18:msg sent to sink seqno: 5
+310980752:1:30 0 310 0 4626 5 6 0 22 39658 0 1250 34349 482 600 5397 9 2560 1 16 146 1 83 76 65535 65535 0 0 0 0
+310983328:1:DATA recv from 18 ''
+311301607:21:DIO sent
+311434298:21:DIO sent
+311513062:13:DIO sent
+311575425:18:DIO sent
+311614107:21:DIO sent
+311705696:18:DIO sent
+311808649:18:DIO sent
+311832706:21:DIO sent
+312013963:1:DIO sent
+312121287:18:DIO sent
+312379610:21:DIO sent
+312643195:18:DIO sent
+313278780:21:DIO sent
+313596350:18:DIO sent
+314363995:19:DIO sent
+314879551:21:DIO sent
+315053587:8:DIO sent
+315227670:4:DIO sent
+315577432:11:DIO sent
+315750046:7:DIO sent
+315933784:18:DIO sent
+316102164:16:DIO sent
+316323624:17:DIO sent
+316325091:6:DATA send to 1 'Hello 5'
+316380375:13:DIO sent
+316473625:1:10 0 315 0 1542 72 1 0 27756 8303
+316476126:1:DATA recv from 6 'Hello 5'
+316575405:3:DIO sent
+316864400:3:DATA send to 1 'Hello 5'
+316928356:1:10 0 316 0 771 72 2 0 27756 8303
+316930857:1:DATA recv from 3 'Hello 5'
+317071596:14:DIO sent
+317154243:15:DIO sent
+317297014:20:DIO sent
+317692275:12:DIO sent
+317693415:10:DATA send to 1 'Hello 5'
+317700158:6:DIO sent
+317887453:10:DIO sent
+317938905:16:msg sent to sink seqno: 5
+318181787:9:DIO sent
+318254644:21:DIO sent
+318386281:1:10 0 317 0 2570 72 2 0 27756 8303
+318389160:1:DATA recv from 10 'Hello 5'
+318772018:1:30 0 318 0 4112 5 4 0 22 40601 0 1474 49467 364 1022 3598 11 1280 4 16 139 1 76 125 65535 65535 0 0 0 0
+318774519:1:DATA recv from 16 ''
+318881149:1:DIO sent
+319063387:5:DIO sent
+319273080:7:DATA send to 1 'Hello 5'
+319301301:1:10 0 318 0 1799 72 1 0 27756 8303
+319303867:1:DATA recv from 7 'Hello 5'
+319496283:18:DIO sent
+319537891:2:DIO sent
+320516616:5:msg sent to sink seqno: 5
+320881950:1:30 0 320 0 1285 5 3 0 22 40900 0 914 38073 242 663 771 11 1024 2 16 153 1 90 83 65535 65535 0 0 0 0
+320884072:1:DATA recv from 5 ''
+321813784:14:DIO sent
+322383521:17:DIO sent
+322536984:15:DATA send to 1 'Hello 5'
+323098180:19:DATA send to 1 'Hello 5'
+323287983:1:10 0 322 0 3855 72 5 0 27756 8303
+323290863:1:DATA recv from 15 'Hello 5'
+323336874:16:DIO sent
+323488995:19:DIO sent
+323601960:8:DIO sent
+323737665:1:10 0 323 0 4883 72 5 0 27756 8303
+323740547:1:DATA recv from 19 'Hello 5'
+323825344:3:DIO sent
+323968088:11:DIO sent
+324079758:20:DIO sent
+324308783:18:DIO sent
+324559535:6:DIO sent
+325073629:9:DIO sent
+325235333:4:DIO sent
+325866618:8:msg sent to sink seqno: 5
+326013035:13:DIO sent
+326234788:1:30 0 325 0 2056 5 3 0 22 41667 0 1964 60459 422 1391 771 8 1024 5 16 146 1 83 76 65535 65535 0 0 0 0
+326236911:1:DATA recv from 8 ''
+326897189:15:DIO sent
+327163713:7:DIO sent
+327262681:19:msg sent to sink seqno: 5
+327263949:21:DIO sent
+327287125:2:DIO sent
+327433760:13:DAO sent
+327452115:8:DIO sent
+327500337:8:DIO sent
+327521027:13:DIO sent
+327537560:12:DIO sent
+327574995:12:DATA send to 1 'Hello 5'
+327640993:8:DIO sent
+327645874:13:DIO sent
+327844119:8:DIO sent
+327865816:13:DIO sent
+327867743:5:DIO sent
+328130342:13:DIO sent
+328250807:1:30 0 327 0 4883 5 5 0 22 41763 0 961 40351 246 699 4112 8 1536 2 16 146 1 83 76 65535 65535 0 0 0 0
+328253310:1:DATA recv from 19 ''
+328334772:8:DIO sent
+328418841:12:DIO sent
+328530230:13:DIO sent
+328560380:12:DIO sent
+328723465:12:DIO sent
+328990483:10:DIO sent
+329008181:8:DIO sent
+329059402:12:DIO sent
+329081193:1:10 0 328 0 3084 72 4 0 27756 8303
+329084074:1:DATA recv from 12 'Hello 5'
+329468760:13:DIO sent
+329481217:12:DIO sent
+330416570:8: 42247 P 0.18 10 374915 10436731 99178 285748 0 0 42214 940756 10778 25568 0 0 (radio 3.56% / 3.69% tx 0.91% / 1.09% listen 2.64% / 2.60%)
+330451590:12:DIO sent
+330467084:1:DIO sent
+330542527:11: 42248 P 0.18 10 438722 10373512 111693 317107 0 0 35498 947411 9126 25706 0 0 (radio 3.96% / 3.54% tx 1.03% / 0.92% listen 2.93% / 2.61%)
+330588140:2: 42248 P 0.18 10 323120 10488878 70042 249740 0 0 29542 953451 6126 21715 0 0 (radio 2.95% / 2.83% tx 0.64% / 0.62% listen 2.30% / 2.20%)
+330602658:6: 42248 P 0.18 10 264971 10547163 71241 210477 0 0 22454 960552 5245 16919 0 0 (radio 2.60% / 2.25% tx 0.65% / 0.53% listen 1.94% / 1.72%)
+330678962:18: 42248 P 0.18 10 384759 10427579 149596 192006 0 0 35883 946955 13019 17088 0 0 (radio 3.15% / 3.06% tx 1.38% / 1.32% listen 1.77% / 1.73%)
+330700057:4: 42248 P 0.18 10 358625 10453867 118133 213231 0 0 24749 958195 6907 17822 0 0 (radio 3.06% / 2.51% tx 1.09% / 0.70% listen 1.97% / 1.81%)
+330753773:7: 42248 P 0.18 10 403559 10408523 81135 280941 0 0 31490 951400 6166 24559 0 0 (radio 3.34% / 3.12% tx 0.75% / 0.62% listen 2.59% / 2.49%)
+330780084:8:DIO sent
+330802043:14: 42248 P 0.18 10 454330 10357583 112914 333953 0 0 31372 951610 6098 29622 0 0 (radio 4.-384% / 3.63% tx 1.04% / 0.62% listen 3.08% / 3.01%)
+330814630:15: 42248 P 0.18 10 341979 10469596 110384 243186 0 0 24721 958273 5738 22000 0 0 (radio 3.27% / 2.82% tx 1.02% / 0.58% listen 2.24% / 2.23%)
+330824495:20: 42248 P 0.18 10 333157 10479008 111446 208612 0 0 22176 960832 5160 16512 0 0 (radio 2.96% / 2.20% tx 1.03% / 0.52% listen 1.92% / 1.67%)
+330824562:16: 42248 P 0.18 10 372914 10438744 97955 252016 0 0 34407 948495 8512 21436 0 0 (radio 3.23% / 3.04% tx 0.90% / 0.86% listen 2.33% / 2.18%)
+330909739:10: 42248 P 0.18 10 395123 10416550 105146 286103 0 0 32003 950991 7792 23631 0 0 (radio 3.61% / 3.19% tx 0.97% / 0.79% listen 2.64% / 2.40%)
+330930426:17:DIO sent
+330946654:12: 42248 P 0.18 10 344656 10467430 94984 283228 0 0 41491 941349 14928 23196 0 0 (radio 3.49% / 3.87% tx 0.87% / 1.51% listen 2.61% / 2.36%)
+331060501:9: 42248 P 0.18 10 319863 10492859 83160 272997 0 0 24450 958562 4995 24236 0 0 (radio 3.29% / 2.97% tx 0.76% / 0.50% listen 2.52% / 2.46%)
+331067530:5: 42248 P 0.18 10 350373 10461521 121152 197532 0 0 23519 959472 5361 18184 0 0 (radio 2.94% / 2.39% tx 1.12% / 0.54% listen 1.82% / 1.84%)
+331071044:19: 42248 P 0.18 10 307069 10505276 92711 204212 0 0 25428 957537 5982 16374 0 0 (radio 2.74% / 2.27% tx 0.85% / 0.60% listen 1.88% / 1.66%)
+331162142:17: 42248 P 0.18 10 406670 10405365 118653 284648 0 0 27140 955616 6311 22891 0 0 (radio 3.73% / 2.97% tx 1.09% / 0.64% listen 2.63% / 2.32%)
+331162293:13:DIO sent
+331237152:13: 42248 P 0.18 10 445196 10367087 137057 311486 0 0 44051 938946 15097 26196 0 0 (radio 4.-383% / 4.20% tx 1.26% / 1.53% listen 2.88% / 2.66%)
+331251438:3: 42248 P 0.18 10 437214 10374658 118485 285676 0 0 34715 948280 7823 25548 0 0 (radio 3.73% / 3.39% tx 1.09% / 0.79% listen 2.64% / 2.59%)
+331259440:21: 42248 P 0.18 10 437498 10374651 164355 207011 0 0 42830 940121 18706 16068 0 0 (radio 3.43% / 3.53% tx 1.52% / 1.90% listen 1.91% / 1.63%)
+332000985:4:DIO sent
+332072610:14:msg sent to sink seqno: 5
+332107871:12:DIO sent
+332124459:11:DIO sent
+332365930:1:30 0 331 0 3598 5 3 0 22 42413 0 1441 40182 328 1189 2827 8 1024 5 16 146 1 83 132 65535 65535 0 0 0 0
+332368430:1:DATA recv from 14 ''
+332648484:20:DIO sent
+332814181:9:DATA send to 1 'Hello 5'
+332973963:6:DIO sent
+333008291:16:DIO sent
+333132550:1:10 0 332 0 2313 72 3 0 27756 8303
+333135052:1:DATA recv from 9 'Hello 5'
+333441999:19:DIO sent
+333712131:14:DIO sent
+333812098:8:DIO sent
+334017356:9:DIO sent
+334101302:7:DIO sent
+334232697:10:DIO sent
+334947413:1:DIO sent
+334981624:3:DIO sent
+335208957:15:DIO sent
+335403779:13:DIO sent
+335570033:2:DIO sent
+335586492:5:DIO sent
+335854804:18:DIO sent
+336013825:21:DIO sent
+336668777:12:DIO sent
+338008724:11:msg sent to sink seqno: 5
+338353704:1:30 0 337 0 2827 5 2 0 22 43206 0 2094 59804 521 1629 1799 8 768 3 16 146 1 83 76 65535 65535 0 0 0 0
+338356205:1:DATA recv from 11 ''
+338510510:14:DIO sent
+338543593:19:DIO sent
+338983106:13:DAO sent
+340372646:3:DIO sent
+340602105:16:DIO sent
+340826199:2:DATA send to 1 'Hello 5'
+340870825:1:10 0 340 0 514 72 1 0 27756 8303
+340873326:1:DATA recv from 2 'Hello 5'
+341031899:17:DIO sent
+341334741:8:DIO sent
+341591769:15:DIO sent
+341744287:9:DIO sent
+342172768:4:DIO sent
+342232725:15:msg sent to sink seqno: 5
+342457225:1:30 0 341 0 3855 5 4 0 22 43712 0 1217 48117 306 1047 3341 12 1536 2 16 139 1 76 125 65535 65535 0 0 0 0
+342459790:1:DATA recv from 15 ''
+342578645:5:DIO sent
+342710985:20:DIO sent
+342789041:13:DIO sent
+342850285:10:DIO sent
+342957229:18:DIO sent
+342999460:11:DIO sent
+343160995:12:DIO sent
+343309502:6:DIO sent
+343383499:7:DIO sent
+343638687:2:DIO sent
+344086124:2:msg sent to sink seqno: 5
+344130284:1:30 0 343 0 514 5 1 0 22 43978 0 1399 48206 274 1054 257 8 512 2 16 130 1 123 116 65535 65535 0 0 0 0
+344132404:1:DATA recv from 2 ''
+344263949:21:DIO sent
+344545214:1:DIO sent
+345336433:16:DATA send to 1 'Hello 5'
+345736694:1:10 0 345 0 4112 72 4 0 27756 8303
+345739574:1:DATA recv from 16 'Hello 5'
+345829305:4:msg sent to sink seqno: 5
+346431821:1:30 0 345 0 1028 5 3 0 22 44187 0 1127 45797 285 853 771 10 1024 3 16 146 1 83 76 65535 65535 0 0 0 0
+346433945:1:DATA recv from 4 ''
+347108965:13:msg sent to sink seqno: 5
+347257198:1:30 0 346 0 3341 5 3 0 22 44282 0 1286 34688 395 885 2570 17 1280 5 16 146 1 83 76 65535 65535 0 0 0 0
+347259698:1:DATA recv from 13 ''
+347344459:17:DIO sent
+347407983:9:DIO sent
+347594260:16:DIO sent
+348344838:14:DATA send to 1 'Hello 5'
+348540021:4:DIO sent
+348568822:15:DIO sent
+348606501:6:DIO sent
+348724897:1:10 0 348 0 3598 72 3 0 27756 8303
+348727783:1:DATA recv from 14 'Hello 5'
+349187549:7:DIO sent
+349398483:20:DIO sent
+349624052:3:msg sent to sink seqno: 5
+349733321:1:30 0 349 0 771 5 2 0 22 44602 0 1362 42978 300 1034 514 8 768 5 16 139 1 220 213 65535 65535 0 0 0 0
+349735446:1:DATA recv from 3 ''
+349764092:12:DIO sent
+349798036:14:DIO sent
+350004468:19:DIO sent
+350175658:18:DATA send to 1 'Hello 5'
+350623779:8:DATA send to 1 'Hello 5'
+350663309:11:DIO sent
+350763602:1:10 0 350 0 2056 72 3 0 27756 8303
+350766169:1:DATA recv from 8 'Hello 5'
+350850502:13:DIO sent
+350981594:3:DIO sent
+351209214:2:DIO sent
+351401194:1:10 0 350 0 4626 72 6 0 27756 8303
+351404074:1:DATA recv from 18 'Hello 5'
+351771775:1:DIO sent
+351950408:21:msg sent to sink seqno: 5
+351966920:10:DIO sent
+352046015:8:DIO sent
+352252541:18:DIO sent
+352422397:5:DIO sent
+352535988:1:30 0 351 0 5397 5 5 0 22 44899 0 1763 39882 708 734 4369 28 2048 2 16 146 1 83 76 65535 65535 0 0 0 0
+352538487:1:DATA recv from 21 ''
+352785829:21:DIO sent
+354657230:7:msg sent to sink seqno: 5
+354710642:1:30 0 354 0 1799 5 1 0 22 45310 0 1189 33015 252 852 257 8 512 4 16 108 1 45 38 65535 65535 0 0 0 0
+354712764:1:DATA recv from 7 ''
+354993838:14:DIO sent
+355182014:17:DIO sent
+355606092:19:DIO sent
+355610066:17:DATA send to 1 'Hello 5'
+355634673:9:msg sent to sink seqno: 5
+355639227:10:msg sent to sink seqno: 5
+355769008:3:DIO sent
+355820882:16:DIO sent
+355897701:1:30 0 355 0 2313 5 3 0 22 45396 0 1425 55295 316 1355 771 8 1024 4 16 80 1 17 66 65535 65535 0 0 0 0
+355899823:1:DATA recv from 9 ''
+356020833:6:msg sent to sink seqno: 5
+356075268:1:30 0 355 0 2570 5 2 0 22 45416 0 1235 39535 318 953 1799 9 768 5 16 160 1 97 90 65535 65535 0 0 0 0
+356077776:1:DATA recv from 10 ''
+356113701:1:30 0 355 0 1542 5 1 0 22 45504 0 1022 43114 265 771 257 8 512 2 16 73 1 10 59 65535 65535 0 0 0 0
+356115887:1:DATA recv from 6 ''
+356128811:1:10 0 355 0 4369 72 4 0 27756 8303
+356131699:1:DATA recv from 17 'Hello 5'
+356198332:5:DATA send to 1 'Hello 5'
+356212568:4:DIO sent
+356226643:20:DIO sent
+356428583:1:10 0 355 0 1285 72 3 0 27756 8303
+356431088:1:DATA recv from 5 'Hello 5'
+356554398:7:DIO sent
+357412735:2:DIO sent
+357785786:21:DATA send to 1 'Hello 5'
+357922717:11:DIO sent
+357961935:17:msg sent to sink seqno: 5
+357987437:5:DIO sent
+357999510:8:DIO sent
+358115819:15:DIO sent
+358220418:9:DIO sent
+358472965:1:10 0 357 0 5397 72 5 0 27756 8303
+358475910:1:DATA recv from 21 'Hello 5'
+358913002:13:DIO sent
+359170901:1:30 0 358 0 4369 5 4 0 22 45681 0 1472 47182 388 1120 3598 11 1280 3 16 146 1 83 76 65535 65535 0 0 0 0
+359173401:1:DATA recv from 17 ''
+359242657:20:msg sent to sink seqno: 5
+359692217:18:DIO sent
+359739307:12:DIO sent
+359744662:21:DIO sent
+359864863:6:DIO sent
+360417340:8: 46087 P 0.18 11 404341 11390234 107831 308464 0 0 29423 953503 8653 22716 0 0 (radio 3.52% / 3.19% tx 0.91% / 0.88% listen 2.61% / 2.31%)
+360543368:11: 46088 P 0.18 11 487365 11307851 125500 344159 0 0 48640 934339 13807 27052 0 0 (radio 3.-266% / 4.15% tx 1.06% / 1.40% listen 2.91% / 2.75%)
+360588153:2: 46088 P 0.18 11 352141 11442728 76269 270904 0 0 29018 953850 6227 21164 0 0 (radio 2.94% / 2.78% tx 0.64% / 0.63% listen 2.29% / 2.15%)
+360602688:6: 46088 P 0.18 11 289537 11505589 78081 228868 0 0 24563 958426 6840 18391 0 0 (radio 2.60% / 2.56% tx 0.66% / 0.69% listen 1.94% / 1.87%)
+360678609:18: 46088 P 0.18 11 404461 11390708 153670 209474 0 0 19699 963129 4074 17468 0 0 (radio 3.07% / 2.19% tx 1.30% / 0.41% listen 1.77% / 1.77%)
+360700209:4: 46088 P 0.18 11 386596 11408895 125986 230317 0 0 27968 955028 7853 17086 0 0 (radio 3.02% / 2.53% tx 1.06% / 0.79% listen 1.95% / 1.73%)
+360753804:7: 46088 P 0.18 11 443601 11351277 89619 307174 0 0 40039 942754 8484 26233 0 0 (radio 3.36% / 3.53% tx 0.75% / 0.86% listen 2.60% / 2.66%)
+360802915:14: 46088 P 0.18 11 494846 11299971 122864 358740 0 0 40513 942388 9950 24787 0 0 (radio 4.-356% / 3.53% tx 1.04% / 1.01% listen 3.04% / 2.52%)
+360815490:15: 46088 P 0.18 11 366504 11427924 117320 263476 0 0 24522 958328 6936 20290 0 0 (radio 3.22% / 2.77% tx 0.99% / 0.70% listen 2.23% / 2.06%)
+360826108:16: 46088 P 0.18 11 398566 11395955 104943 270468 0 0 25649 957211 6988 18452 0 0 (radio 3.18% / 2.58% tx 0.88% / 0.71% listen 2.29% / 1.87%)
+360859972:20:DIO sent
+360898162:20: 46097 P 0.18 11 365581 11432017 122250 225713 0 0 32421 953009 10804 17101 0 0 (radio 2.94% / 2.83% tx 1.03% / 1.09% listen 1.91% / 1.73%)
+360908945:10: 46088 P 0.18 11 424294 11370347 111667 310465 0 0 29168 953797 6521 24362 0 0 (radio 3.57% / 3.14% tx 0.94% / 0.66% listen 2.63% / 2.47%)
+360946414:12: 46088 P 0.18 11 366724 11428347 99978 305249 0 0 22065 960917 4994 22021 0 0 (radio 3.43% / 2.74% tx 0.84% / 0.50% listen 2.58% / 2.24%)
+361017259:20:DIO sent
+361060515:9: 46088 P 0.18 11 347719 11447814 90599 294199 0 0 27853 954955 7439 21202 0 0 (radio 3.26% / 2.91% tx 0.76% / 0.75% listen 2.49% / 2.15%)
+361067255:5: 46088 P 0.18 11 372937 11421928 126394 214496 0 0 22561 960407 5242 16964 0 0 (radio 2.89% / 2.25% tx 1.07% / 0.53% listen 1.81% / 1.72%)
+361071151:19: 46088 P 0.18 11 330098 11464998 99375 221518 0 0 23026 959722 6664 17306 0 0 (radio 2.72% / 2.43% tx 0.84% / 0.67% listen 1.87% / 1.76%)
+361162576:17: 46088 P 0.18 11 440459 11354373 127439 306843 0 0 33786 949008 8786 22195 0 0 (radio 3.-296% / 3.15% tx 1.08% / 0.89% listen 2.60% / 2.25%)
+361172013:20:DIO sent
+361232805:1:DIO sent
+361238309:13: 46088 P 0.18 11 468225 11326945 139811 336822 0 0 23026 959858 2754 25336 0 0 (radio 4.-361% / 2.85% tx 1.18% / 0.28% listen 2.85% / 2.57%)
+361251927:3: 46088 P 0.18 11 471276 11323509 127824 308107 0 0 34059 948851 9339 22431 0 0 (radio 3.-295% / 3.23% tx 1.08% / 0.95% listen 2.61% / 2.28%)
+361259149:21: 46088 P 0.18 11 464400 11330722 171767 224195 0 0 26899 956071 7412 17184 0 0 (radio 3.35% / 2.50% tx 1.45% / 0.75% listen 1.90% / 1.74%)
+361445422:20:DIO sent
+361898519:20:DIO sent
+362137228:19:DATA send to 1 'Hello 6'
+362184684:21:msg sent to sink seqno: 6
+362317110:21:DIO sent
+362373333:21:DIO sent
+362393196:18:DIO sent
+362490520:21:DIO sent
+362510354:18:DIO sent
+362646769:21:DIO sent
+362654572:10:DIO sent
+362705669:18:DIO sent
+362859514:20:DIO sent
+362996284:18:DIO sent
+363293704:21:DIO sent
+363414251:1:30 0 362 0 5397 6 5 0 22 46209 0 1599 40315 479 868 4369 24 2048 2 16 130 1 67 116 65535 65535 0 0 0 0
+363416751:1:DATA recv from 21 ''
+363506673:1:10 0 362 0 4883 72 5 0 27756 8303
+363509553:1:DATA recv from 19 'Hello 6'
+363580725:18:DIO sent
+363930380:16:DIO sent
+364029171:15:DATA send to 1 'Hello 6'
+364046915:20:DATA send to 1 'Hello 6'
+364184917:19:DIO sent
+364370379:1:10 0 363 0 3855 72 4 0 27756 8303
+364373258:1:DATA recv from 15 'Hello 6'
+364388916:21:DIO sent
+364489578:21:DATA send to 1 'Hello 6'
+364711431:18:DIO sent
+364763057:3:DIO sent
+364912928:8:DIO sent
+364922106:20:DIO sent
+365046586:1:10 0 364 0 5397 72 5 0 27756 8303
+365049466:1:DATA recv from 21 'Hello 6'
+365270997:13:DIO sent
+365341679:15:DIO sent
+365390128:15:DIO sent
+365411469:13:DIO sent
+365500267:15:DIO sent
+365560062:13:DIO sent
+365673193:5:DIO sent
+365763766:15:DIO sent
+365778659:21:DIO sent
+365888063:13:DIO sent
+366266152:15:DIO sent
+366318665:13:DIO sent
+366485630:14:DIO sent
+366634166:4:DIO sent
+366666331:17:DIO sent
+366760413:18:DIO sent
+366859513:20:DIO sent
+366976610:20:DIO sent
+367095371:20:DIO sent
+367100544:13:DIO sent
+367138766:15:DIO sent
+367313002:16:DATA send to 1 'Hello 6'
+367322165:9:DIO sent
+367437607:20:DIO sent
+367532617:7:DIO sent
+367663553:11:DIO sent
+367722774:1:10 0 367 0 4112 72 4 0 27756 8303
+367725719:1:DATA recv from 16 'Hello 6'
+367875809:20:DIO sent
+368013718:2:DIO sent
+368150940:18:DATA send to 1 'Hello 6'
+368528283:6:DIO sent
+368718377:1:10 0 368 0 4626 72 6 0 27756 8303
+368721258:1:DATA recv from 18 'Hello 6'
+369012504:20:DIO sent
+369029208:15:DIO sent
+369146639:10:DIO sent
+369176669:21:DIO sent
+369447413:1:DIO sent
+369481843:13:DIO sent
+369559432:12:DIO sent
+369792242:18:DIO sent
+370304890:20:DIO sent
+370954762:4:DATA send to 1 'Hello 6'
+371417276:1:10 0 370 0 1028 72 3 0 27756 8303
+371419778:1:DATA recv from 4 'Hello 6'
+372162829:8:DATA send to 1 'Hello 6'
+372459740:8:DIO sent
+372501345:8:DIO sent
+372536057:12:DIO sent
+372633159:8:DIO sent
+372643195:4:DAO sent
+372658860:4:DIO sent
+372660719:19:DIO sent
+372661027:12:DIO sent
+372747929:15:DIO sent
+372758568:12:DIO sent
+372797892:4:DIO sent
+372908779:4:DIO sent
+372952081:8:DIO sent
+373028244:12:DIO sent
+373131811:13:DIO sent
+373180380:16:DIO sent
+373259136:4:DIO sent
+373343525:1:10 0 372 0 2056 72 3 0 27756 8303
+373346026:1:DATA recv from 8 'Hello 6'
+373393368:6:DIO sent
+373429890:20:DIO sent
+373514399:8:DIO sent
+373556800:5:DIO sent
+373598557:12:DIO sent
+373743906:4:DIO sent
+374357901:12:DIO sent
+374368902:14:DIO sent
+374577051:8:DIO sent
+374649453:4:DIO sent
+374741465:11:DIO sent
+374930457:17:DIO sent
+375025320:9:DIO sent
+375849654:2:DIO sent
+376093613:7:DIO sent
+376168704:21:DIO sent
+376208222:3:DIO sent
+376390990:8:DIO sent
+376404553:1:DIO sent
+376543776:12:DIO sent
+376631014:10:DIO sent
+376657236:4:DIO sent
+378587032:14:DATA send to 1 'Hello 6'
+378894539:1:10 0 378 0 3598 72 3 0 27756 8303
+378897484:1:DATA recv from 14 'Hello 6'
+378967299:12:DIO sent
+378996100:18:DIO sent
+379256382:15:DIO sent
+379750894:4:DIO sent
+379813271:17:DIO sent
+380047478:16:DIO sent
+380579241:12:DAO sent
+380593226:8:DIO sent
+380681903:12:DIO sent
+380787279:19:DIO sent
+380801772:12:DIO sent
+380813281:20:DIO sent
+380981368:12:DIO sent
+381069682:11:DIO sent
+381263138:12:DIO sent
+381638062:13:DIO sent
+381853251:4:DAO sent
+381854255:14:DIO sent
+381895587:12:DIO sent
+382385166:5:DIO sent
+382547638:3:DIO sent
+382636066:12:DIO sent
+383309564:6:DIO sent
+384005915:10:DATA send to 1 'Hello 6'
+384059878:21:DIO sent
+384162418:15:msg sent to sink seqno: 6
+384199034:1:10 0 383 0 2570 72 2 0 27756 8303
+384201952:1:DATA recv from 10 'Hello 6'
+384355865:9:DIO sent
+384421528:7:DIO sent
+384629868:12:DIO sent
+384873170:10:DIO sent
+385357686:1:DIO sent
+385377479:18:DIO sent
+385451187:2:DIO sent
+385577081:8:DIO sent
+385805390:7:DATA send to 1 'Hello 6'
+385834442:1:30 0 385 0 3855 6 4 0 22 49079 0 1403 41525 448 1045 3341 12 1280 2 16 130 1 67 60 65535 65535 0 0 0 0
+385836943:1:DATA recv from 15 ''
+385864172:1:10 0 385 0 1799 72 1 0 27756 8303
+385866673:1:DATA recv from 7 'Hello 6'
+386821668:4:DIO sent
+388388199:12:DIO sent
+388857430:2:DATA send to 1 'Hello 6'
+388883026:1:10 0 388 0 514 72 1 0 27756 8303
+388885528:1:DATA recv from 2 'Hello 6'
+389270875:13:DIO sent
+389422621:8:msg sent to sink seqno: 6
+389578625:15:DIO sent
+389609323:11:DIO sent
+389617418:20:DIO sent
+389768864:1:30 0 389 0 2056 6 3 0 22 49802 0 2630 62444 836 1681 771 15 1024 5 16 218 1 211 204 65535 65535 0 0 0 0
+389770986:1:DATA recv from 8 ''
+389985118:17:DIO sent
+390321506:14:DIO sent
+390418109:8: 49927 P 0.18 12 445327 12332237 120720 334352 0 0 40983 942003 12889 25888 0 0 (radio 3.-280% / 3.94% tx 0.94% / 1.31% listen 2.61% / 2.63%)
+390544672:11: 49928 P 0.18 12 524137 12253816 136166 372367 0 0 36769 945965 10666 28208 0 0 (radio 3.-239% / 3.95% tx 1.06% / 1.08% listen 2.91% / 2.87%)
+390552750:2:DIO sent
+390592110:2: 49928 P 0.18 12 380631 12397375 83337 294104 0 0 28487 954647 7068 23200 0 0 (radio 2.95% / 3.07% tx 0.65% / 0.71% listen 2.30% / 2.35%)
+390602345:6: 49928 P 0.18 12 310744 12467382 82963 249083 0 0 21204 961793 4882 20215 0 0 (radio 2.59% / 2.55% tx 0.64% / 0.49% listen 1.94% / 2.05%)
+390679263:18: 49928 P 0.18 12 444463 12333518 171020 226207 0 0 39999 942810 17350 16733 0 0 (radio 3.10% / 3.46% tx 1.33% / 1.76% listen 1.77% / 1.70%)
+390700740:4: 49928 P 0.18 12 429481 12348848 142379 251305 0 0 42882 939953 16393 20988 0 0 (radio 3.08% / 3.80% tx 1.11% / 1.66% listen 1.96% / 2.13%)
+390747646:12:DAO sent
+390753774:7: 49928 P 0.18 12 473921 12303911 94170 333811 0 0 30317 952634 4551 26637 0 0 (radio 3.34% / 3.17% tx 0.73% / 0.46% listen 2.61% / 2.70%)
+390801982:14: 49928 P 0.18 12 529896 12247908 130411 390770 0 0 35047 947937 7547 32030 0 0 (radio 4.-329% / 4.02% tx 1.02% / 0.76% listen 3.05% / 3.25%)
+390814965:15: 49928 P 0.18 12 406502 12370871 129619 289642 0 0 39995 942947 12299 26166 0 0 (radio 3.28% / 3.91% tx 1.01% / 1.25% listen 2.26% / 2.66%)
+390824946:20: 49928 P 0.18 12 420404 12357785 147803 243662 0 0 54820 925768 25553 17949 0 0 (radio 3.06% / 4.43% tx 1.15% / 2.60% listen 1.90% / 1.83%)
+390825345:16: 49928 P 0.18 12 427722 12349602 111685 295290 0 0 29153 953647 6742 24822 0 0 (radio 3.18% / 3.21% tx 0.87% / 0.68% listen 2.31% / 2.52%)
+390848671:12:msg sent to sink seqno: 6
+390910298:10: 49928 P 0.18 12 455636 12321992 119397 337974 0 0 31339 951645 7730 27509 0 0 (radio 3.-279% / 3.58% tx 0.93% / 0.78% listen 2.64% / 2.79%)
+390947043:9:DIO sent
+390948560:12: 49928 P 0.18 12 424717 12353341 125532 330612 0 0 57990 924994 25554 25363 0 0 (radio 3.-280% / 5.17% tx 0.98% / 2.59% listen 2.58% / 2.58%)
+391060500:9: 49928 P 0.18 12 373643 12404904 95591 319960 0 0 25921 957090 4992 25761 0 0 (radio 3.25% / 3.12% tx 0.74% / 0.50% listen 2.50% / 2.62%)
+391067251:5: 49928 P 0.18 12 394443 12383406 130102 235271 0 0 21503 961478 3708 20775 0 0 (radio 2.85% / 2.49% tx 1.01% / 0.37% listen 1.84% / 2.11%)
+391071457:19: 49928 P 0.18 12 350779 12427337 102952 243526 0 0 20678 962339 3577 22008 0 0 (radio 2.71% / 2.60% tx 0.80% / 0.36% listen 1.90% / 2.23%)
+391161554:17: 49928 P 0.18 12 469910 12307682 135231 334441 0 0 29448 953309 7792 27598 0 0 (radio 3.-269% / 3.60% tx 1.05% / 0.79% listen 2.61% / 2.80%)
+391237153:13: 49928 P 0.18 12 513533 12264603 154697 366029 0 0 45305 937658 14886 29207 0 0 (radio 4.-329% / 4.48% tx 1.21% / 1.51% listen 2.86% / 2.97%)
+391251919:3: 49928 P 0.18 12 508432 12269330 135998 336616 0 0 37153 945821 8174 28509 0 0 (radio 3.-267% / 3.73% tx 1.06% / 0.83% listen 2.63% / 2.90%)
+391259803:21: 49928 P 0.18 12 502123 12275763 185028 245013 0 0 37720 945041 13261 20818 0 0 (radio 3.-300% / 3.46% tx 1.44% / 1.34% listen 1.91% / 2.11%)
+391629529:19:DIO sent
+391750569:16:DIO sent
+391899406:12:DAO sent
+391981461:12:DIO sent
+392122115:12:DIO sent
+392263168:12:DIO sent
+392429397:7:DIO sent
+392469423:5:DIO sent
+392583055:12:DIO sent
+392669919:3:DIO sent
+392934655:6:DIO sent
+392963647:1:DIO sent
+393045018:10:DIO sent
+393109452:12:DIO sent
+393379550:21:DIO sent
+393846319:18:DIO sent
+393950671:12:DIO sent
+395669896:15:DIO sent
+395778243:12:DIO sent
+396057487:18:msg sent to sink seqno: 6
+396094736:4:DIO sent
+396467001:13:msg sent to sink seqno: 6
+396564977:1:30 0 395 0 4626 6 6 0 22 50619 0 1463 42369 548 761 5397 8 2048 1 16 130 1 67 60 65535 65535 0 0 0 0
+396567478:1:DATA recv from 18 ''
+396602694:14:DIO sent
+396742113:1:30 0 396 0 3341 6 3 0 22 50600 0 1847 48689 476 1493 2570 15 1024 5 16 130 1 67 60 65535 65535 0 0 0 0
+396744613:1:DATA recv from 13 ''
+396791863:16:msg sent to sink seqno: 6
+396820421:20:DIO sent
+396859710:13:DIO sent
+396959773:8:DIO sent
+397238385:1:30 0 396 0 4112 6 4 0 22 50694 0 1237 39126 312 896 3598 13 1280 4 16 130 1 67 60 65535 65535 0 0 0 0
+397240965:1:DATA recv from 16 ''
+397752746:14:msg sent to sink seqno: 6
+397977106:1:30 0 397 0 3598 6 3 0 22 50820 0 2600 64649 624 1940 2827 8 1024 5 16 137 1 74 67 65535 65535 0 0 0 0
+397979607:1:DATA recv from 14 ''
+398485114:17:DIO sent
+398566999:19:DIO sent
+398880935:2:DIO sent
+398950901:12:DAO sent
+399000918:5:DIO sent
+399085648:7:DIO sent
+399219290:16:DIO sent
+399349945:3:DIO sent
+399829885:9:DIO sent
+399911025:12:DIO sent
+400202414:11:DATA send to 1 'Hello 6'
+400319752:1:10 0 399 0 2827 72 2 0 27756 8303
+400322632:1:DATA recv from 11 'Hello 6'
+400451938:2:msg sent to sink seqno: 6
+400498560:1:30 0 399 0 514 6 1 0 22 51193 0 1717 55996 412 1328 257 8 512 2 16 230 1 167 216 65535 65535 0 0 0 0
+400500682:1:DATA recv from 2 ''
+400891677:17:msg sent to sink seqno: 6
+400985721:4:msg sent to sink seqno: 6
+401142352:1:30 0 400 0 4369 6 4 0 22 51176 0 1481 42466 377 1303 3598 11 1280 3 16 130 1 67 60 65535 65535 0 0 0 0
+401144853:1:DATA recv from 17 ''
+401202462:11:DIO sent
+401466455:3:msg sent to sink seqno: 6
+401731504:6:DIO sent
+401809267:21:DIO sent
+401865461:1:DIO sent
+401934485:6:DATA send to 1 'Hello 6'
+401993526:1:30 0 401 0 771 6 2 0 22 51238 0 2052 51029 533 1425 514 9 768 5 16 71 1 8 57 65535 65535 0 0 0 0
+401995647:1:DATA recv from 3 ''
+402020753:1:10 0 401 0 1542 72 1 0 27756 8303
+402023259:1:DATA recv from 6 'Hello 6'
+402088539:18:DIO sent
+402546517:1:30 0 401 0 1028 6 4 0 22 51247 0 2088 54384 705 1141 1285 8 1280 3 16 130 1 67 60 65535 65535 0 0 0 0
+402548640:1:DATA recv from 4 ''
+402689877:5:msg sent to sink seqno: 6
+402808028:9:msg sent to sink seqno: 6
+402867900:11:msg sent to sink seqno: 6
+403005397:1:30 0 402 0 2827 6 2 0 22 51508 0 2939 63461 831 1966 1799 9 768 3 16 130 1 67 60 65535 65535 0 0 0 0
+403007896:1:DATA recv from 11 ''
+403041358:1:30 0 402 0 2313 6 3 0 22 51434 0 1327 46975 271 1242 771 8 1024 4 16 71 1 152 145 65535 65535 0 0 0 0
+403043480:1:DATA recv from 9 ''
+403083282:13:DIO sent
+403204176:4:DIO sent
+403399325:1:30 0 402 0 1285 6 3 0 22 51418 0 1056 41012 244 825 771 10 1024 2 16 225 1 218 211 65535 65535 0 0 0 0
+403401446:1:DATA recv from 5 ''
+403529358:10:DIO sent
+403779336:6:msg sent to sink seqno: 6
+403841323:1:30 0 403 0 1542 6 1 0 22 51617 0 1234 47666 316 988 257 8 512 2 16 64 1 1 250 65535 65535 0 0 0 0
+403843444:1:DATA recv from 6 ''
+404551468:19:DIO sent
+404649573:14:DIO sent
+404756616:8:DIO sent
+404848040:17:DIO sent
+404895552:12:DIO sent
+405154211:15:DIO sent
+405418923:19:msg sent to sink seqno: 6
+405872932:1:30 0 405 0 4883 6 5 0 22 51767 0 981 39029 250 796 4112 8 1536 2 16 130 1 67 116 65535 65535 0 0 0 0
+405875508:1:DATA recv from 19 ''
+406091182:3:DIO sent
+406420966:10:msg sent to sink seqno: 6
+406553283:1:30 0 405 0 2570 6 2 0 22 51916 0 1652 50344 385 1529 1799 8 768 5 16 144 1 81 74 65535 65535 0 0 0 0
+406555784:1:DATA recv from 10 ''
+406907090:11:DIO sent
+406921585:7:DIO sent
+406930349:16:DIO sent
+406989393:3:DATA send to 1 'Hello 6'
+407057059:1:10 0 406 0 771 72 2 0 27756 8303
+407059561:1:DATA recv from 3 'Hello 6'
+407445803:5:DIO sent
+407642262:20:DIO sent
+408126820:9:DIO sent
+408725253:10:DIO sent
+408937977:5:DATA send to 1 'Hello 6'
+409106474:6:DIO sent
+409174324:18:DIO sent
+409177845:1:10 0 408 0 1285 72 3 0 27756 8303
+409180411:1:DATA recv from 5 'Hello 6'
+409600422:2:DIO sent
+409930180:20:msg sent to sink seqno: 6
+410248276:1:DIO sent
+410497409:21:DIO sent
+411105484:1:30 0 410 0 5140 6 5 0 22 52376 0 2457 49444 1032 932 4112 30 2048 2 16 144 1 81 74 65535 65535 0 0 0 0
+411108060:1:DATA recv from 20 ''
+411240177:13:DIO sent
+412014402:8:DIO sent
+412750864:4:DIO sent
+413037021:15:DIO sent
+413215040:19:DIO sent
+413242861:14:DIO sent
+413617853:16:DIO sent
+413919125:3:DIO sent
+413946233:7:msg sent to sink seqno: 6
+414030047:1:30 0 413 0 1799 6 1 0 22 52899 0 2174 58527 417 1611 257 8 512 4 16 92 1 29 22 65535 65535 0 0 0 0
+414032169:1:DATA recv from 7 ''
+414445390:20:DIO sent
+414734201:11:DIO sent
+415087351:17:DIO sent
+415512632:6:DIO sent
+415677050:13:DATA send to 1 'Hello 6'
+415811442:1:10 0 415 0 3341 72 3 0 27756 8303
+415814322:1:DATA recv from 13 'Hello 6'
+415844239:5:DIO sent
+416181753:9:DIO sent
+416770205:21:DIO sent
+416794907:2:DIO sent
+417090839:12:DIO sent
+417454338:7:DIO sent
+417498311:1:DIO sent
+418102227:17:DATA send to 1 'Hello 6'
+418283820:18:DIO sent
+418556343:9:DATA send to 1 'Hello 6'
+418800138:1:10 0 418 0 4369 72 4 0 27756 8303
+418803017:1:DATA recv from 17 'Hello 6'
+418979131:1:10 0 418 0 2313 72 3 0 27756 8303
+418981635:1:DATA recv from 9 'Hello 6'
+419473451:12:DATA send to 1 'Hello 6'
+419568514:13:DIO sent
+419842810:1:10 0 419 0 3084 72 4 0 27756 8303
+419845691:1:DATA recv from 12 'Hello 6'
+419952052:8:DIO sent
+420037021:15:DIO sent
+420417672:8: 53767 P 0.18 13 473945 13286363 128028 358988 0 0 28615 954126 7308 24636 0 0 (radio 3.-259% / 3.25% tx 0.93% / 0.74% listen 2.60% / 2.50%)
+420543785:11: 53768 P 0.18 13 557247 13203636 143772 399594 0 0 33107 949820 7606 27227 0 0 (radio 3.-218% / 3.54% tx 1.04% / 0.77% listen 2.90% / 2.76%)
+420553652:10:DIO sent
+420587839:2: 53768 P 0.18 13 411626 13349075 89751 317171 0 0 30992 951700 6414 23067 0 0 (radio 2.95% / 3.00% tx 0.65% / 0.65% listen 2.30% / 2.34%)
+420602690:6: 53768 P 0.18 13 335789 13425197 89791 267309 0 0 25042 957815 6828 18226 0 0 (radio 2.59% / 2.54% tx 0.65% / 0.69% listen 1.94% / 1.85%)
+420678617:18: 53768 P 0.18 13 468262 13292672 178040 240849 0 0 23796 959154 7020 14642 0 0 (radio 3.04% / 2.20% tx 1.29% / 0.71% listen 1.75% / 1.48%)
+420700211:4: 53768 P 0.18 13 453023 13308315 147825 270211 0 0 23539 959467 5446 18906 0 0 (radio 3.03% / 2.47% tx 1.07% / 0.55% listen 1.96% / 1.92%)
+420754685:7: 53768 P 0.18 13 509201 13251435 101019 358891 0 0 35277 947524 6849 25080 0 0 (radio 3.-278% / 3.24% tx 0.73% / 0.69% listen 2.60% / 2.55%)
+420802370:14: 53768 P 0.18 13 566319 13194292 139320 416467 0 0 36420 946384 8909 25697 0 0 (radio 4.-309% / 3.52% tx 1.01% / 0.90% listen 3.02% / 2.61%)
+420815460:15: 53768 P 0.18 13 430574 13329541 136276 310882 0 0 24069 958670 6657 21240 0 0 (radio 3.-288% / 2.83% tx 0.99% / 0.67% listen 2.25% / 2.16%)
+420824588:20: 53768 P 0.18 13 443817 13317287 153899 260194 0 0 23410 959502 6096 16532 0 0 (radio 3.00% / 2.30% tx 1.11% / 0.62% listen 1.89% / 1.68%)
+420825457:16: 53768 P 0.18 13 456661 13303596 119732 315215 0 0 28936 953994 8047 19925 0 0 (radio 3.-297% / 2.84% tx 0.87% / 0.81% listen 2.29% / 2.02%)
+420909422:10: 53768 P 0.18 13 487135 13273375 127987 365316 0 0 31496 951383 8590 27342 0 0 (radio 3.-254% / 3.65% tx 0.93% / 0.87% listen 2.65% / 2.78%)
+420946923:12: 53768 P 0.18 13 483344 13277532 149063 356911 0 0 58624 924191 23531 26299 0 0 (radio 3.-245% / 5.07% tx 1.08% / 2.39% listen 2.59% / 2.67%)
+421061071:9: 53768 P 0.18 13 402321 13359105 102116 343493 0 0 28675 954201 6525 23533 0 0 (radio 3.-289% / 3.05% tx 0.74% / 0.66% listen 2.49% / 2.39%)
+421067269:5: 53768 P 0.18 13 427042 13333703 139602 253466 0 0 32596 950297 9500 18195 0 0 (radio 2.85% / 2.81% tx 1.01% / 0.96% listen 1.84% / 1.85%)
+421071550:19: 53768 P 0.18 13 375580 13385417 109330 260619 0 0 24798 958080 6378 17093 0 0 (radio 2.68% / 2.38% tx 0.79% / 0.64% listen 1.89% / 1.73%)
+421161333:17: 53768 P 0.18 13 495088 13265416 139642 359766 0 0 25175 957734 4411 25325 0 0 (radio 3.-250% / 3.02% tx 1.01% / 0.44% listen 2.61% / 2.57%)
+421237754:13: 53768 P 0.18 13 542918 13218178 161126 391423 0 0 29382 953575 6429 25394 0 0 (radio 4.-311% / 3.23% tx 1.17% / 0.65% listen 2.84% / 2.58%)
+421252161:3: 53768 P 0.18 13 550164 13210465 147474 362398 0 0 41729 941135 11476 25782 0 0 (radio 3.-242% / 3.79% tx 1.07% / 1.16% listen 2.63% / 2.62%)
+421260501:21: 53768 P 0.18 13 526887 13233753 192592 261244 0 0 24761 957990 7564 16231 0 0 (radio 3.-283% / 2.42% tx 1.39% / 0.76% listen 1.89% / 1.65%)
+421267322:20:DIO sent
+421423105:4:DIO sent
+421548159:14:DIO sent
+421856808:3:DIO sent
+422051885:3:DATA send to 1 'Hello 7'
+422143663:1:10 0 421 0 771 72 2 0 27756 8303
+422146165:1:DATA recv from 3 'Hello 7'
+422462911:9:DIO sent
+422856562:6:DIO sent
+423013228:12:DIO sent
+423203829:5:DIO sent
+423368048:17:DIO sent
+423473370:19:DIO sent
+423834119:12:msg sent to sink seqno: 7
+424092107:1:30 0 423 0 3084 7 4 0 22 54140 0 4014 63524 1574 1779 2056 8 1280 4 16 44 1 237 230 65535 65535 0 0 0 0
+424094608:1:DATA recv from 12 ''
+425142781:16:DIO sent
+425757676:7:DIO sent
+425958103:21:DIO sent
+426140115:11:DIO sent
+426474837:2:DIO sent
+427014613:8:DIO sent
+427116228:1:DIO sent
+427174567:18:DIO sent
+428143127:18:DATA send to 1 'Hello 7'
+428201267:15:DIO sent
+428205413:14:msg sent to sink seqno: 7
+428397707:11:DATA send to 1 'Hello 7'
+428459351:10:DIO sent
+428533212:17:DATA send to 1 'Hello 7'
+428601335:1:10 0 427 0 2827 72 2 0 27756 8303
+428604215:1:DATA recv from 11 'Hello 7'
+428875926:4:DIO sent
+428990056:1:30 0 428 0 3598 7 3 0 22 54718 0 2115 60236 506 1569 2827 9 1024 5 16 121 1 58 51 65535 65535 0 0 0 0
+428992621:1:DATA recv from 14 ''
+429461882:16:DIO sent
+429501102:14:DIO sent
+429598278:19:DIO sent
+429624765:13:DIO sent
+429707751:1:10 0 429 0 4369 72 4 0 27756 8303
+429710646:1:DATA recv from 17 'Hello 7'
+429821565:1:10 0 429 0 4626 72 6 0 27756 8303
+429824445:1:DATA recv from 18 'Hello 7'
+430040792:9:DIO sent
+430079759:20:DIO sent
+431064590:7:DIO sent
+431069590:11:DIO sent
+431395309:12:DIO sent
+432192535:3:DIO sent
+432985083:17:DIO sent
+433064670:7:msg sent to sink seqno: 7
+433139430:8:DATA send to 1 'Hello 7'
+433143143:1:30 0 432 0 1799 7 1 0 22 55346 0 1359 37790 180 933 257 8 512 4 16 220 1 157 150 65535 65535 0 0 0 0
+433145264:1:DATA recv from 7 ''
+433246475:1:10 0 432 0 2056 72 3 0 27756 8303
+433249044:1:DATA recv from 8 'Hello 7'
+433372035:6:DIO sent
+433430238:5:DIO sent
+433537891:2:DIO sent
+435732698:10:DIO sent
+435817018:21:DIO sent
+436058783:18:DIO sent
+436710555:7:DATA send to 1 'Hello 7'
+436736461:1:10 0 436 0 1799 72 1 0 27756 8303
+436738963:1:DATA recv from 7 'Hello 7'
+436809369:1:DIO sent
+436990242:2:DATA send to 1 'Hello 7'
+437050577:1:10 0 436 0 514 72 1 0 27756 8303
+437053079:1:DATA recv from 2 'Hello 7'
+437328555:8:DIO sent
+437329206:4:DIO sent
+437738995:19:DIO sent
+437918745:12:DATA send to 1 'Hello 7'
+437922523:17:DIO sent
+438053320:10:msg sent to sink seqno: 7
+438164202:20:DIO sent
+438227514:1:10 0 437 0 3084 72 4 0 27756 8303
+438230394:1:DATA recv from 12 'Hello 7'
+438308414:1:30 0 437 0 2570 7 2 0 22 55965 0 1836 62935 486 1394 1799 8 768 5 16 128 1 65 58 65535 65535 0 0 0 0
+438310944:1:DATA recv from 10 ''
+438336476:16:DIO sent
+438407442:14:DIO sent
+438497589:13:DIO sent
+438655045:2:msg sent to sink seqno: 7
+438697684:9:DIO sent
+438736051:1:30 0 438 0 514 7 1 0 22 56083 0 1257 37855 266 858 257 8 512 2 16 214 1 151 144 65535 65535 0 0 0 0
+438738176:1:DATA recv from 2 ''
+439006412:15:DIO sent
+439070796:5:DATA send to 1 'Hello 7'
+439517370:1:10 0 438 0 1285 72 3 0 27756 8303
+439519871:1:DATA recv from 5 'Hello 7'
+439711855:4:DATA send to 1 'Hello 7'
+440009406:1:10 0 439 0 1028 72 4 0 27756 8303
+440011907:1:DATA recv from 4 'Hello 7'
+440614241:12:DIO sent
+440954351:5:DIO sent
+441028078:21:DIO sent
+441176967:3:DIO sent
+441583093:6:DIO sent
+441683784:18:DIO sent
+441827433:11:DIO sent
+442069932:7:DIO sent
+442427961:1:DIO sent
+442646684:2:DIO sent
+443233486:8:DIO sent
+443262994:13:DATA send to 1 'Hello 7'
+443403514:21:msg sent to sink seqno: 7
+443404622:1:10 0 442 0 3341 72 3 0 27756 8303
+443407502:1:DATA recv from 13 'Hello 7'
+443928776:10:DIO sent
+444352190:1:30 0 443 0 5397 7 5 0 22 56605 0 1279 40294 417 765 4369 18 1792 2 16 121 1 58 51 65535 65535 0 0 0 0
+444354690:1:DATA recv from 21 ''
+444703627:16:DATA send to 1 'Hello 7'
+444944782:1:10 0 444 0 4112 72 4 0 27756 8303
+444947663:1:DATA recv from 16 'Hello 7'
+445231341:6:DATA send to 1 'Hello 7'
+445286473:13:DIO sent
+445373250:1:10 0 444 0 1542 72 1 0 27756 8303
+445375767:1:DATA recv from 6 'Hello 7'
+445680613:4:DIO sent
+446281819:16:DIO sent
+446672013:20:DIO sent
+447172437:15:DIO sent
+447184344:12:DIO sent
+447391394:17:DIO sent
+447501102:14:DIO sent
+447694619:11:DIO sent
+448102530:5:msg sent to sink seqno: 7
+448138806:19:DIO sent
+448315759:9:DIO sent
+448337426:1:30 0 447 0 1285 7 3 0 22 57231 0 1278 45220 336 793 771 11 1024 2 16 76 1 13 6 65535 65535 0 0 0 0
+448339550:1:DATA recv from 5 ''
+448482407:2:DIO sent
+449687204:10:DIO sent
+449741838:7:DIO sent
+449986915:18:DIO sent
+450153683:3:DIO sent
+450417506:8: 57607 P 0.18 14 498888 14244433 132510 382173 0 0 24940 958070 4482 23185 0 0 (radio 3.-243% / 2.81% tx 0.89% / 0.45% listen 2.59% / 2.35%)
+450453589:5:DIO sent
+450542996:11: 57608 P 0.18 14 592021 14151776 153158 423779 0 0 34771 948140 9386 24185 0 0 (radio 3.-200% / 3.41% tx 1.03% / 0.95% listen 2.87% / 2.46%)
+450588548:2: 57608 P 0.18 14 443596 14300000 97535 338668 0 0 31967 950925 7784 21497 0 0 (radio 2.-196% / 2.97% tx 0.66% / 0.79% listen 2.29% / 2.18%)
+450602660:6: 57608 P 0.18 14 358234 14385754 94868 284564 0 0 22442 960557 5077 17255 0 0 (radio 2.57% / 2.27% tx 0.64% / 0.51% listen 1.93% / 1.75%)
+450679279:18: 57608 P 0.18 14 492164 14251598 185030 256336 0 0 23899 958926 6990 15487 0 0 (radio 2.-192% / 2.28% tx 1.25% / 0.71% listen 1.73% / 1.57%)
+450700891:4: 57608 P 0.18 14 479562 14264624 154805 287813 0 0 26536 956309 6980 17602 0 0 (radio 3.-292% / 2.50% tx 1.04% / 0.71% listen 1.95% / 1.79%)
+450754563:7: 57608 P 0.18 14 543402 14200193 107514 381463 0 0 34198 948758 6495 22572 0 0 (radio 3.-260% / 2.95% tx 0.72% / 0.66% listen 2.58% / 2.29%)
+450803102:14: 57608 P 0.18 14 603961 14139645 149632 441826 0 0 37639 945353 10312 25359 0 0 (radio 4.-291% / 3.62% tx 1.01% / 1.04% listen 2.-192% / 2.57%)
+450815447:15: 57608 P 0.18 14 449800 14293311 139605 329715 0 0 19223 963770 3329 18833 0 0 (radio 3.-273% / 2.25% tx 0.94% / 0.33% listen 2.23% / 1.91%)
+450824983:20: 57608 P 0.18 14 467701 14276394 160558 275606 0 0 23881 959107 6659 15412 0 0 (radio 2.-196% / 2.24% tx 1.08% / 0.67% listen 1.86% / 1.56%)
+450825713:16: 57608 P 0.18 14 484376 14258846 125816 334170 0 0 27712 955250 6084 18955 0 0 (radio 3.-280% / 2.54% tx 0.85% / 0.61% listen 2.26% / 1.92%)
+450879971:6:DIO sent
+450909327:10: 57608 P 0.18 14 513662 14229849 133697 387810 0 0 26524 956474 5710 22494 0 0 (radio 3.-238% / 2.86% tx 0.90% / 0.58% listen 2.63% / 2.28%)
+450946498:12: 57608 P 0.18 14 510063 14233691 156498 379693 0 0 26716 956159 7435 22782 0 0 (radio 3.-228% / 3.07% tx 1.06% / 0.75% listen 2.57% / 2.31%)
+451062383:9: 57608 P 0.18 14 427694 14316754 108660 363130 0 0 25370 957649 6544 19637 0 0 (radio 3.-272% / 2.66% tx 0.73% / 0.66% listen 2.46% / 1.99%)
+451068786:5: 57608 P 0.18 14 456166 14287540 147817 270404 0 0 29121 953837 8215 16938 0 0 (radio 2.83% / 2.55% tx 1.00% / 0.83% listen 1.83% / 1.72%)
+451071513:19: 57608 P 0.18 14 400055 14343934 115984 276467 0 0 24472 958517 6654 15848 0 0 (radio 2.66% / 2.28% tx 0.78% / 0.67% listen 1.87% / 1.61%)
+451084803:8:DIO sent
+451161254:17: 57608 P 0.18 14 526744 14216688 148292 381572 0 0 31653 951272 8650 21806 0 0 (radio 3.-232% / 3.09% tx 1.00% / 0.88% listen 2.58% / 2.21%)
+451236720:13: 57608 P 0.18 14 566063 14178035 164788 416311 0 0 23142 959857 3662 24888 0 0 (radio 3.-198% / 2.90% tx 1.11% / 0.37% listen 2.82% / 2.53%)
+451251801:3: 57608 P 0.18 14 587556 14156074 157524 385315 0 0 37389 945609 10050 22917 0 0 (radio 3.-224% / 3.35% tx 1.06% / 1.02% listen 2.61% / 2.33%)
+451259444:21: 57608 P 0.18 14 554028 14189585 199232 278540 0 0 27138 955832 6640 17296 0 0 (radio 3.-268% / 2.43% tx 1.35% / 0.67% listen 1.88% / 1.75%)
+452208878:15:DATA send to 1 'Hello 7'
+452495949:1:10 0 451 0 3855 72 4 0 27756 8303
+452498857:1:DATA recv from 15 'Hello 7'
+453138948:21:DIO sent
+453203184:20:DATA send to 1 'Hello 7'
+453403839:13:DIO sent
+453609740:1:10 0 452 0 5140 72 5 0 27756 8303
+453612622:1:DATA recv from 20 'Hello 7'
+453835304:15:DIO sent
+454149208:17:DIO sent
+454303602:1:DIO sent
+454340879:19:msg sent to sink seqno: 7
+454462625:4:DIO sent
+454829213:14:DATA send to 1 'Hello 7'
+454942305:12:DIO sent
+455473409:1:10 0 454 0 3598 72 3 0 27756 8303
+455476288:1:DATA recv from 14 'Hello 7'
+455570912:16:DIO sent
+455734867:20:msg sent to sink seqno: 7
+455982965:1:30 0 455 0 4883 7 5 0 22 58029 0 1172 48917 251 820 4112 8 1536 2 16 121 1 58 51 65535 65535 0 0 0 0
+455985465:1:DATA recv from 19 ''
+456417670:1:30 0 455 0 5140 7 5 0 22 58239 0 1164 45734 305 778 4112 26 2048 2 16 128 1 65 58 65535 65535 0 0 0 0
+456420205:1:DATA recv from 20 ''
+456729260:5:DIO sent
+456759065:14:DIO sent
+456767355:9:DIO sent
+456849624:2:DIO sent
+457811959:11:DIO sent
+457836044:20:DIO sent
+457921434:7:DIO sent
+458107326:3:DIO sent
+458160718:19:DIO sent
+458262658:6:DIO sent
+458268195:18:DIO sent
+459982471:10:DATA send to 1 'Hello 7'
+460135700:1:10 0 459 0 2570 72 2 0 27756 8303
+460138581:1:DATA recv from 10 'Hello 7'
+460259168:4:DIO sent
+460763055:6:msg sent to sink seqno: 7
+460823351:1:30 0 460 0 1542 7 1 0 22 58911 0 1406 56938 369 1055 257 8 512 2 16 48 1 241 234 65535 65535 0 0 0 0
+460825472:1:DATA recv from 6 ''
+461053624:10:DIO sent
+461168703:21:DIO sent
+461185089:13:DIO sent
+461268421:18:msg sent to sink seqno: 7
+462145493:1:30 0 461 0 4626 7 6 0 22 58966 0 1556 65208 437 1042 5397 8 2048 1 16 114 1 51 44 65535 65535 0 0 0 0
+462147993:1:DATA recv from 18 ''
+462326402:1:DIO sent
+462624567:8:DIO sent
+462778928:3:msg sent to sink seqno: 7
+462888987:1:30 0 462 0 771 7 2 0 22 59086 0 2362 60415 608 1494 514 8 768 5 16 62 1 255 248 65535 65535 0 0 0 0
+462891109:1:DATA recv from 3 ''
+463070359:20:DIO sent
+463487666:9:DIO sent
+463520371:12:DIO sent
+463794098:3:DIO sent
+464183028:9:msg sent to sink seqno: 7
+464381320:15:DIO sent
+464628193:1:30 0 463 0 2313 7 3 0 22 59290 0 1713 61129 408 1347 771 9 1024 4 16 252 1 77 70 65535 65535 0 0 0 0
+464630315:1:DATA recv from 9 ''
+464739192:6:DIO sent
+464852105:16:DIO sent
+465015980:7:DIO sent
+465166327:17:DIO sent
+465332661:21:DATA send to 1 'Hello 7'
+465615389:14:DIO sent
+465800555:1:10 0 465 0 5397 72 5 0 27756 8303
+465803470:1:DATA recv from 21 'Hello 7'
+466138806:19:DIO sent
+466299388:18:DIO sent
+466741677:11:DIO sent
+467070924:5:DIO sent
+467318623:1:DIO sent
+467537184:2:DIO sent
+468465518:21:DIO sent
+468690017:4:DIO sent
+468693543:13:DIO sent
+469327112:8:DIO sent
+469779330:10:DIO sent
+471013554:15:DIO sent
+471579780:9:DATA send to 1 'Hello 7'
+471971226:1:10 0 471 0 2313 72 3 0 27756 8303
+471973728:1:DATA recv from 9 'Hello 7'
+472181539:9:DIO sent
+472435720:19:DIO sent
+472492386:20:DIO sent
+472496936:12:DIO sent
+472593980:11:msg sent to sink seqno: 7
+472594994:16:DIO sent
+472684655:1:30 0 472 0 2827 7 2 0 22 60433 0 1198 34498 303 883 1799 8 768 3 16 114 1 51 44 65535 65535 0 0 0 0
+472687157:1:DATA recv from 11 ''
+473212040:14:DIO sent
+473243579:16:msg sent to sink seqno: 7
+473740686:1:30 0 473 0 4112 7 4 0 22 60480 0 1154 37983 295 764 3598 12 1280 4 16 114 1 51 44 65535 65535 0 0 0 0
+473743186:1:DATA recv from 16 ''
+473770049:19:DATA send to 1 'Hello 7'
+473946051:17:DIO sent
+474153222:6:DIO sent
+474334183:2:DIO sent
+474458212:1:10 0 473 0 4883 72 5 0 27756 8303
+474461093:1:DATA recv from 19 'Hello 7'
+475137367:5:DIO sent
+475153500:3:DIO sent
+475226697:8:msg sent to sink seqno: 7
+475329338:7:DIO sent
+475407092:11:DIO sent
+475412753:10:DIO sent
+475421184:21:DIO sent
+475455633:18:DIO sent
+475543286:1:30 0 474 0 2056 7 3 0 22 60785 0 1204 42722 275 1037 771 11 1024 5 16 69 1 6 255 65535 65535 0 0 0 0
+475545488:1:DATA recv from 8 ''
+476283639:17:msg sent to sink seqno: 7
+476771774:1:DIO sent
+476843115:1:30 0 476 0 4369 7 4 0 22 60826 0 1101 37495 269 848 3598 10 1280 3 16 114 1 51 44 65535 65535 0 0 0 0
+476845616:1:DATA recv from 17 ''
+477520783:13:DIO sent
+477766702:4:DIO sent
+478798036:14:DIO sent
+479086478:16:DIO sent
+479218226:8:DIO sent
+479504409:19:DIO sent
+479524801:4:msg sent to sink seqno: 7
+479919833:15:DIO sent
+479968947:1:30 0 479 0 1028 7 4 0 22 61300 0 975 39232 246 720 1285 8 1280 3 16 114 1 51 44 65535 65535 0 0 0 0
+479971071:1:DATA recv from 4 ''
+480223873:3:DIO sent
+480312938:15:msg sent to sink seqno: 7
+480382802:20:DIO sent
+480417450:8: 61447 P 0.18 15 525523 15200767 139535 403622 0 0 26632 956334 7025 21449 0 0 (radio 3.-228% / 2.89% tx 0.88% / 0.71% listen 2.56% / 2.18%)
+480543552:11: 61448 P 0.18 15 627663 15099115 161330 449552 0 0 35639 947339 8172 25773 0 0 (radio 3.-185% / 3.45% tx 1.02% / 0.83% listen 2.-188% / 2.62%)
+480582142:1:30 0 479 0 3855 7 4 0 22 61386 0 1186 48035 289 1015 3341 12 1280 2 16 114 1 51 44 65535 65535 0 0 0 0
+480584718:1:DATA recv from 15 ''
+480590209:2: 61448 P 0.18 15 469129 15257212 103220 359171 0 0 25530 957212 5685 20503 0 0 (radio 2.-180% / 2.66% tx 0.65% / 0.57% listen 2.28% / 2.08%)
+480604536:6: 61448 P 0.18 15 382249 15344581 101618 303229 0 0 24012 958827 6750 18665 0 0 (radio 2.57% / 2.58% tx 0.64% / 0.68% listen 1.92% / 1.89%)
+480618178:11:DIO sent
+480624009:7:DIO sent
+480646635:13:msg sent to sink seqno: 7
+480679341:18: 61448 P 0.18 15 513593 15213078 190390 272913 0 0 21426 961480 5360 16577 0 0 (radio 2.-179% / 2.23% tx 1.21% / 0.54% listen 1.73% / 1.68%)
+480700949:4: 61448 P 0.18 15 502991 15224197 160161 305495 0 0 23426 959573 5356 17682 0 0 (radio 2.-178% / 2.34% tx 1.01% / 0.54% listen 1.94% / 1.79%)
+480755539:7: 61448 P 0.18 15 577903 15148678 114103 405853 0 0 34498 948485 6589 24390 0 0 (radio 3.-243% / 3.15% tx 0.72% / 0.67% listen 2.58% / 2.48%)
+480803516:14: 61448 P 0.18 15 647943 15078459 161987 468180 0 0 43979 938814 12355 26354 0 0 (radio 4.-273% / 3.93% tx 1.03% / 1.25% listen 2.-176% / 2.68%)
+480815224:15: 61448 P 0.18 15 477566 15248569 147510 350349 0 0 27763 955258 7905 20634 0 0 (radio 3.-257% / 2.90% tx 0.93% / 0.80% listen 2.22% / 2.09%)
+480820914:1:30 0 480 0 3341 7 3 0 22 61375 0 1170 41927 270 1065 2570 12 1024 5 16 114 1 51 44 65535 65535 0 0 0 0
+480823415:1:DATA recv from 13 ''
+480824996:20: 61448 P 0.18 15 492736 15234146 168005 292519 0 0 25032 957752 7447 16913 0 0 (radio 2.-181% / 2.47% tx 1.06% / 0.75% listen 1.85% / 1.72%)
+480825460:16: 61448 P 0.18 15 517514 15208518 134898 354108 0 0 33135 949672 9082 19938 0 0 (radio 3.-263% / 2.95% tx 0.85% / 0.92% listen 2.25% / 2.02%)
+480909421:10: 61448 P 0.18 15 541957 15184383 140663 411721 0 0 28292 954534 6966 23911 0 0 (radio 3.-222% / 3.14% tx 0.89% / 0.70% listen 2.61% / 2.43%)
+480946945:12: 61448 P 0.18 15 532350 15194384 161493 403784 0 0 22284 960693 4995 24091 0 0 (radio 3.-214% / 2.95% tx 1.02% / 0.50% listen 2.56% / 2.45%)
+481061391:9: 61448 P 0.18 15 453178 15274209 113646 384108 0 0 25481 957455 4986 20978 0 0 (radio 3.-257% / 2.64% tx 0.72% / 0.50% listen 2.44% / 2.13%)
+481068025:5: 61448 P 0.18 15 474535 15251931 150290 287573 0 0 18366 964391 2473 17169 0 0 (radio 2.-195% / 1.99% tx 0.95% / 0.25% listen 1.82% / 1.74%)
+481071548:19: 61448 P 0.18 15 426640 15300305 122926 293957 0 0 26582 956371 6942 17490 0 0 (radio 2.65% / 2.48% tx 0.78% / 0.70% listen 1.86% / 1.77%)
+481161466:6:DIO sent
+481161890:17: 61448 P 0.18 15 556212 15170214 155623 403425 0 0 29465 953526 7331 21853 0 0 (radio 3.-218% / 2.96% tx 0.98% / 0.74% listen 2.56% / 2.22%)
+481237535:13: 61448 P 0.18 15 595419 15131706 172367 440294 0 0 29353 953671 7579 23983 0 0 (radio 3.-184% / 3.21% tx 1.09% / 0.77% listen 2.-194% / 2.43%)
+481252158:3: 61448 P 0.18 15 624203 15102290 168343 407691 0 0 36644 946216 10819 22376 0 0 (radio 3.-207% / 3.37% tx 1.07% / 1.10% listen 2.59% / 2.27%)
+481258486:5:DIO sent
+481259505:21: 61448 P 0.18 15 578602 15147890 205794 295229 0 0 24571 958305 6562 16689 0 0 (radio 3.-255% / 2.36% tx 1.30% / 0.66% listen 1.87% / 1.69%)
+481506150:2:DIO sent
+481911147:12:DIO sent
+482557175:18:DATA send to 1 'Hello 8'
+482689382:9:DIO sent
+482751720:17:DIO sent
+482802493:21:DIO sent
+482885539:18:DIO sent
+483288227:1:10 0 482 0 4626 72 6 0 27756 8303
+483291107:1:DATA recv from 18 'Hello 8'
+484264641:8:DIO sent
+484585977:20:DATA send to 1 'Hello 8'
+484859513:20:DIO sent
+484984483:20:DIO sent
+485187608:20:DIO sent
+485277426:1:10 0 484 0 5140 72 5 0 27756 8303
+485280371:1:DATA recv from 20 'Hello 8'
+485396548:15:DIO sent
+485492386:20:DIO sent
+485514161:10:DIO sent
+485662458:1:DIO sent
+485725172:10:msg sent to sink seqno: 8
+485848981:1:30 0 485 0 2570 8 2 0 22 62067 0 1452 47355 344 1201 1799 8 768 5 16 112 1 49 98 65535 65535 0 0 0 0
+485851487:1:DATA recv from 10 ''
+486063607:4:DIO sent
+486079759:20:DIO sent
+486742509:20:DIO sent
+486936352:2:msg sent to sink seqno: 8
+487028131:1:30 0 486 0 514 8 1 0 22 62263 0 1439 47987 352 1058 257 8 512 2 16 198 1 135 128 65535 65535 0 0 0 0
+487030251:1:DATA recv from 2 ''
+487434953:6:msg sent to sink seqno: 8
+487499566:1:30 0 486 0 1542 8 1 0 22 62325 0 1297 53313 317 1021 257 8 512 2 16 32 1 225 218 65535 65535 0 0 0 0
+487501690:1:DATA recv from 6 ''
+487735571:14:DIO sent
+487953226:13:DIO sent
+487978831:17:DIO sent
+488562785:11:DIO sent
+488704484:4:msg sent to sink seqno: 8
+488945360:20:DIO sent
+489266888:1:30 0 488 0 1028 8 4 0 22 62475 0 1187 36402 253 689 1285 8 1280 3 16 98 1 35 84 65535 65535 0 0 0 0
+489269014:1:DATA recv from 4 ''
+489438039:16:DIO sent
+489552751:2:DIO sent
+489665086:17:msg sent to sink seqno: 8
+489779499:19:DIO sent
+489805178:5:DIO sent
+490615711:12:DIO sent
+490712921:1:30 0 490 0 4369 8 4 0 22 62539 0 2463 52340 655 1348 3598 11 1280 3 16 98 1 35 28 65535 65535 0 0 0 0
+490715422:1:DATA recv from 17 ''
+490794003:6:DIO sent
+491007615:7:DIO sent
+491122721:12:msg sent to sink seqno: 8
+491299387:18:DIO sent
+491564321:9:DIO sent
+491755895:1:30 0 491 0 3084 8 4 0 22 62753 0 821 33626 194 818 2056 8 1280 4 16 28 1 221 214 65535 65535 0 0 0 0
+491758472:1:DATA recv from 12 ''
+491833218:3:DIO sent
+492028078:21:DIO sent
+492162783:10:DIO sent
+492186770:11:DATA send to 1 'Hello 8'
+492217303:10:DATA send to 1 'Hello 8'
+492368146:1:10 0 491 0 2827 72 2 0 27756 8303
+492371026:1:DATA recv from 11 'Hello 8'
+492422621:1:10 0 491 0 2570 72 2 0 27756 8303
+492425501:1:DATA recv from 10 'Hello 8'
+492507923:20:DIO sent
+492555189:16:DATA send to 1 'Hello 8'
+492786417:1:10 0 492 0 4112 72 4 0 27756 8303
+492789295:1:DATA recv from 16 'Hello 8'
+493952767:7:DATA send to 1 'Hello 8'
+494026961:4:DIO sent
+494061334:8:DIO sent
+494087881:1:10 0 493 0 1799 72 1 0 27756 8303
+494090383:1:DATA recv from 7 'Hello 8'
+495026161:14:DIO sent
+495076266:15:DIO sent
+495459974:1:DIO sent
+495494991:16:DIO sent
+495500710:17:DIO sent
+496567871:13:DIO sent
+496966183:3:DIO sent
+497577583:8:msg sent to sink seqno: 8
+497734728:7:DIO sent
+497878157:1:30 0 497 0 2056 8 3 0 22 63646 0 1749 44020 493 1086 771 13 1024 5 16 53 1 246 239 65535 65535 0 0 0 0
+497880281:1:DATA recv from 8 ''
+498231061:19:DIO sent
+498671982:20:DIO sent
+499024306:11:DIO sent
+499051773:12:DIO sent
+499423604:9:DIO sent
+499629999:6:DIO sent
+499836490:5:DIO sent
+500251363:16:msg sent to sink seqno: 8
+500602745:5:DATA send to 1 'Hello 8'
+500786400:1:10 0 500 0 1285 72 3 0 27756 8303
+500788900:1:DATA recv from 5 'Hello 8'
+500936303:8:DIO sent
+501166849:1:30 0 500 0 4112 8 4 0 22 63937 0 1583 53722 305 1117 3598 10 1280 4 16 98 1 35 28 65535 65535 0 0 0 0
+501169390:1:DATA recv from 16 ''
+501232437:2:DIO sent
+502090368:19:DATA send to 1 'Hello 8'
+502300969:13:DIO sent
+502384532:1:10 0 501 0 4883 72 5 0 27756 8303
+502387413:1:DATA recv from 19 'Hello 8'
+502482516:10:DIO sent
+502653781:21:DIO sent
+502709019:15:DIO sent
+503049478:18:DIO sent
+503185811:1:DIO sent
+503621940:6:DATA send to 1 'Hello 8'
+503642599:16:DIO sent
+503658814:1:10 0 503 0 1542 72 1 0 27756 8303
+503661315:1:DATA recv from 6 'Hello 8'
+504024422:4:DIO sent
+504169134:21:msg sent to sink seqno: 8
+504689323:9:DIO sent
+504693757:19:msg sent to sink seqno: 8
+504717221:15:msg sent to sink seqno: 8
+504759097:14:DIO sent
+505122369:13:DATA send to 1 'Hello 8'
+505207071:1:30 0 504 0 5397 8 5 0 22 64383 0 1622 60594 400 1060 4369 16 1792 2 16 105 1 42 35 65535 65535 0 0 0 0
+505209637:1:DATA recv from 21 ''
+505254714:12:DIO sent
+505261918:18:DIO sent
+505293641:21:DIO sent
+505365488:21:DIO sent
+505385352:18:DIO sent
+505508010:1:30 0 504 0 3855 8 4 0 22 64510 0 1525 48454 421 1117 3341 14 1280 2 16 98 1 35 28 65535 65535 0 0 0 0
+505510513:1:DATA recv from 15 ''
+505511966:21:DIO sent
+505588538:18:DIO sent
+505604039:1:10 0 504 0 3341 72 3 0 27756 8303
+505606919:1:DATA recv from 13 'Hello 8'
+505653547:19:DIO sent
+505710277:21:DIO sent
+505758520:17:DIO sent
+505838450:18:DIO sent
+505913522:11:DIO sent
+506013700:3:DIO sent
+506091968:2:DIO sent
+506227023:5:DIO sent
+506232707:21:DIO sent
+506242594:1:30 0 505 0 4883 8 5 0 22 64474 0 1251 50304 276 911 4112 9 1536 2 16 105 1 42 35 65535 65535 0 0 0 0
+506245094:1:DATA recv from 19 ''
+506260356:18:DIO sent
+506802717:2:DATA send to 1 'Hello 8'
+506847876:1:10 0 506 0 514 72 1 0 27756 8303
+506850436:1:DATA recv from 2 'Hello 8'
+507035860:21:DIO sent
+507308784:18:DIO sent
+508155838:7:DIO sent
+508426557:12:DATA send to 1 'Hello 8'
+508475190:10:DIO sent
+508871942:6:DIO sent
+509076448:21:DIO sent
+509174446:18:DIO sent
+509212008:1:10 0 508 0 3084 72 4 0 27756 8303
+509214889:1:DATA recv from 12 'Hello 8'
+509789170:20:DIO sent
+510131090:1:DIO sent
+510258907:14:DATA send to 1 'Hello 8'
+510417717:8: 65287 P 0.18 16 560957 16148335 148514 428721 0 0 35431 947568 8979 25099 0 0 (radio 3.-212% / 3.46% tx 0.88% / 0.91% listen 2.56% / 2.55%)
+510485303:4:DIO sent
+510543486:11: 65288 P 0.18 16 668274 16041373 170437 478968 0 0 40608 942258 9107 29416 0 0 (radio 3.-169% / 3.91% tx 1.01% / 0.92% listen 2.-171% / 2.99%)
+510588585:2: 65288 P 0.18 16 499287 16210029 111057 378965 0 0 30155 952817 7837 19794 0 0 (radio 2.-164% / 2.81% tx 0.66% / 0.79% listen 2.26% / 2.01%)
+510603449:6: 65288 P 0.18 16 408539 16301237 108533 322424 0 0 26287 956656 6915 19195 0 0 (radio 2.-200% / 2.65% tx 0.64% / 0.70% listen 1.92% / 1.95%)
+510679726:18: 65288 P 0.18 16 550292 16159156 205703 289301 0 0 36696 946078 15313 16388 0 0 (radio 2.-161% / 3.22% tx 1.23% / 1.55% listen 1.73% / 1.66%)
+510701198:4: 65288 P 0.18 16 526998 16183111 165521 323031 0 0 24004 958914 5360 17536 0 0 (radio 2.-165% / 2.32% tx 0.99% / 0.54% listen 1.93% / 1.78%)
+510755104:7: 65288 P 0.18 16 616360 16093077 120901 432031 0 0 38454 944399 6798 26178 0 0 (radio 3.-227% / 3.35% tx 0.72% / 0.69% listen 2.-199% / 2.66%)
+510803081:14: 65288 P 0.18 16 686621 16022757 171141 495998 0 0 38675 944298 9154 27818 0 0 (radio 3.-158% / 3.76% tx 1.02% / 0.93% listen 2.-161% / 2.82%)
+510815400:15: 65288 P 0.18 16 502484 16206638 153697 371749 0 0 24915 958069 6187 21400 0 0 (radio 3.-243% / 2.80% tx 0.91% / 0.62% listen 2.22% / 2.17%)
+510825376:16: 65288 P 0.18 16 546245 16162722 140560 374732 0 0 28728 954204 5662 20624 0 0 (radio 3.-249% / 2.67% tx 0.84% / 0.57% listen 2.24% / 2.09%)
+510825693:20: 65288 P 0.18 16 531596 16178303 184901 308877 0 0 38857 944157 16896 16358 0 0 (radio 2.-162% / 3.38% tx 1.10% / 1.71% listen 1.84% / 1.66%)
+510909798:10: 65288 P 0.18 16 575131 16134054 149858 434508 0 0 33171 949671 9195 22787 0 0 (radio 3.-208% / 3.25% tx 0.89% / 0.93% listen 2.-198% / 2.31%)
+510946799:12: 65288 P 0.18 16 560374 16149220 168016 427809 0 0 28021 954836 6523 24025 0 0 (radio 3.-201% / 3.10% tx 1.00% / 0.66% listen 2.56% / 2.44%)
+510960803:1:10 0 510 0 3598 72 3 0 27756 8303
+510963683:1:DATA recv from 14 'Hello 8'
+511061379:9: 65288 P 0.18 16 478054 16232363 120298 405350 0 0 24873 958154 6652 21242 0 0 (radio 3.-243% / 2.83% tx 0.71% / 0.67% listen 2.42% / 2.16%)
+511067955:5: 65288 P 0.18 16 502443 16207011 158420 304683 0 0 27905 955080 8130 17110 0 0 (radio 2.-180% / 2.56% tx 0.94% / 0.82% listen 1.82% / 1.74%)
+511071818:19: 65288 P 0.18 16 450482 16259398 127236 311063 0 0 23839 959093 4310 17106 0 0 (radio 2.-195% / 2.17% tx 0.76% / 0.43% listen 1.86% / 1.74%)
+511161824:17: 65288 P 0.18 16 587983 16121358 163774 427528 0 0 31768 951144 8151 24103 0 0 (radio 3.-204% / 3.28% tx 0.98% / 0.82% listen 2.55% / 2.45%)
+511236512:13: 65288 P 0.18 16 619838 16090285 176326 466364 0 0 24416 958579 3959 26070 0 0 (radio 3.-173% / 3.05% tx 1.05% / 0.40% listen 2.-178% / 2.65%)
+511252016:3: 65288 P 0.18 16 656426 16053059 175705 430748 0 0 32220 950769 7362 23057 0 0 (radio 3.-195% / 3.09% tx 1.05% / 0.74% listen 2.-200% / 2.34%)
+511259881:21: 65288 P 0.18 16 619765 16089702 220162 313373 0 0 41160 941812 14368 18144 0 0 (radio 3.-238% / 3.30% tx 1.31% / 1.46% listen 1.87% / 1.84%)
+511498999:13:DIO sent
+511546048:8:DIO sent
+512337007:14:DIO sent
+512573584:18:DIO sent
+512746798:21:DIO sent
+512751851:9:DIO sent
+512961481:16:DIO sent
+513377141:7:msg sent to sink seqno: 8
+513468966:1:30 0 512 0 1799 8 1 0 22 90 0 1488 39626 272 1031 257 8 512 4 16 187 1 124 117 65535 65535 0 0 0 0
+513471088:1:DATA recv from 7 ''
+513478828:17:DIO sent
+513553347:15:DIO sent
+514319623:11:DIO sent
+514408202:17:DATA send to 1 'Hello 8'
+514875711:1:10 0 514 0 4369 72 4 0 27756 8303
+514878592:1:DATA recv from 17 'Hello 8'
+514895063:19:DIO sent
+515020309:12:DIO sent
+515096546:18:msg sent to sink seqno: 8
+515208370:3:DIO sent
+515373093:2:DIO sent
+515634048:1:30 0 514 0 4626 8 6 0 22 320 0 1740 53368 646 946 5397 8 2304 1 16 98 1 35 28 65535 65535 0 0 0 0
+515636549:1:DATA recv from 18 ''
+515702957:7:DIO sent
+516235598:5:DIO sent
+516375748:20:DIO sent
+516785786:21:DATA send to 1 'Hello 8'
+516943393:10:DIO sent
+517012599:6:DIO sent
+517224860:21:DIO sent
+517340487:21:DIO sent
+517551486:21:DIO sent
+517848208:21:DIO sent
+517919634:1:10 0 517 0 5397 72 5 0 27756 8303
+517922579:1:DATA recv from 21 'Hello 8'
+518317110:21:DIO sent
+518401037:18:DIO sent
+518434732:3:DATA send to 1 'Hello 8'
+518512884:1:10 0 517 0 771 72 2 0 27756 8303
+518515384:1:DATA recv from 3 'Hello 8'
+518518168:18:DIO sent
+518571994:9:DATA send to 1 'Hello 8'
+518690070:18:DIO sent
+518752050:1:10 0 518 0 2313 72 3 0 27756 8303
+518754551:1:DATA recv from 9 'Hello 8'
+519033912:18:DIO sent
+519123312:1:DIO sent
+519348300:21:DIO sent
+519443001:3:msg sent to sink seqno: 8
+519572773:1:30 0 518 0 771 8 2 0 22 803 0 2235 55780 604 1371 514 8 768 5 16 46 1 239 232 65535 65535 0 0 0 0
+519574894:1:DATA recv from 3 ''
+519611827:18:DIO sent
+519770875:13:DIO sent
+520280816:8:DIO sent
+520613751:14:msg sent to sink seqno: 8
+520666304:17:DIO sent
+520705664:18:DIO sent
+520883658:12:DIO sent
+520922865:4:DIO sent
+521082675:21:DIO sent
+521176906:3:DIO sent
+521283468:7:DIO sent
+521304472:1:30 0 520 0 3598 8 3 0 22 1010 0 1993 45313 529 1308 2827 11 1024 5 16 105 1 42 35 65535 65535 0 0 0 0
+521306973:1:DATA recv from 14 ''
+521336221:11:DIO sent
+521406760:16:DIO sent
+521682352:14:DIO sent
+521693851:15:DIO sent
+521978232:9:DIO sent
+522291602:18:DIO sent
+522676664:6:DIO sent
+523226548:20:DIO sent
+523451307:19:DIO sent
+524364077:21:DIO sent
+525125674:5:DIO sent
+525194072:8:DATA send to 1 'Hello 8'
+525287725:10:DIO sent
+525479408:1:10 0 524 0 2056 72 3 0 27756 8303
+525481911:1:DATA recv from 8 'Hello 8'
+525651038:18:DIO sent
+525740931:8:DIO sent
+525904282:2:DIO sent
+526420186:1:DIO sent
+527227700:4:DIO sent
+527406747:20:msg sent to sink seqno: 8
+527881350:15:DIO sent
+527917761:1:30 0 527 0 5140 8 5 0 22 1877 0 1136 35555 427 617 4112 22 1792 2 16 112 1 49 98 65535 65535 0 0 0 0
+527920289:1:DATA recv from 20 ''
+529583374:13:DIO sent
+529661283:3:DIO sent
+530207597:19:DIO sent
+530601243:7:DIO sent
+530843087:11:DIO sent
+531114303:12:DIO sent
+531184267:21:DIO sent
+531335985:20:DIO sent
+531446224:4:DATA send to 1 'Hello 8'
+531533851:18:DIO sent
+531580197:16:DIO sent
+531588602:14:DIO sent
+531641395:17:DIO sent
+531718124:1:10 0 531 0 1028 72 4 0 27756 8303
+531720629:1:DATA recv from 4 'Hello 8'
+532388948:10:DIO sent
+532393222:9:msg sent to sink seqno: 8
+532466784:2:DIO sent
+532704825:9:DIO sent
+533040066:1:30 0 532 0 2313 8 3 0 22 2485 0 889 34030 212 751 771 10 1024 4 16 177 1 114 107 65535 65535 0 0 0 0
+533042187:1:DATA recv from 9 ''
+533086492:5:DIO sent
+533614892:6:DIO sent
+534982486:15:DIO sent
+535235301:4:DIO sent
+535950502:13:DIO sent
+536342023:1:DIO sent
+536569116:8:DIO sent
+537056368:14:DIO sent
+537290651:11:msg sent to sink seqno: 8
+537406169:1:30 0 536 0 2827 8 2 0 22 3178 0 2595 63644 626 1829 1799 10 768 3 16 98 1 35 84 65535 65535 0 0 0 0
+537408669:1:DATA recv from 11 ''
+538047614:17:DIO sent
+538527876:19:DIO sent
+538532950:9:DIO sent
+538767782:5:msg sent to sink seqno: 8
+538810592:2:DIO sent
+539153700:1:30 0 538 0 1285 8 3 0 22 3300 0 1177 45236 298 808 771 12 1024 2 16 60 1 253 246 65535 65535 0 0 0 0
+539155823:1:DATA recv from 5 ''
+539294827:3:DIO sent
+539442215:12:DIO sent
+539835401:11:DIO sent
+540047446:16:DIO sent
+540252539:18:DIO sent
+540418196:8: 69127 P 0.18 17 588566 17103601 155836 449691 0 0 27606 955266 7322 20970 0 0 (radio 3.-201% / 2.87% tx 0.88% / 0.74% listen 2.-189% / 2.13%)
+540443489:13:msg sent to sink seqno: 8
+540490102:15:DATA send to 1 'Hello 8'
+540543880:11: 69128 P 0.18 17 705956 16986665 181900 503154 0 0 37679 945292 11463 24186 0 0 (radio 3.-156% / 3.62% tx 1.02% / 1.16% listen 2.-159% / 2.46%)
+540586643:1:30 0 539 0 3341 8 3 0 22 3493 0 1557 59672 291 1501 2570 10 1024 5 16 98 1 35 84 65535 65535 0 0 0 0
+540588710:2: 69128 P 0.18 17 530465 17161607 119364 398969 0 0 31175 951578 8307 20004 0 0 (radio 2.-150% / 2.88% tx 0.67% / 0.84% listen 2.25% / 2.03%)
+540589144:1:DATA recv from 13 ''
+540603570:6: 69128 P 0.18 17 428594 17263929 113525 339543 0 0 20052 962692 4992 17119 0 0 (radio 2.-187% / 2.24% tx 0.64% / 0.50% listen 1.91% / 1.74%)
+540679893:18: 69128 P 0.18 17 591909 17100501 224477 306322 0 0 41614 941345 18774 17021 0 0 (radio 3.-243% / 3.64% tx 1.26% / 1.90% listen 1.73% / 1.73%)
+540701275:4: 69128 P 0.18 17 549989 17143117 170931 340341 0 0 22988 960006 5410 17310 0 0 (radio 2.-154% / 2.31% tx 0.96% / 0.55% listen 1.92% / 1.76%)
+540755197:7: 69128 P 0.18 17 645860 17046539 125589 454826 0 0 29497 953462 4688 22795 0 0 (radio 3.-215% / 2.79% tx 0.70% / 0.47% listen 2.-186% / 2.31%)
+540781772:5:DIO sent
+540803215:14: 69128 P 0.18 17 716257 16975947 177319 521267 0 0 29633 953190 6178 25269 0 0 (radio 3.-148% / 3.19% tx 1.00% / 0.62% listen 2.-149% / 2.57%)
+540815490:15: 69128 P 0.18 17 528427 17163708 161189 390492 0 0 25940 957070 7492 18743 0 0 (radio 3.-231% / 2.66% tx 0.91% / 0.76% listen 2.20% / 1.90%)
+540824997:20: 69128 P 0.18 17 554291 17138510 190345 325369 0 0 22692 960207 5444 16492 0 0 (radio 2.-152% / 2.23% tx 1.07% / 0.55% listen 1.83% / 1.67%)
+540825788:16: 69128 P 0.18 17 571102 17120841 146365 394090 0 0 24854 958119 5805 19358 0 0 (radio 3.-238% / 2.55% tx 0.82% / 0.59% listen 2.22% / 1.96%)
+540909990:10: 69128 P 0.18 17 600280 17091655 156088 456767 0 0 25146 957601 6230 22259 0 0 (radio 3.-197% / 2.89% tx 0.88% / 0.63% listen 2.-185% / 2.26%)
+540947772:12: 69128 P 0.18 17 582668 17109914 173007 451091 0 0 22291 960694 4991 23282 0 0 (radio 3.-191% / 2.87% tx 0.97% / 0.50% listen 2.-188% / 2.36%)
+541000255:1:10 0 540 0 3855 72 4 0 27756 8303
+541003135:1:DATA recv from 15 'Hello 8'
+541062338:9: 69128 P 0.18 17 505749 17187555 127653 426837 0 0 27692 955192 7355 21487 0 0 (radio 3.-230% / 2.93% tx 0.72% / 0.74% listen 2.41% / 2.18%)
+541068025:5: 69128 P 0.18 17 532347 17160098 167262 322164 0 0 29901 953087 8842 17481 0 0 (radio 2.-167% / 2.67% tx 0.94% / 0.89% listen 1.82% / 1.77%)
+541071899:19: 69128 P 0.18 17 473370 17219261 133891 327488 0 0 22885 959863 6655 16425 0 0 (radio 2.-182% / 2.34% tx 0.75% / 0.67% listen 1.85% / 1.67%)
+541117051:7:DIO sent
+541162128:17: 69128 P 0.18 17 615222 17077132 170257 450790 0 0 27236 955774 6483 23262 0 0 (radio 3.-192% / 3.02% tx 0.96% / 0.65% listen 2.-188% / 2.36%)
+541236957:13: 69128 P 0.18 17 646367 17046772 182021 489220 0 0 26526 956487 5695 22856 0 0 (radio 3.-164% / 2.90% tx 1.02% / 0.57% listen 2.-167% / 2.32%)
+541252280:3: 69128 P 0.18 17 694334 16997967 186381 453826 0 0 37905 944908 10676 23078 0 0 (radio 3.-181% / 3.43% tx 1.05% / 1.08% listen 2.-187% / 2.34%)
+541260039:21: 69128 P 0.18 17 658726 17033544 235875 331608 0 0 38958 943842 15713 18235 0 0 (radio 3.-223% / 3.45% tx 1.33% / 1.59% listen 1.87% / 1.85%)
+541544062:6:DIO sent
+541564406:9:msg sent to sink seqno: 9
+541701512:21:DIO sent
+541891686:1:30 0 541 0 2313 9 3 0 22 3659 0 1511 36051 462 873 771 9 1024 4 16 161 1 98 91 65535 65535 0 0 0 0
+541893807:1:DATA recv from 9 ''
+541937760:20:DIO sent
+542601388:10:DIO sent
+542623395:1:DIO sent
+543192964:13:DIO sent
+544311486:8:DIO sent
+544704383:14:DIO sent
+544977046:5:DATA send to 1 'Hello 9'
+545352701:4:DIO sent
+545610593:1:10 0 544 0 1285 72 3 0 27756 8303
+545613095:1:DATA recv from 5 'Hello 9'
+545619732:19:DIO sent
+545673134:17:DIO sent
+545951328:15:DIO sent
+546188924:16:DIO sent
+547465723:6:DIO sent
+547538774:7:DIO sent
+548067770:6:msg sent to sink seqno: 9
+548112055:1:30 0 547 0 1542 9 1 0 22 4550 0 1537 60537 424 1133 257 8 512 2 16 16 1 209 202 65535 65535 0 0 0 0
+548114176:1:DATA recv from 6 ''
+548559297:21:DIO sent
+548679177:11:DIO sent
+548801900:3:DATA send to 1 'Hello 9'
+549013565:12:DIO sent
+549036332:1:10 0 548 0 771 72 2 0 27756 8303
+549038833:1:DATA recv from 3 'Hello 9'
+549135274:9:DIO sent
+549301939:3:DIO sent
+549367448:20:DIO sent
+549375886:5:DIO sent
+549521928:2:DIO sent
+549846320:18:DIO sent
+550271359:15:DATA send to 1 'Hello 9'
+550306324:9:DATA send to 1 'Hello 9'
+550525539:1:10 0 549 0 2313 72 3 0 27756 8303
+550528040:1:DATA recv from 9 'Hello 9'
+550554572:1:10 0 549 0 3855 72 4 0 27756 8303
+550557452:1:DATA recv from 15 'Hello 9'
+551006678:8:DIO sent
+551506013:10:DIO sent
+551665201:4:DIO sent
+551750502:16:DATA send to 1 'Hello 9'
+551795187:1:DIO sent
+552105974:1:10 0 551 0 4112 72 4 0 27756 8303
+552108930:1:DATA recv from 16 'Hello 9'
+552743903:14:DIO sent
+553365205:13:DIO sent
+554118693:17:DIO sent
+554240711:12:DIO sent
+554240878:15:DIO sent
+554741465:11:DIO sent
+554984086:7:DIO sent
+555223934:3:DIO sent
+555582765:21:DIO sent
+555711446:16:DIO sent
+556086076:20:DIO sent
+556216965:2:DIO sent
+556297366:5:DIO sent
+556528880:3:msg sent to sink seqno: 9
+556598932:13:DATA send to 1 'Hello 9'
+556665561:1:30 0 556 0 771 9 2 0 22 5550 0 1535 36433 434 890 514 10 768 5 16 30 1 223 16 65535 65535 0 0 0 0
+556667683:1:DATA recv from 3 ''
+556719834:1:10 0 556 0 3341 72 3 0 27756 8303
+556722714:1:DATA recv from 13 'Hello 9'
+556871717:19:DIO sent
+556986043:9:DIO sent
+557873202:10:DIO sent
+558379998:6:DIO sent
+559533946:18:DIO sent
+559825564:13:DIO sent
+560546047:8:DIO sent
+560928027:1:DIO sent
+561157205:4:DIO sent
+561272101:15:DIO sent
+561840869:12:DIO sent
+562994039:9:DIO sent
+563062661:11:DIO sent
+563137875:3:DIO sent
+563645440:6:DIO sent
+563666331:17:DIO sent
+563909085:18:msg sent to sink seqno: 9
+564154499:19:DIO sent
+564157504:14:DIO sent
+564164553:5:DIO sent
+564360159:16:DIO sent
+564673879:1:30 0 564 0 4626 9 6 0 22 6568 0 1610 48372 638 762 5397 8 2048 1 16 82 1 19 12 65535 65535 0 0 0 0
+564676379:1:DATA recv from 18 ''
+564718858:20:DIO sent
+564804368:7:DIO sent
+565051610:21:DIO sent
+565474686:2:DIO sent
+565576992:13:msg sent to sink seqno: 9
+565975589:1:30 0 565 0 3341 9 3 0 22 6710 0 1605 49864 387 1203 2570 8 1024 5 16 89 1 26 75 65535 65535 0 0 0 0
+565978092:1:DATA recv from 13 ''
+566351313:11:DATA send to 1 'Hello 9'
+566444009:1:10 0 565 0 2827 72 2 0 27756 8303
+566446889:1:DATA recv from 11 'Hello 9'
+566576386:10:DIO sent
+566902980:21:DATA send to 1 'Hello 9'
+567071704:17:msg sent to sink seqno: 9
+567099361:19:msg sent to sink seqno: 9
+567121771:18:DIO sent
+567995180:1:10 0 567 0 5397 72 5 0 27756 8303
+567998061:1:DATA recv from 21 'Hello 9'
+568107686:1:DIO sent
+568258434:1:30 0 567 0 4883 9 5 0 22 6926 0 1514 62378 383 1071 4112 10 1536 2 16 89 1 26 75 65535 65535 0 0 0 0
+568260934:1:DATA recv from 19 ''
+568326056:15:DIO sent
+568371583:1:30 0 567 0 4369 9 4 0 22 6911 0 1090 38536 254 925 3598 8 1280 3 16 82 1 19 12 65535 65535 0 0 0 0
+568374147:1:DATA recv from 17 ''
+568419283:13:DIO sent
+568743282:14:DATA send to 1 'Hello 9'
+569340261:1:10 0 568 0 3598 72 3 0 27756 8303
+569343206:1:DATA recv from 14 'Hello 9'
+569437898:8:DIO sent
+569500985:4:DIO sent
+570418265:8: 72967 P 0.18 18 612495 18062675 160831 471966 0 0 23926 959074 4995 22275 0 0 (radio 3.-192% / 2.77% tx 0.86% / 0.50% listen 2.-178% / 2.26%)
+570543436:11: 72968 P 0.18 18 739935 17935447 189855 527973 0 0 33976 948782 7955 24819 0 0 (radio 3.-146% / 3.33% tx 1.01% / 0.80% listen 2.-148% / 2.52%)
+570588700:2: 72968 P 0.18 18 556776 18118300 124974 418841 0 0 26308 956693 5610 19872 0 0 (radio 2.-139% / 2.59% tx 0.66% / 0.57% listen 2.24% / 2.02%)
+570603526:6: 72968 P 0.18 18 454166 18221363 120545 358421 0 0 25569 957434 7020 18878 0 0 (radio 2.-174% / 2.63% tx 0.64% / 0.71% listen 1.91% / 1.92%)
+570679033:18: 72968 P 0.18 18 614109 18061263 229837 321085 0 0 22197 960762 5360 14763 0 0 (radio 2.-135% / 2.04% tx 1.23% / 0.54% listen 1.71% / 1.50%)
+570701264:4: 72968 P 0.18 18 574717 18101153 177585 357249 0 0 24725 958036 6654 16908 0 0 (radio 2.-144% / 2.39% tx 0.95% / 0.67% listen 1.91% / 1.72%)
+570755173:7: 72968 P 0.18 18 682371 17993033 133793 477813 0 0 36508 946494 8204 22987 0 0 (radio 3.-203% / 3.17% tx 0.71% / 0.83% listen 2.-175% / 2.33%)
+570802743:14: 72968 P 0.18 18 754959 17920227 187206 545108 0 0 38699 944280 9887 23841 0 0 (radio 3.-138% / 3.43% tx 1.00% / 1.00% listen 2.-139% / 2.42%)
+570815396:15: 72968 P 0.18 18 553165 18121987 168175 409735 0 0 24735 958279 6986 19243 0 0 (radio 3.-221% / 2.66% tx 0.90% / 0.71% listen 2.19% / 1.95%)
+570824986:20: 72968 P 0.18 18 577966 18097832 197004 340897 0 0 23672 959322 6659 15528 0 0 (radio 2.-142% / 2.25% tx 1.05% / 0.67% listen 1.82% / 1.57%)
+570825712:16: 72968 P 0.18 18 596257 18078537 151801 412400 0 0 25152 957696 5436 18310 0 0 (radio 3.-228% / 2.41% tx 0.81% / 0.55% listen 2.20% / 1.86%)
+570909554:10: 72968 P 0.18 18 629545 18045376 162485 480246 0 0 29262 953721 6397 23479 0 0 (radio 3.-186% / 3.03% tx 0.87% / 0.65% listen 2.-173% / 2.38%)
+570947754:12: 72968 P 0.18 18 604066 18071528 176114 473095 0 0 21395 961614 3107 22004 0 0 (radio 3.-183% / 2.55% tx 0.94% / 0.31% listen 2.-177% / 2.23%)
+571024038:16:DIO sent
+571061784:9: 72968 P 0.18 18 531706 18144520 133885 447479 0 0 25954 956965 6232 20642 0 0 (radio 3.-219% / 2.73% tx 0.71% / 0.63% listen 2.-191% / 2.10%)
+571067947:5: 72968 P 0.18 18 554886 18120568 172922 337912 0 0 22536 960470 5660 15748 0 0 (radio 2.-157% / 2.17% tx 0.92% / 0.57% listen 1.80% / 1.60%)
+571071570:19: 72968 P 0.18 18 494434 18181189 137385 344024 0 0 21061 961928 3494 16536 0 0 (radio 2.-173% / 2.03% tx 0.73% / 0.35% listen 1.84% / 1.68%)
+571162327:17: 72968 P 0.18 18 644266 18030869 176786 473495 0 0 29041 953737 6529 22705 0 0 (radio 3.-182% / 2.97% tx 0.94% / 0.66% listen 2.-177% / 2.31%)
+571236797:13: 72968 P 0.18 18 676863 17999230 190096 511705 0 0 30493 952458 8075 22485 0 0 (radio 3.-155% / 3.10% tx 1.01% / 0.82% listen 2.-156% / 2.28%)
+571252248:3: 72968 P 0.18 18 727830 17947342 194571 474619 0 0 33493 949375 8190 20793 0 0 (radio 3.-172% / 2.94% tx 1.04% / 0.83% listen 2.-176% / 2.11%)
+571259440:21: 72968 P 0.18 18 685536 17989725 243690 347689 0 0 26807 956181 7815 16081 0 0 (radio 3.-214% / 2.43% tx 1.30% / 0.79% listen 1.86% / 1.63%)
+571301494:19:DIO sent
+571477113:20:msg sent to sink seqno: 9
+571859925:5:DIO sent
+572228327:1:30 0 571 0 5140 9 5 0 22 7518 0 1102 44019 274 728 4112 20 1792 2 16 96 1 33 26 65535 65535 0 0 0 0
+572230827:1:DATA recv from 20 ''
+572556368:14:DIO sent
+572686963:11:DIO sent
+572813344:20:DIO sent
+573018166:18:DIO sent
+573018642:3:DIO sent
+573058427:12:DIO sent
+573128087:21:DIO sent
+573181190:17:DIO sent
+573634481:9:DIO sent
+574067498:6:DIO sent
+574156113:7:DIO sent
+575461783:2:DIO sent
+575482697:10:DIO sent
+575545699:8:DATA send to 1 'Hello 9'
+575697294:1:10 0 575 0 2056 72 3 0 27756 8303
+575699796:1:DATA recv from 8 'Hello 9'
+575915205:4:DIO sent
+576217625:2:msg sent to sink seqno: 9
+576268078:1:30 0 575 0 514 9 1 0 22 8155 0 1340 44365 315 933 257 8 512 2 16 182 1 119 112 65535 65535 0 0 0 0
+576270204:1:DATA recv from 2 ''
+576537775:8:DIO sent
+576849354:12:msg sent to sink seqno: 9
+577335543:1:30 0 576 0 3084 9 4 0 22 8190 0 1090 42797 219 1034 2056 9 1280 4 16 12 1 205 254 65535 65535 0 0 0 0
+577338044:1:DATA recv from 12 ''
+577881116:1:DIO sent
+578458986:2:DATA send to 1 'Hello 9'
+578498014:1:10 0 577 0 514 72 1 0 27756 8303
+578500581:1:DATA recv from 2 'Hello 9'
+578677647:15:DIO sent
+579119684:18:DATA send to 1 'Hello 9'
+579135183:9:DIO sent
+579327786:7:DATA send to 1 'Hello 9'
+579434857:19:DIO sent
+579546762:11:DIO sent
+579579582:1:10 0 578 0 1799 72 1 0 27756 8303
+579582083:1:DATA recv from 7 'Hello 9'
+579708283:13:DIO sent
+579818281:1:10 0 579 0 4626 72 6 0 27756 8303
+579821226:1:DATA recv from 18 'Hello 9'
+580006434:21:msg sent to sink seqno: 9
+580184401:12:DIO sent
+580462940:1:30 0 579 0 5397 9 5 0 22 8554 0 1466 37356 534 702 4369 19 1792 2 16 89 1 26 75 65535 65535 0 0 0 0
+580465441:1:DATA recv from 21 ''
+580621888:12:DATA send to 1 'Hello 9'
+581119880:14:DIO sent
+581236031:4:DATA send to 1 'Hello 9'
+581274178:17:DIO sent
+581362178:1:10 0 580 0 3084 72 4 0 27756 8303
+581365058:1:DATA recv from 12 'Hello 9'
+581507118:8:msg sent to sink seqno: 9
+581539737:5:DIO sent
+581750539:16:DIO sent
+582100767:1:10 0 581 0 1028 72 4 0 27756 8303
+582103270:1:DATA recv from 4 'Hello 9'
+582298018:1:30 0 581 0 2056 9 3 0 22 8853 0 1331 41636 325 1009 771 12 1024 5 16 37 1 230 223 65535 65535 0 0 0 0
+582300142:1:DATA recv from 8 ''
+582367758:8:DAO sent
+582382615:7:DIO sent
+582459894:8:DIO sent
+582482467:2:DIO sent
+582592217:12:DIO sent
+582592555:8:DIO sent
+582711307:8:DIO sent
+582730312:3:DIO sent
+582731246:12:DIO sent
+582814978:18:DIO sent
+582848931:6:DIO sent
+582869256:1:DIO sent
+582926771:12:DIO sent
+583006524:8:DIO sent
+583013919:21:DIO sent
+583107497:10:DATA send to 1 'Hello 9'
+583129745:12:DIO sent
+583306568:1:10 0 582 0 2570 72 2 0 27756 8303
+583309449:1:DATA recv from 10 'Hello 9'
+583400658:4:msg sent to sink seqno: 9
+583428582:8:DIO sent
+583709405:12:DIO sent
+583793576:1:30 0 583 0 1028 9 4 0 22 9060 0 1182 47294 277 879 1285 8 1280 3 16 89 1 26 75 65535 65535 0 0 0 0
+583795776:1:DATA recv from 4 ''
+584204729:20:DIO sent
+584625470:15:msg sent to sink seqno: 9
+584647241:8:DIO sent
+584785998:12:DIO sent
+585002985:1:30 0 584 0 3855 9 4 0 22 9202 0 1013 39897 257 857 3341 12 1280 2 16 82 1 19 68 65535 65535 0 0 0 0
+585005486:1:DATA recv from 15 ''
+585591923:10:DIO sent
+585841310:13:DIO sent
+586258920:4:DIO sent
+586348404:12:DIO sent
+586678586:8:DIO sent
+587396549:15:DIO sent
+587533519:14:msg sent to sink seqno: 9
+587745634:1:30 0 587 0 3598 9 3 0 22 9576 0 1121 33138 244 878 2827 10 1024 5 16 89 1 26 19 65535 65535 0 0 0 0
+587748137:1:DATA recv from 14 ''
+587859974:16:DIO sent
+588004819:6:DIO sent
+588577432:11:DIO sent
+588590710:6:DATA send to 1 'Hello 9'
+588606091:19:DIO sent
+588642775:5:msg sent to sink seqno: 9
+588662128:2:DIO sent
+588688814:14:DIO sent
+588851212:8:DAO sent
+588900491:5:DIO sent
+588904109:1:10 0 588 0 1542 72 1 0 27756 8303
+588906678:1:DATA recv from 6 'Hello 9'
+588961677:17:DIO sent
+589000046:7:DIO sent
+589220050:1:30 0 588 0 1285 9 3 0 22 9684 0 1508 49561 420 962 771 13 1024 2 16 44 1 237 30 65535 65535 0 0 0 0
+589222172:1:DATA recv from 5 ''
+589869071:9:DIO sent
+590049414:18:DIO sent
+590480103:3:DIO sent
+590481177:21:DIO sent
+590481623:8:DIO sent
+591070420:20:DIO sent
+591075577:12:DIO sent
+593302949:10:DIO sent
+593383955:4:DIO sent
+593517694:1:DIO sent
+593536469:13:DIO sent
+593859572:11:msg sent to sink seqno: 9
+593985727:17:DATA send to 1 'Hello 9'
+594035828:1:30 0 593 0 2827 9 2 0 22 10419 0 2146 55770 576 1477 1799 9 768 3 16 89 1 26 75 65535 65535 0 0 0 0
+594038365:1:DATA recv from 11 ''
+594379108:1:10 0 593 0 4369 72 4 0 27756 8303
+594382053:1:DATA recv from 17 'Hello 9'
+595305352:16:DIO sent
+595399351:7:msg sent to sink seqno: 9
+595419986:15:DIO sent
+595450850:1:30 0 594 0 1799 9 1 0 22 10589 0 1473 40518 304 1045 257 8 512 4 16 10 1 203 196 65535 65535 0 0 0 0
+595453049:1:DATA recv from 7 ''
+595513045:12:DIO sent
+595666298:17:DIO sent
+596250034:20:DATA send to 1 'Hello 9'
+596856598:1:10 0 596 0 5140 72 5 0 27756 8303
+596859477:1:DATA recv from 20 'Hello 9'
+596977954:16:msg sent to sink seqno: 9
+597001822:9:DIO sent
+597024569:14:DIO sent
+597207563:19:DIO sent
+597223249:8:DIO sent
+597311838:10:msg sent to sink seqno: 9
+597428588:1:30 0 596 0 2570 9 2 0 22 10814 0 1688 55434 410 1359 1799 8 768 5 16 103 1 40 89 65535 65535 0 0 0 0
+597431088:1:DATA recv from 10 ''
+597875016:20:DIO sent
+597962151:7:DIO sent
+597965727:6:DIO sent
+598109001:2:DIO sent
+598146519:10:DIO sent
+598296087:1:30 0 597 0 4112 9 4 0 22 10782 0 1421 48094 356 989 3598 10 1280 4 16 82 1 19 12 65535 65535 0 0 0 0
+598298588:1:DATA recv from 16 ''
+598489437:3:DIO sent
+598554177:11:DIO sent
+599043703:21:DIO sent
+599302963:1:DIO sent
+599433757:18:DIO sent
+599438174:5:DIO sent
+TEST TIMEOUT
+TEST FAILED
+Test ended at simulation time: 600000000
